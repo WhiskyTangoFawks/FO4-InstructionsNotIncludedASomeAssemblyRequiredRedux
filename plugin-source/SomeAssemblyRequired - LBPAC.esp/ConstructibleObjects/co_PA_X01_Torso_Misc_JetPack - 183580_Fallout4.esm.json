@@ -1,0 +1,64 @@
+{
+  "FormKey": "183580:Fallout4.esm",
+  "EditorID": "co_PA_X01_Torso_Misc_JetPack",
+  "Components": [
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 10
+    },
+    {
+      "Component": "01FAB3:Fallout4.esm",
+      "Count": 12
+    },
+    {
+      "Component": "01FA97:Fallout4.esm",
+      "Count": 9
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 7
+    },
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 8
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "16578F:Fallout4.esm",
+        "ParameterOneNumber": 1464207
+      }
+    },
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "1797EA:Fallout4.esm",
+        "ParameterOneNumber": 1546218
+      }
+    }
+  ],
+  "CreatedObject": "18357C:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

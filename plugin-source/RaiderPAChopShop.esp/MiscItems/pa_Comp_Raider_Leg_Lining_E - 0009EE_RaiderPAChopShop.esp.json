@@ -1,0 +1,22 @@
+{
+  "FormKey": "0009EE:RaiderPAChopShop.esp",
+  "EditorID": "pa_Comp_Raider_Leg_Lining_E",
+  "ObjectBounds": {
+    "First": "-14, -4, 0",
+    "Second": "14, 5, 7"
+  },
+  "PreviewTransform": "248769:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Buttressed Leg Plate"
+  },
+  "Model": {
+    "File": "Props\\ModsPartBox\\ModCrate.nif",
+    "Data": "0x0400000004000000000000000200000001000000A694EAF564647300CCD97AD77FF8EC9664647300CCD97AD76111397664647300CCD97AD771D5D693646473001CDB88C592294F856267736D9716E4B2"
+  },
+  "Keywords": [
+    "135C17:Fallout4.esm"
+  ],
+  "Value": 55,
+  "Weight": 1.0
+}

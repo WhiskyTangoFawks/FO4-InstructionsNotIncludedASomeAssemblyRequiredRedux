@@ -1,0 +1,4 @@
+{"version":1,"steps":[
+{"copy":["Scripts"]},
+{"compile":["RaiderPAChopShop.esp","SomeAssemblyRequired - LBPAC.esp"]}
+]}

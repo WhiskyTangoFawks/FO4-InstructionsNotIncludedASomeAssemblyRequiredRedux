@@ -1,0 +1,43 @@
+{
+  "FormKey": "1D020D:Fallout4.esm",
+  "EditorID": "co_PA_Raider_Leg_Misc_APRegen",
+  "Components": [
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FAB3:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "GreaterThan",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "GetItemCount",
+        "ParameterOneRecord": "000809:SomeAssemblyRequired - LBPAC.esp",
+        "ParameterOneNumber": 167774217
+      }
+    }
+  ],
+  "CreatedObject": "1D0253:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

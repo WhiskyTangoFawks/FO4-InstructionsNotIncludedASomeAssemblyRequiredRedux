@@ -1,0 +1,113 @@
+{
+  "FormKey": "027052:DLCCoast.esm",
+  "MajorRecordFlagsRaw": 8208,
+  "EditorID": "ADV08_Vim_Terminal_CEO",
+  "Fallout4MajorRecordFlags": [
+    "0x10",
+    "0x2000"
+  ],
+  "ObjectBounds": {
+    "First": "-20, -82, 0",
+    "Second": "20, 38, 111"
+  },
+  "HeaderText": {
+    "TargetLanguage": "English",
+    "Value": "              ..:: Vim! Pop Inc. ::.."
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "CEO's Terminal"
+  },
+  "Model": {
+    "File": "Furniture\\Terminals\\TerminalOnCordedChairIndustrial.nif",
+    "Data": "0x0400000012000000000000000A0000000400000028E4AA0D646473006BF2F233F188AC6E646473006BF2F233F7715D2464647300BE643C4CBF79ECA764647300BE643C4C05AC3BBF64647300514B8577DCC03DDC64647300514B857781EE16D064647300514B8577588210B364647300514B8577466BC55364647300514B8577C229E83C64647300514B8577E1704A5764647300514B8577B076E385646473007B24D06C9308AE366464730038973CEA24389F9F646473001CDB88C5EF61798E646473006BF2F233FF6512FD6464730038973CEA7EEF02FC64647300582C5533C80FD0FC6464730038973CEA1F0637246267736DE25D598B9A7F25C36267736DE25D598B7DE3679B6267736DDE5EE364244DBE596267736DF9F818BD"
+  },
+  "Keywords": [
+    "10F78B:Fallout4.esm",
+    "06D5BB:Fallout4.esm",
+    "0A56D7:Fallout4.esm"
+  ],
+  "PNAM": "0xCC4C3300",
+  "FNAM": "0x0000",
+  "Flags": [
+    "HasModel"
+  ],
+  "WorkbenchData": "0x00",
+  "MarkerModel": "Markers\\MarkerDeskTerminal3rdP.nif",
+  "MarkerParameters": [
+    {
+      "Enabled": true,
+      "Offset": "0, -61, 0",
+      "EntryTypes": [
+        "Front",
+        "Behind",
+        "Right",
+        "Left",
+        "Other",
+        "0x20",
+        "0x40",
+        "0x80"
+      ],
+      "Unknown": "0xFFFFFF"
+    }
+  ],
+  "BodyTexts": [
+    {
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "\r\n===================================================         <User \"Doyle Reed\" signed in>          =\r\n==================================================\r\n\r\n\r\n\r\n"
+      }
+    }
+  ],
+  "MenuItems": [
+    {
+      "ItemText": {
+        "TargetLanguage": "English",
+        "Value": "It's happened"
+      },
+      "Type": "DisplayText",
+      "ItemId": 3,
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "The air sirens went off. I've locked myself in my office, but the reports I've heard on the radio are not good. I can't imagine they would attack here, but who knows what the Chinese will do. Shit. I just heard an explosion outside the building! It can't be them! Why the hell would they attack a pop factory? Oh god, I've got to get out of here."
+      }
+    },
+    {
+      "ItemText": {
+        "TargetLanguage": "English",
+        "Value": "Meeting with investors"
+      },
+      "Type": "DisplayText",
+      "ItemId": 2,
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "Looks like I'm going to have to meet with the members of the board to clear up this take over mess. I'm not going to let Nuka bully me into selling the company. We already lost the trademark battle on Quartz. We're probably going to have to cease sales of it by the end of next year. I just need to get them to keep faith till we can get Captain's Blend out and start shipping our drinks nationally. We've finally got everything nearly in place. We just need to get over the last few hurdles and we can compete on a large scale.\r\n\r\n"
+      }
+    },
+    {
+      "ItemText": {
+        "TargetLanguage": "English",
+        "Value": "Power armor"
+      },
+      "Type": "DisplayText",
+      "ItemId": 4,
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "We got the two suits the army promised us yesterday afternoon. The guys down on the factory floor looked them over and it seems we’ve been handed the really defective models. Guess I shouldn’t be surprised - not like they’d give us their best when they’ve got a war to fight. One of the suits has some misaligned servos, so rapid movement’s out of the question. Fortunately all the guy inside has to do is walk down the waterfront handing out samples. The other has a broken power coil and is going through its fusion core way too fast. We’ll keep that one in the factory and see if we can fix it. I don’t want us to spend any more money on fusion cores than we have to."
+      }
+    },
+    {
+      "ItemText": {
+        "TargetLanguage": "English",
+        "Value": "Internal Mail Relay"
+      },
+      "Type": "SubmenuTerminal",
+      "ItemId": 1,
+      "Submenu": "05425D:DLCCoast.esm"
+    }
+  ],
+  "MajorFlags": [
+    "0x10",
+    "0x2000"
+  ]
+}

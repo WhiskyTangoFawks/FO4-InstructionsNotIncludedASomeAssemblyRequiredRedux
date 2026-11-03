@@ -1,0 +1,356 @@
+{
+  "FormKey": "01D322:Fallout4.esm",
+  "EditorID": "PowerArmorBodyPartData",
+  "Model": {
+    "File": "actors\\PowerArmor\\CharacterAssets\\skeleton.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Parts": [
+    {
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Camera"
+      },
+      "PartNode": "Camera",
+      "VatsTarget": "Camera",
+      "DamageMult": 1.0,
+      "ExplodableDebrisScale": 1.0,
+      "SeverableDebrisScale": 1.0,
+      "ExplodableLimbReplacementScale": 1.0,
+      "Type": "Camera",
+      "OnCrippleDebrisScale": 1.0,
+      "LimbReplacementModel": "",
+      "GoreTargetBone": "Back_Armor",
+      "TextureFilesHashes": "0x00000000",
+      "HitReactionStart": "Back_Armor",
+      "HitReactionEnd": "Back_Armor",
+      "TwistVariablePrefix": ""
+    },
+    {
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Torso"
+      },
+      "PartNode": "Chest",
+      "VatsTarget": "Chest",
+      "DamageMult": 1.0,
+      "ExplodableExplosion": "060BE0:Fallout4.esm",
+      "ExplodableDebrisScale": 1.0,
+      "SeverableDebrisScale": 1.0,
+      "ExplodableLimbReplacementScale": 1.0,
+      "Flags": [
+        "HitReaction",
+        "HitReactionDefault",
+        "OnCripple"
+      ],
+      "HealthPercent": 0.29411764705882354,
+      "ActorValue": "0002F0:Fallout4.esm",
+      "ToHitChance": 0.23529411764705882,
+      "ExplosionChance": 0.39215686274509803,
+      "GeometrySegmentIndex": 3,
+      "OnCrippleExplosion": "060BE0:Fallout4.esm",
+      "OnCrippleDebrisScale": 1.0,
+      "LimbReplacementModel": "",
+      "GoreTargetBone": "Chest",
+      "TextureFilesHashes": "0x00000000",
+      "HitReactionStart": "SPINE1",
+      "HitReactionEnd": "Chest",
+      "TwistVariablePrefix": "Spine"
+    },
+    {
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "COM"
+      },
+      "PartNode": "COM",
+      "VatsTarget": "COM",
+      "DamageMult": 1.0,
+      "ExplodableDebrisScale": 1.0,
+      "SeverableDebrisScale": 1.0,
+      "ExplodableLimbReplacementScale": 1.0,
+      "Type": "COM",
+      "HealthPercent": 0.0196078431372549,
+      "OnCrippleDebrisScale": 1.0,
+      "LimbReplacementModel": "",
+      "GoreTargetBone": "AnimObjectA",
+      "TextureFilesHashes": "0x00000000",
+      "HitReactionStart": "AnimObjectA",
+      "HitReactionEnd": "AnimObjectA",
+      "TwistVariablePrefix": ""
+    },
+    {
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Head"
+      },
+      "PartNode": "Head",
+      "VatsTarget": "Head",
+      "DamageMult": 2.0,
+      "ExplodableExplosion": "060BDF:Fallout4.esm",
+      "ExplodableDebrisScale": 1.0,
+      "SeverableDebrisScale": 1.0,
+      "ExplodableLimbReplacementScale": 1.0,
+      "Flags": [
+        "HitReaction",
+        "OnCripple"
+      ],
+      "Type": "Head1",
+      "HealthPercent": 0.0784313725490196,
+      "ActorValue": "0002EF:Fallout4.esm",
+      "ToHitChance": 0.0784313725490196,
+      "ExplosionChance": 0.39215686274509803,
+      "GeometrySegmentIndex": 1,
+      "OnCrippleExplosion": "060BDF:Fallout4.esm",
+      "OnCrippleDebrisScale": 1.0,
+      "LimbReplacementModel": "",
+      "GoreTargetBone": "Head",
+      "TextureFilesHashes": "0x00000000",
+      "HitReactionStart": "Neck",
+      "HitReactionEnd": "Head",
+      "TwistVariablePrefix": "Head"
+    },
+    {
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Headtracking"
+      },
+      "PartNode": "Head_skin",
+      "VatsTarget": "AnimObjectA",
+      "DamageMult": 1.0,
+      "ExplodableDebrisScale": 1.0,
+      "SeverableDebrisScale": 1.0,
+      "ExplodableLimbReplacementScale": 1.0,
+      "Type": "Eye",
+      "OnCrippleDebrisScale": 1.0,
+      "LimbReplacementModel": "",
+      "GoreTargetBone": "AnimObjectA",
+      "TextureFilesHashes": "0x00000000",
+      "HitReactionStart": "AnimObjectA",
+      "HitReactionEnd": "AnimObjectA",
+      "TwistVariablePrefix": ""
+    },
+    {
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Left Arm"
+      },
+      "PartNode": "LArm_UpperArm",
+      "VatsTarget": "LArm_UpperTwist1",
+      "DamageMult": 1.0,
+      "ExplodableExplosion": "060BDD:Fallout4.esm",
+      "ExplodableDebrisScale": 1.0,
+      "SeverableDebrisScale": 1.0,
+      "ExplodableLimbReplacementScale": 1.0,
+      "Flags": [
+        "OnCripple"
+      ],
+      "Type": "LeftArm1",
+      "HealthPercent": 0.09803921568627451,
+      "ActorValue": "0002F1:Fallout4.esm",
+      "ToHitChance": 0.17647058823529413,
+      "ExplosionChance": 0.39215686274509803,
+      "GeometrySegmentIndex": 4,
+      "OnCrippleExplosion": "060BDD:Fallout4.esm",
+      "OnCrippleDebrisScale": 1.0,
+      "LimbReplacementModel": "",
+      "GoreTargetBone": "LArm_UpperArm",
+      "TextureFilesHashes": "0x00000000",
+      "HitReactionStart": "Back_Armor",
+      "HitReactionEnd": "Back_Armor",
+      "GoreEffectsDismemberBloodArt": "043A46:Fallout4.esm",
+      "GoreEffectsBloodImpactMaterialType": "0223D1:Fallout4.esm",
+      "TwistVariablePrefix": ""
+    },
+    {
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "LFoot"
+      },
+      "PartNode": "LLeg_Foot",
+      "VatsTarget": "LLeg_Foot",
+      "DamageMult": 1.0,
+      "ExplodableDebrisScale": 1.0,
+      "SeverableDebrisScale": 1.0,
+      "ExplodableLimbReplacementScale": 1.0,
+      "Flags": [
+        "OnCripple"
+      ],
+      "Type": "LeftFoot",
+      "HealthPercent": 0.13725490196078433,
+      "ActorValue": "00035E:Fallout4.esm",
+      "ToHitChance": 0.19607843137254902,
+      "OnCrippleExplosion": "060BE2:Fallout4.esm",
+      "OnCrippleDebrisScale": 1.0,
+      "LimbReplacementModel": "",
+      "GoreTargetBone": "Back_Armor",
+      "TextureFilesHashes": "0x00000000",
+      "HitReactionStart": "Back_Armor",
+      "HitReactionEnd": "Back_Armor",
+      "TwistVariablePrefix": ""
+    },
+    {
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Left Leg"
+      },
+      "PartNode": "LLeg_Thigh",
+      "VatsTarget": "LLeg_Calf",
+      "DamageMult": 1.0,
+      "ExplodableExplosion": "060BE2:Fallout4.esm",
+      "ExplodableDebrisScale": 1.0,
+      "SeverableDebrisScale": 1.0,
+      "ExplodableLimbReplacementScale": 1.0,
+      "Flags": [
+        "OnCripple"
+      ],
+      "Type": "LeftLeg1",
+      "HealthPercent": 0.13725490196078433,
+      "ActorValue": "00035E:Fallout4.esm",
+      "ToHitChance": 0.19607843137254902,
+      "ExplosionChance": 0.39215686274509803,
+      "GeometrySegmentIndex": 6,
+      "OnCrippleExplosion": "060BE2:Fallout4.esm",
+      "OnCrippleDebrisScale": 1.0,
+      "LimbReplacementModel": "",
+      "GoreTargetBone": "LLeg_Thigh",
+      "TextureFilesHashes": "0x00000000",
+      "HitReactionStart": "Back_Armor",
+      "HitReactionEnd": "Back_Armor",
+      "TwistVariablePrefix": ""
+    },
+    {
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Right Arm"
+      },
+      "PartNode": "RArm_UpperArm",
+      "VatsTarget": "RArm_UpperTwist1",
+      "DamageMult": 1.0,
+      "ExplodableExplosion": "060BDE:Fallout4.esm",
+      "ExplodableDebrisScale": 1.0,
+      "SeverableDebrisScale": 1.0,
+      "ExplodableLimbReplacementScale": 1.0,
+      "Flags": [
+        "OnCripple"
+      ],
+      "Type": "RightArm1",
+      "HealthPercent": 0.09803921568627451,
+      "ActorValue": "00035D:Fallout4.esm",
+      "ToHitChance": 0.17647058823529413,
+      "ExplosionChance": 0.39215686274509803,
+      "GeometrySegmentIndex": 2,
+      "OnCrippleExplosion": "060BDE:Fallout4.esm",
+      "OnCrippleDebrisScale": 1.0,
+      "LimbReplacementModel": "",
+      "GoreTargetBone": "RArm_UpperArm",
+      "TextureFilesHashes": "0x00000000",
+      "HitReactionStart": "Back_Armor",
+      "HitReactionEnd": "Back_Armor",
+      "TwistVariablePrefix": ""
+    },
+    {
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "RFoot"
+      },
+      "PartNode": "RLeg_Foot",
+      "VatsTarget": "RLeg_Foot",
+      "DamageMult": 1.0,
+      "ExplodableDebrisScale": 1.0,
+      "SeverableDebrisScale": 1.0,
+      "ExplodableLimbReplacementScale": 1.0,
+      "Flags": [
+        "OnCripple"
+      ],
+      "Type": "RightFoot",
+      "HealthPercent": 0.13725490196078433,
+      "ActorValue": "000388:Fallout4.esm",
+      "ToHitChance": 0.19607843137254902,
+      "OnCrippleExplosion": "060BE1:Fallout4.esm",
+      "OnCrippleDebrisScale": 1.0,
+      "LimbReplacementModel": "",
+      "GoreTargetBone": "Back_Armor",
+      "TextureFilesHashes": "0x00000000",
+      "HitReactionStart": "Back_Armor",
+      "HitReactionEnd": "Back_Armor",
+      "TwistVariablePrefix": ""
+    },
+    {
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Right Leg"
+      },
+      "PartNode": "RLeg_Thigh",
+      "VatsTarget": "RLeg_Calf",
+      "DamageMult": 1.0,
+      "ExplodableExplosion": "060BE1:Fallout4.esm",
+      "ExplodableDebrisScale": 1.0,
+      "SeverableDebrisScale": 1.0,
+      "ExplodableLimbReplacementScale": 1.0,
+      "Flags": [
+        "OnCripple"
+      ],
+      "Type": "RightLeg1",
+      "HealthPercent": 0.13725490196078433,
+      "ActorValue": "000388:Fallout4.esm",
+      "ToHitChance": 0.19607843137254902,
+      "GeometrySegmentIndex": 5,
+      "OnCrippleExplosion": "060BE1:Fallout4.esm",
+      "OnCrippleDebrisScale": 1.0,
+      "LimbReplacementModel": "",
+      "GoreTargetBone": "RLeg_Thigh",
+      "TextureFilesHashes": "0x00000000",
+      "HitReactionStart": "Back_Armor",
+      "HitReactionEnd": "Back_Armor",
+      "TwistVariablePrefix": ""
+    },
+    {
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Root"
+      },
+      "PartNode": "Root",
+      "VatsTarget": "Root",
+      "DamageMult": 1.0,
+      "ExplodableDebrisScale": 1.0,
+      "SeverableDebrisScale": 1.0,
+      "ExplodableLimbReplacementScale": 1.0,
+      "Type": "Root",
+      "OnCrippleDebrisScale": 1.0,
+      "LimbReplacementModel": "",
+      "GoreTargetBone": "Back_Armor",
+      "TextureFilesHashes": "0x00000000",
+      "HitReactionStart": "Back_Armor",
+      "HitReactionEnd": "Back_Armor",
+      "TwistVariablePrefix": ""
+    },
+    {
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Fusion Core"
+      },
+      "PartNode": "Wheel",
+      "VatsTarget": "Wheel",
+      "DamageMult": 0.2,
+      "ExplodableDebrisScale": 1.0,
+      "SeverableDebrisScale": 1.0,
+      "ExplodableLimbReplacementScale": 1.0,
+      "Flags": [
+        "OnCripple"
+      ],
+      "Type": "Head2",
+      "HealthPercent": 0.0196078431372549,
+      "ActorValue": "000373:Fallout4.esm",
+      "ToHitChance": 0.0196078431372549,
+      "GeometrySegmentIndex": 59,
+      "OnCrippleExplosion": "0F17EC:Fallout4.esm",
+      "OnCrippleDebrisScale": 1.0,
+      "LimbReplacementModel": "",
+      "GoreTargetBone": "AnimObjectA",
+      "TextureFilesHashes": "0x00000000",
+      "HitReactionStart": "AnimObjectA",
+      "HitReactionEnd": "AnimObjectA",
+      "TwistVariablePrefix": ""
+    }
+  ]
+}

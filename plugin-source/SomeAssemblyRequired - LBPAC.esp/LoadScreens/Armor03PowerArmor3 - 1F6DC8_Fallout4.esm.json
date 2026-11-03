@@ -1,0 +1,18 @@
+{
+  "FormKey": "1F6DC8:Fallout4.esm",
+  "EditorID": "Armor03PowerArmor3",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Not all power armor mods can be attached to any suit. High-tech ones such as jet packs are only available for the most advanced armor models."
+  },
+  "LoadingScreenNif": "20F444:Fallout4.esm",
+  "Transform": "20F445:Fallout4.esm",
+  "Rotation": {
+    "Min": -180,
+    "Max": 180
+  },
+  "Zoom": {
+    "Min": -1.5,
+    "Max": 1.6
+  }
+}

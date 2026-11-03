@@ -1,0 +1,81 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "181008:Fallout4.esm",
+  "EditorID": "PA_T60_Helmet_Lining_E",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Model E"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Sentinel. Improves Carry Weight and Movement Speed."
+  },
+  "AttachPoint": "17DAA9:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "182CD5:Fallout4.esm",
+    "18DFC4:Fallout4.esm",
+    "18DFC9:Fallout4.esm"
+  ],
+  "LooseMod": "181002:Fallout4.esm",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "18816E:Fallout4.esm",
+      "Value": 371,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.2,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.2,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Rating",
+      "Value": 80,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "DamageTypeValue",
+      "Record": "060A81:Fallout4.esm",
+      "Value": 80.0,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "ActorValues",
+      "Record": "0002DC:Fallout4.esm",
+      "Value": 5.0,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "ActorValues",
+      "Record": "0002DA:Fallout4.esm",
+      "Value": 2.0,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Health",
+      "Value": 60,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "20749D:Fallout4.esm",
+      "Value": 371,
+      "FunctionType": "Remove"
+    }
+  ]
+}

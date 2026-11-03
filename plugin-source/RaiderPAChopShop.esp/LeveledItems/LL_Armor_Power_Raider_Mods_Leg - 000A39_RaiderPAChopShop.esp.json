@@ -1,0 +1,54 @@
+{
+  "FormKey": "000A39:RaiderPAChopShop.esp",
+  "EditorID": "LL_Armor_Power_Raider_Mods_Leg",
+  "FormVersion": 124,
+  "MaxCount": 0,
+  "Flags": [
+    "CalculateFromAllLevelsLessThanOrEqualPlayer",
+    "CalculateForEachItemInCount"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 11,
+        "Reference": "184185:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 15,
+        "Reference": "00086D:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 19,
+        "Reference": "0009E9:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 23,
+        "Reference": "0009EE:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 27,
+        "Reference": "0009F1:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 29,
+        "Reference": "1D0235:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ]
+}

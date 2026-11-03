@@ -1,0 +1,47 @@
+{
+  "FormKey": "00085B:ccBGSFO4115-X02.esl",
+  "EditorID": "ccBGSFO4115_co_PA_X02_Arm_Misc_Bleed",
+  "Components": [
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FA9A:Fallout4.esm",
+      "Count": 4
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "04B253:Fallout4.esm",
+        "ParameterOneNumber": 307795
+      }
+    }
+  ],
+  "CreatedObject": "0008D9:ccBGSFO4115-X02.esl",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

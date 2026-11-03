@@ -1,0 +1,54 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "182D0D:Fallout4.esm",
+  "EditorID": "PA_T45_Leg_Lining_C",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Model C"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Aramid weave lining. Improves Energy resistance."
+  },
+  "AttachPoint": "17DAA9:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFC5:Fallout4.esm",
+    "18DFCD:Fallout4.esm",
+    "18DFC4:Fallout4.esm"
+  ],
+  "LooseMod": "182CE9:Fallout4.esm",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "18816C:Fallout4.esm",
+      "Value": 371,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.05,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.05,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "DamageTypeValue",
+      "Record": "060A81:Fallout4.esm",
+      "Value": 60.0,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Health",
+      "Value": 15,
+      "FunctionType": "Add"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "FormKey": "18AE1F:Fallout4.esm",
+  "EditorID": "LL_Armor_Power_Raider_ArmLeft",
+  "FormVersion": 119,
+  "MaxCount": 0,
+  "Flags": [
+    "CalculateFromAllLevelsLessThanOrEqualPlayer",
+    "CalculateForEachItemInCount"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": 28703,
+        "Reference": "153395:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 10,
+        "Unused": 28703,
+        "Reference": "153396:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 15,
+        "Reference": "0008FC:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 20,
+        "Reference": "000A24:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 25,
+        "Reference": "000A25:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 30,
+        "Reference": "000A26:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    }
+  ]
+}

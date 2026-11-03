@@ -1,0 +1,60 @@
+{
+  "FormKey": "1D020B:Fallout4.esm",
+  "EditorID": "co_PA_T60_Leg_Misc_OptimizedServos",
+  "Components": [
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAB0:Fallout4.esm",
+      "Count": 6
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "0264DB:Fallout4.esm",
+        "ParameterOneNumber": 156891
+      }
+    },
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "04B255:Fallout4.esm",
+        "ParameterOneNumber": 307797
+      }
+    }
+  ],
+  "CreatedObject": "1D024A:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "FormKey": "17FE25:Fallout4.esm",
+  "EditorID": "EnchPA_BatteryDamageRateX01",
+  "FormVersion": 122,
+  "EnchantType": "Enchantment",
+  "Effects": [
+    {
+      "BaseEffect": "16939E:Fallout4.esm",
+      "Data": {
+        "Magnitude": 0.15
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "182D19:Fallout4.esm",
+  "EditorID": "PA_T45_Leg_Lining_E",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Model E"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "HECU Marine. Increases resistance to Radiation and Poison."
+  },
+  "AttachPoint": "17DAA9:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFC5:Fallout4.esm",
+    "18DFCD:Fallout4.esm",
+    "18DFC4:Fallout4.esm"
+  ],
+  "LooseMod": "182CF5:Fallout4.esm",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "18816E:Fallout4.esm",
+      "Value": 651,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.2,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.2,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Rating",
+      "Value": 60,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "DamageTypeValue",
+      "Record": "060A81:Fallout4.esm",
+      "Value": 60.0,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "DamageTypeValue",
+      "Record": "060A85:Fallout4.esm",
+      "Value": 65.0,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "DamageTypeValue",
+      "Record": "060A84:Fallout4.esm",
+      "Value": 10.0,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Health",
+      "Value": 40,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "001067:AOSuperAlloysCohesion.esp",
+      "Value": 371,
+      "FunctionType": "Remove"
+    }
+  ]
+}

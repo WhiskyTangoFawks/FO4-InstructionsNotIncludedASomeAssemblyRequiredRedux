@@ -1,0 +1,43 @@
+{
+  "FormKey": "000882:RaiderPAChopShop.esp",
+  "EditorID": "co_PA_Raider_Leg_Lining_C",
+  "Components": [
+    {
+      "Component": "01FA97:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAB0:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "04B254:Fallout4.esm",
+        "ParameterOneNumber": 307796
+      }
+    }
+  ],
+  "CreatedObject": "000869:RaiderPAChopShop.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

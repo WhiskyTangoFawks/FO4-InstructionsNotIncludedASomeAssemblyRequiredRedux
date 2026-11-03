@@ -1,0 +1,43 @@
+{
+  "FormKey": "2057DE:Fallout4.esm",
+  "EditorID": "co_PA_T45_Material_Rad",
+  "Components": [
+    {
+      "Component": "01FAAD:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 5
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "04B254:Fallout4.esm",
+        "ParameterOneNumber": 307796
+      }
+    }
+  ],
+  "CreatedObject": "2057D9:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

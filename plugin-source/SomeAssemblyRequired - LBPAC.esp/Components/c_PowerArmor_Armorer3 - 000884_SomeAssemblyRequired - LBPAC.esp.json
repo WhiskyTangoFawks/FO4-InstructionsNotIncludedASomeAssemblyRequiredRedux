@@ -1,0 +1,12 @@
+{
+  "FormKey": "000884:SomeAssemblyRequired - LBPAC.esp",
+  "EditorID": "c_PowerArmor_Armorer3",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Perk: Armorer"
+  },
+  "CraftingSound": "020A53:Fallout4.esm",
+  "AutoCalcValue": 3,
+  "ScrapItem": "000859:SomeAssemblyRequired - LBPAC.esp",
+  "ModScrapScalar": "1E8C91:Fallout4.esm"
+}

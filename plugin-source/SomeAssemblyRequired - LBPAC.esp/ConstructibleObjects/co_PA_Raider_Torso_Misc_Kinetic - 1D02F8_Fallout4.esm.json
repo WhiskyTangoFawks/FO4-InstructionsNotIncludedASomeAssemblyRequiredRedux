@@ -1,0 +1,47 @@
+{
+  "FormKey": "1D02F8:Fallout4.esm",
+  "EditorID": "co_PA_Raider_Torso_Misc_Kinetic",
+  "Components": [
+    {
+      "Component": "01FAB9:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FA9A:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 3
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "GreaterThan",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "GetItemCount",
+        "ParameterOneRecord": "000809:SomeAssemblyRequired - LBPAC.esp",
+        "ParameterOneNumber": 167774217
+      }
+    }
+  ],
+  "CreatedObject": "1D032F:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

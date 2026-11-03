@@ -1,0 +1,9 @@
+*
+!/.gitignore
+!/.gitattributes
+!/build.json
+!/plugin-source/
+!/plugin-source/**
+!/Some\ Assembly\ Required-\ LBPAC.manifest.json
+/Scripts/PowerArmorExoPAWorkbenchPerkScript.pex
+/Scripts/Source/User/PowerArmorExoPAWorkbenchPerkScript.psc

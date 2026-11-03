@@ -1,0 +1,40 @@
+{
+  "FormKey": "180FC9:Fallout4.esm",
+  "EditorID": "co_PA_T60_Torso_Lining_B",
+  "Components": [
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "01FAB7:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAB9:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAB3:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "180FD6:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

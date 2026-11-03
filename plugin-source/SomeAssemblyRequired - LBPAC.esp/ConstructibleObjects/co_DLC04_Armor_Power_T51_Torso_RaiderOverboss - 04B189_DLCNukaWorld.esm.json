@@ -1,0 +1,36 @@
+{
+  "FormKey": "04B189:DLCNukaWorld.esm",
+  "EditorID": "co_DLC04_Armor_Power_T51_Torso_RaiderOverboss",
+  "Components": [
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "01FAB0:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "01FAB9:Fallout4.esm",
+      "Count": 7
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 20
+    },
+    {
+      "Component": "000882:SomeAssemblyRequired - LBPAC.esp",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "00DC2B:DLCNukaWorld.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

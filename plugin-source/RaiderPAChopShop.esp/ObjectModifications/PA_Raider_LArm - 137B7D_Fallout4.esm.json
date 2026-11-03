@@ -1,0 +1,42 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "137B7D:Fallout4.esm",
+  "EditorID": "PA_Raider_LArm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Standard Left Arm Lining"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Model": {
+    "File": "Actors\\PowerArmor\\CharacterAssets\\Mods\\PA_Raider_LArm.nif",
+    "Data": "0x040000000400000000000000020000000100000061268CD9646473000024EAAAB84A8ABA646473000024EAAAA6A35F5A646473000024EAAA0F2C2A00646473001CDB88C5A18162796267736D5BEB74CF"
+  },
+  "AttachPoint": "055F8D:Fallout4.esm",
+  "AttachParentSlots": [
+    "17DAA7:Fallout4.esm",
+    "17DAA9:Fallout4.esm",
+    "17DAA8:Fallout4.esm"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "204A53:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "204A52:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModEnumProperty<Armor+Property>",
+      "Property": "BodyPart",
+      "EnumIntValue": 6
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "FormKey": "13CC15:Fallout4.esm",
+  "EditorID": "co_Armor_Power_T51_LegLeft",
+  "Components": [
+    {
+      "Component": "01FA9A:Fallout4.esm",
+      "Count": 9
+    },
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "01FAA1:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FAB0:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FABB:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FABC:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "000884:SomeAssemblyRequired - LBPAC.esp",
+      "Count": 3
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "140C4F:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

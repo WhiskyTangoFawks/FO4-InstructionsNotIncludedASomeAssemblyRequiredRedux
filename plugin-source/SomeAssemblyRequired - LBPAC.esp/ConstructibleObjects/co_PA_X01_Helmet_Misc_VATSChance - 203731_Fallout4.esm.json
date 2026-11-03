@@ -1,0 +1,47 @@
+{
+  "FormKey": "203731:Fallout4.esm",
+  "EditorID": "co_PA_X01_Helmet_Misc_VATSChance",
+  "Components": [
+    {
+      "Component": "01FAA0:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 4
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "0264DA:Fallout4.esm",
+        "ParameterOneNumber": 156890
+      }
+    }
+  ],
+  "CreatedObject": "20374B:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "1B39B1:Fallout4.esm",
+  "EditorID": "PA_Material_HotRod03",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Hot Rod Flames Paint"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Increases Agility with all pieces painted."
+  },
+  "AttachPoint": "17DAA8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFCB:Fallout4.esm"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "238381:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "238415:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "ActorValues",
+      "Record": "23C9E0:Fallout4.esm",
+      "Value": 1.0,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "217B85:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "217B82:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "217B7F:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "217B88:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000A45:RaiderPAChopShop.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

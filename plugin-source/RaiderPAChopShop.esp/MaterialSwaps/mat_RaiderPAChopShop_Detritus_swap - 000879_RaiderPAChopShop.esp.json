@@ -1,0 +1,31 @@
+{
+  "FormKey": "000879:RaiderPAChopShop.esp",
+  "EditorID": "mat_RaiderPAChopShop_Detritus_swap",
+  "FormVersion": 128,
+  "Substitutions": [
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderParLegL.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\Detritus\\DetritusRaiderPALegL.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaidePATorso.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\Detritus\\DetritusRaiderPATorso.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderPAArmR.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\Detritus\\DetritusRaiderPAArmR.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderPAHelmet.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\Detritus\\DetritusRaiderPAHelmet.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderPRLegR.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\Detritus\\DetritusRaiderPALegR.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderPAArmL.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\Detritus\\DetritusRaiderPAArmL.BGSM"
+    }
+  ]
+}

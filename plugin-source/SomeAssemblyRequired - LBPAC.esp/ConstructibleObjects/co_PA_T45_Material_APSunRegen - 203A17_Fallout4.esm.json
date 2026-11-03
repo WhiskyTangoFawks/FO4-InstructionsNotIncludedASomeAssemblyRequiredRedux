@@ -1,0 +1,55 @@
+{
+  "FormKey": "203A17:Fallout4.esm",
+  "EditorID": "co_PA_T45_Material_APSunRegen",
+  "Components": [
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAB3:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FA9F:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FABB:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA6:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "GreaterThan",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "GetItemCount",
+        "ParameterOneRecord": "000809:SomeAssemblyRequired - LBPAC.esp",
+        "ParameterOneNumber": 167774217
+      }
+    }
+  ],
+  "CreatedObject": "203A14:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

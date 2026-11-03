@@ -1,0 +1,96 @@
+{
+  "FormKey": "00DC28:DLCNukaWorld.esm",
+  "EditorID": "DLC04_Armor_Power_T51_ArmRight_RaiderOverboss",
+  "ObjectBounds": {
+    "First": "-15, -34, -2",
+    "Second": "14, 40, 32"
+  },
+  "PreviewTransform": "2490A8:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Overboss Power Right Arm"
+  },
+  "WorldModel": {
+    "Male": {
+      "Model": {
+        "File": "Actors\\DLC04\\OverbossPowerArmor\\Overboss_Rarm_GO.nif",
+        "Data": "0x04000000090000000000000004000000020000005ADE75B7646473000BD80002BE7307FA646473000024EAAA671F0199646473000024EAAA1BA834CF646473000024EAAAC2C432AC646473000024EAAADC2DE74C646473000024EAAA0F2C2A00646473001CDB88C579F6D479646473000024EAAA4437A057646473000BD80002C2BC6D836267736D5BEB74CF1240E0236267736D5BEB74CF"
+      }
+    },
+    "Female": {
+      "Model": {
+        "File": "Actors\\DLC04\\OverbossPowerArmor\\Overboss_Rarm_GO.nif",
+        "Data": "0x04000000090000000000000004000000020000005ADE75B7646473000BD80002BE7307FA646473000024EAAA671F0199646473000024EAAA1BA834CF646473000024EAAAC2C432AC646473000024EAAADC2DE74C646473000024EAAA0F2C2A00646473001CDB88C579F6D479646473000024EAAA4437A057646473000BD80002C2BC6D836267736D5BEB74CF1240E0236267736D5BEB74CF"
+      }
+    }
+  },
+  "BipedBodyTemplate": {
+    "FirstPersonFlags": [
+      "RightArmArmor"
+    ]
+  },
+  "Race": "013746:Fallout4.esm",
+  "Keywords": [
+    "04D8A1:Fallout4.esm",
+    "184180:Fallout4.esm",
+    "188177:Fallout4.esm",
+    "18DFC6:Fallout4.esm",
+    "18DFC4:Fallout4.esm",
+    "18DFC7:Fallout4.esm",
+    "078593:Fallout4.esm",
+    "07820B:Fallout4.esm",
+    "20BDB8:Fallout4.esm",
+    "1CC46A:Fallout4.esm"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Raider Power Armor Right Arm Armor"
+  },
+  "InstanceNaming": "040D3B:DLCNukaWorld.esm",
+  "Armatures": [
+    {
+      "AddonIndex": 0,
+      "ArmorAddon": "140C46:Fallout4.esm"
+    }
+  ],
+  "Value": 100,
+  "Weight": 15.0,
+  "Health": 65,
+  "ArmorRating": 40,
+  "Unused": "0x000000",
+  "Resistances": [
+    {
+      "DamageType": "060A81:Fallout4.esm",
+      "Value": 20
+    },
+    {
+      "DamageType": "060A84:Fallout4.esm"
+    },
+    {
+      "DamageType": "060A85:Fallout4.esm"
+    }
+  ],
+  "AttachParentSlots": [
+    "055F8E:Fallout4.esm",
+    "1E32C8:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "078597:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "00B8EA:DLCNukaWorld.esm",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ]
+}

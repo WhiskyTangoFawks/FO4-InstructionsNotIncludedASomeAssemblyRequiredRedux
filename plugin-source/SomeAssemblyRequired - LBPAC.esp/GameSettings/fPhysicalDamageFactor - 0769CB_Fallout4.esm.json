@@ -1,0 +1,6 @@
+{
+  "MutagenObjectType": "GameSettingFloat",
+  "FormKey": "0769CB:Fallout4.esm",
+  "EditorID": "fPhysicalDamageFactor",
+  "Data": 0.32
+}

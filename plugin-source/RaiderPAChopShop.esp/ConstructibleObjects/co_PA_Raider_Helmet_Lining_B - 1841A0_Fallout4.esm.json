@@ -1,0 +1,28 @@
+{
+  "FormKey": "1841A0:Fallout4.esm",
+  "EditorID": "co_PA_Raider_Helmet_Lining_B",
+  "FormVersion": 110,
+  "Components": [
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "01FAA4:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "03D294:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "CreatedObject": "184189:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Versioning": [
+        "Break0"
+      ],
+      "Count": 1
+    }
+  ]
+}

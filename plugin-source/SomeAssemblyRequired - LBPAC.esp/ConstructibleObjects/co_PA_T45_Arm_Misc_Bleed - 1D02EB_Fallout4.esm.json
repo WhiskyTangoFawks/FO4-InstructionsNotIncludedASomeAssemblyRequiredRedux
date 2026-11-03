@@ -1,0 +1,39 @@
+{
+  "FormKey": "1D02EB:Fallout4.esm",
+  "EditorID": "co_PA_T45_Arm_Misc_Bleed",
+  "Components": [
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 5
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "GreaterThan",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "GetItemCount",
+        "ParameterOneRecord": "000809:SomeAssemblyRequired - LBPAC.esp",
+        "ParameterOneNumber": 167774217
+      }
+    }
+  ],
+  "CreatedObject": "1CCE1A:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

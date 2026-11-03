@@ -1,0 +1,72 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "176ABA:Fallout4.esm",
+  "EditorID": "PA_T51_Arm_Lining_B",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Model B"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Mechanised Cavalry. Improves Damage and Energy Resistance."
+  },
+  "AttachPoint": "17DAA9:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFC6:Fallout4.esm",
+    "18DFC4:Fallout4.esm",
+    "18DFC8:Fallout4.esm"
+  ],
+  "LooseMod": "176AC6:Fallout4.esm",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "ColorRemappingIndex",
+      "Value": 0.66
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.05,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.05,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "002144:AOSuperAlloysCohesion.esp",
+      "Value": 371,
+      "FunctionType": "Remove"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Health",
+      "Value": 15,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Rating",
+      "Value": 20,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "18816B:Fallout4.esm",
+      "Value": 371,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "DamageTypeValue",
+      "Record": "060A81:Fallout4.esm",
+      "Value": 20.0,
+      "FunctionType": "Add"
+    }
+  ]
+}

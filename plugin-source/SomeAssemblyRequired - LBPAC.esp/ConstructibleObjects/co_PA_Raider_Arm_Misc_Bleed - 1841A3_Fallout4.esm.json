@@ -1,0 +1,43 @@
+{
+  "FormKey": "1841A3:Fallout4.esm",
+  "EditorID": "co_PA_Raider_Arm_Misc_Bleed",
+  "Components": [
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 5
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "04B253:Fallout4.esm",
+        "ParameterOneNumber": 307795
+      }
+    }
+  ],
+  "CreatedObject": "184191:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

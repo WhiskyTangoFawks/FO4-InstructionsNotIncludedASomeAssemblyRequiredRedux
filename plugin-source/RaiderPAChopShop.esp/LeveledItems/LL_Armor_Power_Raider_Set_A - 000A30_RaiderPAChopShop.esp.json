@@ -1,0 +1,71 @@
+{
+  "FormKey": "000A30:RaiderPAChopShop.esp",
+  "EditorID": "LL_Armor_Power_Raider_Set_A",
+  "FormVersion": 111,
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -13662,
+        "Reference": "140C52:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -13662,
+        "Reference": "140C53:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -13662,
+        "Reference": "140C54:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -13662,
+        "Reference": "140C55:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -13662,
+        "Reference": "140C56:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -13662,
+        "Reference": "140C57:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    }
+  ],
+  "FilterKeywordChances": [
+    {
+      "FilterKeyword": "197DEE:Fallout4.esm",
+      "Chance": 2.3283064370807974E-08
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "137B7C:Fallout4.esm",
+  "EditorID": "PA_Raider_Torso",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Standard Torso Lining"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Model": {
+    "File": "RaiderPAChopShop\\RaiderPowerArmor\\PA_Raider_Body.nif",
+    "Data": "0x0400000004000000000000000200000001000000BE7307FA646473000024EAAA671F0199646473000024EAAA79F6D479646473000024EAAA0F2C2A00646473001CDB88C51240E0236267736D5BEB74CF"
+  },
+  "AttachPoint": "055F8C:Fallout4.esm",
+  "AttachParentSlots": [
+    "17DAA7:Fallout4.esm",
+    "17DAA9:Fallout4.esm",
+    "17DAA8:Fallout4.esm"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "204A53:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "204A52:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModEnumProperty<Armor+Property>",
+      "Property": "BodyPart"
+    }
+  ]
+}

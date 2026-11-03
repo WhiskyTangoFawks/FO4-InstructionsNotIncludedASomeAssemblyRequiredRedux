@@ -1,0 +1,47 @@
+{
+  "FormKey": "0009F7:RaiderPAChopShop.esp",
+  "EditorID": "co_PA_Raider_Helmet_Lining_E",
+  "Components": [
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 8
+    },
+    {
+      "Component": "01FAA4:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "03D294:Fallout4.esm",
+      "Count": 5
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "04B256:Fallout4.esm",
+        "ParameterOneNumber": 307798
+      }
+    }
+  ],
+  "CreatedObject": "0009E0:RaiderPAChopShop.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

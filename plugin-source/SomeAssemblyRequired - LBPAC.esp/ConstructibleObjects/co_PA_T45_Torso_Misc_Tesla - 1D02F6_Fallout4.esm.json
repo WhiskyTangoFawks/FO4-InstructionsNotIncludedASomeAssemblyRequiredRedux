@@ -1,0 +1,51 @@
+{
+  "FormKey": "1D02F6:Fallout4.esm",
+  "EditorID": "co_PA_T45_Torso_Misc_Tesla",
+  "Components": [
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 8
+    },
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 8
+    },
+    {
+      "Component": "01FA9C:Fallout4.esm",
+      "Count": 12
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 8
+    },
+    {
+      "Component": "01FAB9:Fallout4.esm",
+      "Count": 12
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "GreaterThan",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "GetItemCount",
+        "ParameterOneRecord": "000809:SomeAssemblyRequired - LBPAC.esp",
+        "ParameterOneNumber": 167774217
+      }
+    }
+  ],
+  "CreatedObject": "1D0318:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

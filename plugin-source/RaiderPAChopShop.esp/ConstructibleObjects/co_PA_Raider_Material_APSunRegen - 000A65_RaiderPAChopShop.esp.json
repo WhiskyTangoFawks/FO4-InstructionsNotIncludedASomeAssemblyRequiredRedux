@@ -1,0 +1,47 @@
+{
+  "FormKey": "000A65:RaiderPAChopShop.esp",
+  "EditorID": "co_PA_Raider_Material_APSunRegen",
+  "Components": [
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAB3:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAC2:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "0264DA:Fallout4.esm",
+        "ParameterOneNumber": 156890
+      }
+    }
+  ],
+  "CreatedObject": "000A57:RaiderPAChopShop.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

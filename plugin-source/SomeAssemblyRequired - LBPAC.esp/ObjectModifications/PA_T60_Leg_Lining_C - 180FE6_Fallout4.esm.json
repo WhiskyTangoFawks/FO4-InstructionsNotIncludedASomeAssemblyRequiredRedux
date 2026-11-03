@@ -1,0 +1,60 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "180FE6:Fallout4.esm",
+  "EditorID": "PA_T60_Leg_Lining_C",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Model C"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Knight-Captain. Increases Damage and Energy resistance."
+  },
+  "AttachPoint": "17DAA9:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFC4:Fallout4.esm",
+    "18DFC9:Fallout4.esm",
+    "18DFCD:Fallout4.esm"
+  ],
+  "LooseMod": "180FE0:Fallout4.esm",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Health",
+      "Value": 30,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Rating",
+      "Value": 40,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "18816C:Fallout4.esm",
+      "Value": 651,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "DamageTypeValue",
+      "Record": "060A81:Fallout4.esm",
+      "Value": 40.0,
+      "FunctionType": "Add"
+    }
+  ]
+}

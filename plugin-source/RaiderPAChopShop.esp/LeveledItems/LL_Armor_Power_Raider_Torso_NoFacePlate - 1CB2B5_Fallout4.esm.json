@@ -1,0 +1,60 @@
+{
+  "FormKey": "1CB2B5:Fallout4.esm",
+  "EditorID": "LL_Armor_Power_Raider_Torso_NoFacePlate",
+  "FormVersion": 122,
+  "MaxCount": 0,
+  "Flags": [
+    "CalculateFromAllLevelsLessThanOrEqualPlayer",
+    "CalculateForEachItemInCount"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "15339F:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 10,
+        "Reference": "1533A0:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 15,
+        "Reference": "000901:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 20,
+        "Reference": "000A2D:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 25,
+        "Reference": "000A2E:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 30,
+        "Reference": "000A2F:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    }
+  ],
+  "FilterKeywordChances": [
+    {
+      "FilterKeyword": "1CB2B6:Fallout4.esm",
+      "Chance": 2.3283064370807974E-08
+    }
+  ]
+}

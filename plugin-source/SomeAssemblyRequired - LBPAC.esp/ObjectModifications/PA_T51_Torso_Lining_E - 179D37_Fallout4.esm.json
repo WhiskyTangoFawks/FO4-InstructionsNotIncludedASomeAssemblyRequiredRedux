@@ -1,0 +1,67 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "179D37:Fallout4.esm",
+  "EditorID": "PA_T51_Torso_Lining_E",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Model E"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Advanced ceramics. Increases Damage and Energy resistance."
+  },
+  "AttachPoint": "17DAA9:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFC4:Fallout4.esm",
+    "18DFC8:Fallout4.esm",
+    "18DFCE:Fallout4.esm"
+  ],
+  "LooseMod": "179D25:Fallout4.esm",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "18816E:Fallout4.esm",
+      "Value": 371,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.2,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.2,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Rating",
+      "Value": 60,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "DamageTypeValue",
+      "Record": "060A81:Fallout4.esm",
+      "Value": 60.0,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Health",
+      "Value": 240,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "002144:AOSuperAlloysCohesion.esp",
+      "Value": 371,
+      "FunctionType": "Remove"
+    }
+  ]
+}

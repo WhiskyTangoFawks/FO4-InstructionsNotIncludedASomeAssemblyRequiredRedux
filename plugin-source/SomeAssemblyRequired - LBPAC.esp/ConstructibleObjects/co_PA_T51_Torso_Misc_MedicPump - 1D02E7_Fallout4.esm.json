@@ -1,0 +1,51 @@
+{
+  "FormKey": "1D02E7:Fallout4.esm",
+  "EditorID": "co_PA_T51_Torso_Misc_MedicPump",
+  "Components": [
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 6
+    },
+    {
+      "Component": "01FA96:Fallout4.esm",
+      "Count": 10
+    },
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 8
+    },
+    {
+      "Component": "01FABC:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "GreaterThan",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "GetItemCount",
+        "ParameterOneRecord": "000809:SomeAssemblyRequired - LBPAC.esp",
+        "ParameterOneNumber": 167774217
+      }
+    }
+  ],
+  "CreatedObject": "1D0328:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "FormKey": "000A37:RaiderPAChopShop.esp",
+  "EditorID": "LL_Armor_Power_Raider_Mods_Torso",
+  "FormVersion": 124,
+  "MaxCount": 0,
+  "Flags": [
+    "CalculateFromAllLevelsLessThanOrEqualPlayer",
+    "CalculateForEachItemInCount"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 11,
+        "Reference": "184188:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 15,
+        "Reference": "00086E:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 19,
+        "Reference": "0009EA:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 23,
+        "Reference": "0009EB:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 27,
+        "Reference": "0009F2:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 29,
+        "Reference": "1D030B:Fallout4.esm",
+        "Count": 1
+      }
+    }
+  ]
+}

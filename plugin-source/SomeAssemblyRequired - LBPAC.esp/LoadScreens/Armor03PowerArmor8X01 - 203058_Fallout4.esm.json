@@ -1,0 +1,18 @@
+{
+  "FormKey": "203058:Fallout4.esm",
+  "EditorID": "Armor03PowerArmor8X01",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "The X-01 armor was designed as a testbed for prototype power armor mods. In the years since the Great War, several high-tech factions have designed upgrades that turn it into a formidable force on the battlefield."
+  },
+  "LoadingScreenNif": "20F450:Fallout4.esm",
+  "Transform": "20F451:Fallout4.esm",
+  "Rotation": {
+    "Min": -180,
+    "Max": 180
+  },
+  "Zoom": {
+    "Min": -1.5,
+    "Max": 1.6
+  }
+}

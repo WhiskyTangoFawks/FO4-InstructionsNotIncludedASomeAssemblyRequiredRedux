@@ -1,0 +1,43 @@
+{
+  "FormKey": "197DED:Fallout4.esm",
+  "EditorID": "co_PA_T51_Material_Explosives",
+  "Components": [
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FA9A:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 4
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "GreaterThan",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "GetItemCount",
+        "ParameterOneRecord": "000809:SomeAssemblyRequired - LBPAC.esp",
+        "ParameterOneNumber": 167774217
+      }
+    }
+  ],
+  "CreatedObject": "197E06:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0009D9:RaiderPAChopShop.esp",
+  "EditorID": "PA_Raider_Material_Detritus",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Detritus Armor"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Increases explosion resistance."
+  },
+  "AttachPoint": "17DAA8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFCB:Fallout4.esm",
+    "078593:Fallout4.esm"
+  ],
+  "LooseMod": "000A00:RaiderPAChopShop.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "0009DA:RaiderPAChopShop.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000879:RaiderPAChopShop.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "245AC6:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "ActorValues",
+      "Record": "245AC5:Fallout4.esm",
+      "Value": 2.0,
+      "FunctionType": "Add"
+    }
+  ]
+}

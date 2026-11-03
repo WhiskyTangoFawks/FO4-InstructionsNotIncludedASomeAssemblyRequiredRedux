@@ -1,0 +1,63 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "182CFF:Fallout4.esm",
+  "EditorID": "PA_T45_Helmet",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Standard Helmet Lining"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Model": {
+    "File": "Actors\\PowerArmor\\CharacterAssets\\Mods\\PA_T45_Helmet.nif",
+    "Data": "0x040000000A000000000000000500000003000000742A78F8646473000024EAAAAD467E9B646473000024EAAA1BECC25F646473000024EAAAC280C43C646473000024EAAAED1A39FA64647300BE643C4CF3F3EC1A64647300BE643C4CDC6911DC646473000024EAAA94522DD4646473000024EAAA0F2C2A00646473001CDB88C5B3AFAB7B646473000024EAAA65F5A61E6267736D46EEAF2824FEBBB36267736D5BEB74CF4BD3C95E6267736D5BEB74CF"
+  },
+  "AttachPoint": "03DAFC:Fallout4.esm",
+  "AttachParentSlots": [
+    "17DAA9:Fallout4.esm",
+    "17DAA7:Fallout4.esm",
+    "17DAA8:Fallout4.esm",
+    "18E41C:Fallout4.esm",
+    "0BEE7D:Fallout4.esm"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModEnumProperty<Armor+Property>",
+      "Property": "BodyPart",
+      "EnumIntValue": 1
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "001067:AOSuperAlloysCohesion.esp",
+      "Value": 371
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "1C8FB2:Fallout4.esm",
+      "Value": 371,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "204A52:Fallout4.esm",
+      "Value": 371,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "204A53:Fallout4.esm",
+      "Value": 371,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "0B34A6:Fallout4.esm",
+      "Value": 371,
+      "FunctionType": "Add"
+    }
+  ]
+}

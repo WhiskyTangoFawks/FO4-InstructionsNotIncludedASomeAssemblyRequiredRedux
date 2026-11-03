@@ -1,0 +1,52 @@
+{
+  "FormKey": "000854:ccBGSFO4115-X02.esl",
+  "EditorID": "ccBGSFO4115_co_Armor_Power_X02_ArmLeft",
+  "Components": [
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA1:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAB0:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FABC:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "000887:SomeAssemblyRequired - LBPAC.esp",
+      "Count": 2
+    },
+    {
+      "Component": "000882:SomeAssemblyRequired - LBPAC.esp",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "00080A:ccBGSFO4115-X02.esl",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

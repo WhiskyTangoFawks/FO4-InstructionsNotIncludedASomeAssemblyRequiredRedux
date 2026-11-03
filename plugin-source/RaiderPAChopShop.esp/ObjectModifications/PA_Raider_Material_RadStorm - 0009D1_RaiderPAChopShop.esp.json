@@ -1,0 +1,54 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0009D1:RaiderPAChopShop.esp",
+  "EditorID": "PA_Raider_Material_RadStorm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Rad Storm Graffiti"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Increases radiation resistance."
+  },
+  "AttachPoint": "17DAA8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFCB:Fallout4.esm",
+    "078593:Fallout4.esm"
+  ],
+  "LooseMod": "0009C1:RaiderPAChopShop.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "0009D2:RaiderPAChopShop.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.05,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "DamageTypeValue",
+      "Record": "060A85:Fallout4.esm",
+      "Value": 100.0,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "0009C0:RaiderPAChopShop.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

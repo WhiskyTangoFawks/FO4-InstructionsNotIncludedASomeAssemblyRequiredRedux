@@ -1,0 +1,47 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "18418B:Fallout4.esm",
+  "EditorID": "PA_Raider_Leg_Lining_B",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Heavy Welded Plate"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Improved Armor Health. Increased Weight."
+  },
+  "AttachPoint": "17DAA9:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "078593:Fallout4.esm",
+    "18DFCD:Fallout4.esm",
+    "18DFC4:Fallout4.esm"
+  ],
+  "LooseMod": "184185:Fallout4.esm",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "18816B:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.5,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Health",
+      "Value": 40,
+      "FunctionType": "Add"
+    }
+  ]
+}

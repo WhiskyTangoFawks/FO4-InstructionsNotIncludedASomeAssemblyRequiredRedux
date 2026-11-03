@@ -1,0 +1,36 @@
+{
+  "FormKey": "182D3D:Fallout4.esm",
+  "EditorID": "co_PA_T45_Helmet_Lining_D",
+  "Components": [
+    {
+      "Component": "01FA97:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 8
+    },
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 4
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "182D11:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

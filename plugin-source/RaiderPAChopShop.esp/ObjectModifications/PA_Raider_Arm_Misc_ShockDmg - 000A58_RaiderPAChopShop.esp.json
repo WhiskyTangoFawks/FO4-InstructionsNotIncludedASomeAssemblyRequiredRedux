@@ -1,0 +1,60 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000A58:RaiderPAChopShop.esp",
+  "EditorID": "PA_Raider_Arm_Misc_ShockDmg",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Tesla Bracers"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Adds Energy damage to Unarmed attacks."
+  },
+  "AttachPoint": "17DAA7:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "078593:Fallout4.esm",
+    "18DFC6:Fallout4.esm"
+  ],
+  "LooseMod": "000A59:RaiderPAChopShop.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "248490:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "1EC1FD:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "238431:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.25,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "ActorValues",
+      "Record": "239EBA:Fallout4.esm",
+      "Value": 1.0,
+      "FunctionType": "Add"
+    }
+  ]
+}

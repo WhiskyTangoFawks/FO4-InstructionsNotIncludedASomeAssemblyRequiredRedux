@@ -1,0 +1,22 @@
+{
+  "FormKey": "000809:SomeAssemblyRequired - LBPAC.esp",
+  "EditorID": "ModsWarhead",
+  "ObjectBounds": {
+    "First": "-5, -5, -5",
+    "Second": "5, 5, 45"
+  },
+  "PreviewTransform": "215059:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Warhead of Forbidden Mods"
+  },
+  "Model": {
+    "File": "Interiors\\Nautical\\Animated\\NatSmRmMissileTube01\\GenCore01.nif",
+    "Data": "0x0400000005000000000000000200000000000000BB4D0FE464647300B7D70CE1C699D5FE64647300B7D70CE11FF5D39D64647300B7D70CE1011C067D64647300B7D70CE1CBDFED52646473001CDB88C5"
+  },
+  "Keywords": [
+    "0E9447:Fallout4.esm",
+    "1B3FAC:Fallout4.esm",
+    "1CC46A:Fallout4.esm"
+  ]
+}

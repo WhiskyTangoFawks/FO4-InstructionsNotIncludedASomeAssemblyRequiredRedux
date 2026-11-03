@@ -1,0 +1,12 @@
+{
+  "FormKey": "000888:SomeAssemblyRequired - LBPAC.esp",
+  "EditorID": "c_PowerArmor_Science3",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Perk: Science!"
+  },
+  "CraftingSound": "020A53:Fallout4.esm",
+  "AutoCalcValue": 3,
+  "ScrapItem": "00085C:SomeAssemblyRequired - LBPAC.esp",
+  "ModScrapScalar": "1E8C91:Fallout4.esm"
+}

@@ -1,0 +1,224 @@
+{
+  "FormKey": "157FEB:Fallout4.esm",
+  "MajorRecordFlagsRaw": 8212,
+  "EditorID": "WorkbenchPowerArmor",
+  "Fallout4MajorRecordFlags": [
+    "NotPlayable",
+    "0x10",
+    "0x2000"
+  ],
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "PowerArmorExoPAWorkbenchPerkScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "AnimFurnWorkbenchPowerArmor",
+            "Object": "15FA1C:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "Armorer01",
+            "Object": "04B254:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "Armorer02",
+            "Object": "04B255:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "Armorer03",
+            "Object": "04B256:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "Armorer04",
+            "Object": "1797EA:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "ArmorerPerk2Token",
+            "Object": "000858:SomeAssemblyRequired - LBPAC.esp"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "ArmorerPerk3Token",
+            "Object": "000859:SomeAssemblyRequired - LBPAC.esp"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "ArmorerPerk4Token",
+            "Object": "00085A:SomeAssemblyRequired - LBPAC.esp"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "ArmorerPerkToken",
+            "Object": "00085D:SomeAssemblyRequired - LBPAC.esp"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "cantUseInArmorMSG",
+            "Object": "1A4AA2:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "ignoreWorkbenchDataKeyword",
+            "Object": "16FF02:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "LinkedWorkbenchContainerKeyword",
+            "Object": "1D1BEF:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "PlayerAlias",
+            "Object": "187605:Fallout4.esm",
+            "Alias": 9
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "PlayerRef",
+            "Object": "000014:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "powerArmorFurnitureKW",
+            "Object": "03430B:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "powerArmorKW",
+            "Object": "04D8A1:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "Science01",
+            "Object": "0264D9:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "Science02",
+            "Object": "0264DA:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "Science03",
+            "Object": "0264DB:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "Science04",
+            "Object": "16578F:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "SciencePerk2Token",
+            "Object": "00085B:SomeAssemblyRequired - LBPAC.esp"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "SciencePerk3Token",
+            "Object": "00085C:SomeAssemblyRequired - LBPAC.esp"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "SciencePerk4Token",
+            "Object": "00085F:SomeAssemblyRequired - LBPAC.esp"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "SciencePerkToken",
+            "Object": "00085E:SomeAssemblyRequired - LBPAC.esp"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "Tutorial",
+            "Object": "160147:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "workbenchAnimKeyword",
+            "Object": "15FA1C:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "WorkbenchKeyword",
+            "Object": "102152:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "WorkbenchPowerArmorNoArmorMSG",
+            "Object": "1810D8:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "WorkbenchPowerArmorRecallArmorMSG",
+            "Object": "187606:Fallout4.esm"
+          }
+        ]
+      },
+      {
+        "Name": "WorkbenchScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "WorkshopItemKeyword",
+            "Object": "054BA6:Fallout4.esm"
+          }
+        ]
+      }
+    ]
+  },
+  "ObjectBounds": {
+    "First": "-59, -147, 0",
+    "Second": "59, 32, 187"
+  },
+  "PreviewTransform": "178E81:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Power Armor Station"
+  },
+  "Model": {
+    "File": "SetDressing\\PARig\\PArig02.nif",
+    "Data": "0x04000000040000000000000002000000010000007FFF17B0646473003B305EE1A69311D3646473003B305EE1B87AC433646473003B305EE10F2C2A00646473001CDB88C524BDF5B06267736D60FFC084"
+  },
+  "Keywords": [
+    "091FD4:Fallout4.esm",
+    "0A56D8:Fallout4.esm",
+    "16FF00:Fallout4.esm"
+  ],
+  "PNAM": "0x00000000",
+  "Flags": [
+    "HasModel"
+  ],
+  "Items": [],
+  "BenchType": "PowerArmor",
+  "MarkerModel": "Markers\\WorkbenchPAMarker.nif",
+  "MarkerParameters": [
+    {
+      "Enabled": true,
+      "EntryTypes": [
+        "Front",
+        "Behind",
+        "Right",
+        "Left",
+        "Other",
+        "0x20",
+        "0x40",
+        "0x80"
+      ],
+      "Unknown": "0xFFFFFF"
+    }
+  ],
+  "WBDTDataTypeState": [
+    "Break0"
+  ],
+  "MajorFlags": [
+    "HasContainer",
+    "0x10",
+    "0x2000"
+  ]
+}

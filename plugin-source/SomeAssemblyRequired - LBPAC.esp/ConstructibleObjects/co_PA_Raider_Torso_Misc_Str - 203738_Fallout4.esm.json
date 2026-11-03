@@ -1,0 +1,47 @@
+{
+  "FormKey": "203738:Fallout4.esm",
+  "EditorID": "co_PA_Raider_Torso_Misc_Str",
+  "Components": [
+    {
+      "Component": "01FABC:Fallout4.esm",
+      "Count": 8
+    },
+    {
+      "Component": "01FAB9:Fallout4.esm",
+      "Count": 10
+    },
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 12
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 8
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "GreaterThan",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "GetItemCount",
+        "ParameterOneRecord": "000809:SomeAssemblyRequired - LBPAC.esp",
+        "ParameterOneNumber": 167774217
+      }
+    }
+  ],
+  "CreatedObject": "20374E:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

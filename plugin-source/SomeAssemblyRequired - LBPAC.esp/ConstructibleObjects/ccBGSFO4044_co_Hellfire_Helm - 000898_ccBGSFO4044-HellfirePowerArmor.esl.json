@@ -1,0 +1,56 @@
+{
+  "FormKey": "000898:ccBGSFO4044-HellfirePowerArmor.esl",
+  "EditorID": "ccBGSFO4044_co_Hellfire_Helm",
+  "Components": [
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FA94:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FA97:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FA9A:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "01FA9F:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA0:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "000882:SomeAssemblyRequired - LBPAC.esp",
+      "Count": 1
+    },
+    {
+      "Component": "000888:SomeAssemblyRequired - LBPAC.esp",
+      "Count": 3
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "000805:ccBGSFO4044-HellfirePowerArmor.esl",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

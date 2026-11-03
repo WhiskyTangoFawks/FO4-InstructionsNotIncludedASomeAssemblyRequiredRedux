@@ -1,0 +1,15 @@
+{
+  "ModKey": "RaiderPAChopShop.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "Version": 0.95,
+      "NextFormID": 2673
+    },
+    "Author": "",
+    "INCC": 0
+  }
+}

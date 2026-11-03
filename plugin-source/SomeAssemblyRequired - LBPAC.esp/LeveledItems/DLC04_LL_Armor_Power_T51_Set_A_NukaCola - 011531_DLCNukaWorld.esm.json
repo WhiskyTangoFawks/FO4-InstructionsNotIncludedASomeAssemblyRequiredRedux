@@ -1,0 +1,106 @@
+{
+  "FormKey": "011531:DLCNukaWorld.esm",
+  "EditorID": "DLC04_LL_Armor_Power_T51_Set_A_NukaCola",
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -13662,
+        "Reference": "140C4C:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      },
+      "ExtraData": {
+        "Owner": {
+          "MutagenObjectType": "UntypedOwner"
+        },
+        "ItemCondition": 0.01
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -13662,
+        "Reference": "140C4D:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      },
+      "ExtraData": {
+        "Owner": {
+          "MutagenObjectType": "UntypedOwner"
+        },
+        "ItemCondition": 0.01
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -13662,
+        "Reference": "140C4E:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      },
+      "ExtraData": {
+        "Owner": {
+          "MutagenObjectType": "UntypedOwner"
+        },
+        "ItemCondition": 0.01
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -13662,
+        "Reference": "140C4F:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      },
+      "ExtraData": {
+        "Owner": {
+          "MutagenObjectType": "UntypedOwner"
+        },
+        "ItemCondition": 0.01
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -13662,
+        "Reference": "140C50:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      },
+      "ExtraData": {
+        "Owner": {
+          "MutagenObjectType": "UntypedOwner"
+        },
+        "ItemCondition": 0.01
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -13662,
+        "Reference": "140C51:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      },
+      "ExtraData": {
+        "Owner": {
+          "MutagenObjectType": "UntypedOwner"
+        },
+        "ItemCondition": 0.01
+      }
+    }
+  ],
+  "FilterKeywordChances": [
+    {
+      "FilterKeyword": "004CC6:SomeAssemblyRequired.esp",
+      "Chance": 2.3283064370807974E-08
+    }
+  ]
+}
