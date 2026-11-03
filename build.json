@@ -1,4 +1,4 @@
 {"version":1,"steps":[
 {"copy":["SomeAssemblyRequired_SWAP.ini","Scripts"]},
-{"compile":["SomeAssemblyRequired.esp","RaiderPAChopShop.esp","SomeAssemblyRequired - LBPAC.esp","CoAPowerArmor.esp"]}
+{"compile":["SomeAssemblyRequired.esp","RaiderPAChopShop.esp","SomeAssemblyRequired - LBPAC.esp","CoAPowerArmor.esp","Ashlands - UseVanillaRaiderPA.esp","SotS - UseVanillaRaiderPA.esp"]}
 ]}
