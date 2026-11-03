@@ -1,0 +1,93 @@
+{
+  "FormKey": "000A2F:RaiderPAChopShop.esp",
+  "EditorID": "LL_Armor_Power_Raider_Torso_F",
+  "FormVersion": 119,
+  "MaxCount": 0,
+  "Flags": [
+    "CalculateFromAllLevelsLessThanOrEqualPlayer",
+    "CalculateForEachItemInCount"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -15711,
+        "Reference": "140C57:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      },
+      "ExtraData": {
+        "Owner": {
+          "MutagenObjectType": "UntypedOwner"
+        },
+        "ItemCondition": 0.26
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -15711,
+        "Reference": "140C57:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      },
+      "ExtraData": {
+        "Owner": {
+          "MutagenObjectType": "UntypedOwner"
+        },
+        "ItemCondition": 0.66
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -15711,
+        "Reference": "140C57:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      },
+      "ExtraData": {
+        "Owner": {
+          "MutagenObjectType": "UntypedOwner"
+        },
+        "ItemCondition": 0.75
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -15711,
+        "Reference": "140C57:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      },
+      "ExtraData": {
+        "Owner": {
+          "MutagenObjectType": "UntypedOwner"
+        },
+        "ItemCondition": 0.78
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -15711,
+        "Reference": "140C57:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      },
+      "ExtraData": {
+        "Owner": {
+          "MutagenObjectType": "UntypedOwner"
+        },
+        "ItemCondition": 0.94
+      }
+    }
+  ],
+  "FilterKeywordChances": [
+    {
+      "FilterKeyword": "192D9C:Fallout4.esm",
+      "Chance": 2.3283064370807974E-08
+    }
+  ]
+}

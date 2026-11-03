@@ -1,0 +1,28 @@
+{
+  "FormKey": "182D43:Fallout4.esm",
+  "EditorID": "co_PA_T45_Arm_Lining_C",
+  "Components": [
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "01FA97:Fallout4.esm",
+      "Count": 4
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "182D0C:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

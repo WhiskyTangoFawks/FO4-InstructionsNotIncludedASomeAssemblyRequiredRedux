@@ -1,0 +1,66 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "180FF7:Fallout4.esm",
+  "EditorID": "PA_T60_Arm_Lining_D",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Model D"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Paladin. Improves AP regen."
+  },
+  "AttachPoint": "17DAA9:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFC4:Fallout4.esm",
+    "18DFC9:Fallout4.esm",
+    "18DFC6:Fallout4.esm"
+  ],
+  "LooseMod": "180FF1:Fallout4.esm",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.15,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.15,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Health",
+      "Value": 45,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Rating",
+      "Value": 60,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "000806:SomeAssemblyRequired - LBPAC.esp",
+      "Value": 651,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "18816D:Fallout4.esm",
+      "Value": 651,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "DamageTypeValue",
+      "Record": "060A81:Fallout4.esm",
+      "Value": 60.0,
+      "FunctionType": "Add"
+    }
+  ]
+}

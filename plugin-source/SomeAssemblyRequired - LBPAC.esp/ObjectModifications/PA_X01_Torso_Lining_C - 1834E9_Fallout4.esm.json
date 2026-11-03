@@ -1,0 +1,60 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "1834E9:Fallout4.esm",
+  "EditorID": "PA_X01_Torso_Lining_C",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Mk.III"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Aramid Lattice. Greatly improves Energy Resistance."
+  },
+  "AttachPoint": "17DAA9:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFCA:Fallout4.esm",
+    "18DFCE:Fallout4.esm",
+    "18DFC4:Fallout4.esm"
+  ],
+  "LooseMod": "1831A5:Fallout4.esm",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "18816C:Fallout4.esm",
+      "Value": 371,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Rating",
+      "Value": 30,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "DamageTypeValue",
+      "Record": "060A81:Fallout4.esm",
+      "Value": 110.0,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Health",
+      "Value": 15,
+      "FunctionType": "Add"
+    }
+  ]
+}

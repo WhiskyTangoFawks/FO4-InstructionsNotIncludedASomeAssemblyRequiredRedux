@@ -1,0 +1,290 @@
+{
+  "FormKey": "140C4D:Fallout4.esm",
+  "EditorID": "Armor_Power_T51_ArmRight",
+  "ObjectBounds": {
+    "First": "-16, -14, -2",
+    "Second": "16, 14, 20"
+  },
+  "PreviewTransform": "2490B0:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "T-51 Right Arm"
+  },
+  "WorldModel": {
+    "Male": {
+      "Model": {
+        "File": "Actors\\PowerArmor\\CharacterAssets\\Mods\\GO_T51_LArm.nif",
+        "Data": "0x0400000006000000000000000400000002000000E0BD47F9646473000024EAAA39D1419A646473000024EAAA2738947A646473000024EAAA94522DD4646473000024EAAA0F2C2A00646473001CDB88C5B1ED9069646473000024EAAAC79994B66267736D5BEB74CFC4CA80246267736D5BEB74CF"
+      }
+    }
+  },
+  "BipedBodyTemplate": {
+    "FirstPersonFlags": [
+      "RightArmArmor"
+    ]
+  },
+  "Race": "013746:Fallout4.esm",
+  "Keywords": [
+    "04D8A1:Fallout4.esm",
+    "188177:Fallout4.esm",
+    "188172:Fallout4.esm",
+    "18DFC6:Fallout4.esm",
+    "18DFCC:Fallout4.esm",
+    "18DFC4:Fallout4.esm",
+    "18DFCB:Fallout4.esm",
+    "18DFC7:Fallout4.esm",
+    "18DFC8:Fallout4.esm",
+    "176AC1:Fallout4.esm",
+    "07820B:Fallout4.esm",
+    "1CC46A:Fallout4.esm"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "T-51 Right Arm Armor"
+  },
+  "InstanceNaming": "188160:Fallout4.esm",
+  "Armatures": [
+    {
+      "AddonIndex": 0,
+      "ArmorAddon": "140C46:Fallout4.esm"
+    }
+  ],
+  "Value": 200,
+  "Weight": 13.0,
+  "Health": 80,
+  "ArmorRating": 170,
+  "Unused": "0x000000",
+  "Resistances": [
+    {
+      "DamageType": "060A81:Fallout4.esm",
+      "Value": 125
+    },
+    {
+      "DamageType": "060A84:Fallout4.esm",
+      "Value": 5
+    },
+    {
+      "DamageType": "060A85:Fallout4.esm",
+      "Value": 50
+    }
+  ],
+  "AttachParentSlots": [
+    "055F8E:Fallout4.esm",
+    "1E32C8:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "T51a Lining"
+      },
+      "Default": true,
+      "Keywords": [
+        "197DEE:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "1739C0:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D44:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Keywords": [
+        "191648:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "1739C0:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "176ABA:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Keywords": [
+        "192D99:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "1739C0:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "179D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Keywords": [
+        "192D9A:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "1739C0:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "179D3C:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Keywords": [
+        "192D9B:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "1739C0:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "179D3D:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Keywords": [
+        "192D9C:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "1739C0:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "17D6FA:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "AddonIndex": 1,
+      "Keywords": [
+        "004CC4:SomeAssemblyRequired.esp"
+      ],
+      "Includes": [
+        {
+          "Mod": "043C70:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "004CC8:SomeAssemblyRequired.esp",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "AddonIndex": 1,
+      "Keywords": [
+        "004CC5:SomeAssemblyRequired.esp"
+      ],
+      "Includes": [
+        {
+          "Mod": "043C71:DLCCoast.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "004CC8:SomeAssemblyRequired.esp",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "AddonIndex": 1,
+      "Keywords": [
+        "004CC6:SomeAssemblyRequired.esp"
+      ],
+      "Includes": [
+        {
+          "Mod": "01152A:DLCNukaWorld.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "004CC8:SomeAssemblyRequired.esp",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "AddonIndex": 1,
+      "Keywords": [
+        "004CC7:SomeAssemblyRequired.esp"
+      ],
+      "Includes": [
+        {
+          "Mod": "0417E8:DLCNukaWorld.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "004CC8:SomeAssemblyRequired.esp",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ]
+}

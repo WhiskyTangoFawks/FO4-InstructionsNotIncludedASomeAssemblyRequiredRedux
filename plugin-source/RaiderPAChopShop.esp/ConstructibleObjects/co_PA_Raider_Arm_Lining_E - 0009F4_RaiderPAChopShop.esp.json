@@ -1,0 +1,43 @@
+{
+  "FormKey": "0009F4:RaiderPAChopShop.esp",
+  "EditorID": "co_PA_Raider_Arm_Lining_E",
+  "Components": [
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 8
+    },
+    {
+      "Component": "01FAB0:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "03D294:Fallout4.esm",
+      "Count": 4
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "04B256:Fallout4.esm",
+        "ParameterOneNumber": 307798
+      }
+    }
+  ],
+  "CreatedObject": "0009DF:RaiderPAChopShop.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

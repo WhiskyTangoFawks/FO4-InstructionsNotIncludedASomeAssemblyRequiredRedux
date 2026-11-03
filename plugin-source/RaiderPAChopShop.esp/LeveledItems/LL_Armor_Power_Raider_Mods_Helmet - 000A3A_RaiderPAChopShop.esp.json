@@ -1,0 +1,61 @@
+{
+  "FormKey": "000A3A:RaiderPAChopShop.esp",
+  "EditorID": "LL_Armor_Power_Raider_Mods_Helmet",
+  "FormVersion": 120,
+  "MaxCount": 0,
+  "Flags": [
+    "CalculateFromAllLevelsLessThanOrEqualPlayer",
+    "CalculateForEachItemInCount"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 7,
+        "Reference": "000A3B:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 11,
+        "Reference": "184183:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 15,
+        "Reference": "00086C:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 19,
+        "Reference": "1CFE97:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 19,
+        "Reference": "0009E8:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 23,
+        "Reference": "0009ED:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 27,
+        "Reference": "0009F0:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    }
+  ]
+}

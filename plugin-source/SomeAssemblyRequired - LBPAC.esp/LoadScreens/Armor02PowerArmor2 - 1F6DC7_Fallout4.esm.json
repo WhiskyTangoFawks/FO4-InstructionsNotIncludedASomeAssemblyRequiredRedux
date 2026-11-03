@@ -1,0 +1,18 @@
+{
+  "FormKey": "1F6DC7:Fallout4.esm",
+  "EditorID": "Armor02PowerArmor2",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "You can mix and match all different kinds of Power Armor pieces on a single frame, and add mods to most of those pieces to increase their effectiveness."
+  },
+  "LoadingScreenNif": "20F446:Fallout4.esm",
+  "Transform": "20F447:Fallout4.esm",
+  "Rotation": {
+    "Min": -180,
+    "Max": 180
+  },
+  "Zoom": {
+    "Min": -0.3,
+    "Max": 2.0
+  }
+}

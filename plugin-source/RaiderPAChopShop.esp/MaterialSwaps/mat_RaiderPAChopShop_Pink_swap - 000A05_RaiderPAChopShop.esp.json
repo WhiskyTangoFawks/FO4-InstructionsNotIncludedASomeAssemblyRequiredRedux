@@ -1,0 +1,31 @@
+{
+  "FormKey": "000A05:RaiderPAChopShop.esp",
+  "EditorID": "mat_RaiderPAChopShop_Pink_swap",
+  "FormVersion": 128,
+  "Substitutions": [
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderParLegL.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\HRPink\\PinkRaiderPALegL.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaidePATorso.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\HRPink\\PinkRaiderPATorso.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderPAArmR.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\HRPink\\PinkRaiderPAArmR.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderPAHelmet.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\HRPink\\PinkRaiderPAHelmet.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderPRLegR.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\HRPink\\PinkRaiderPALegR.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderPAArmL.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\HRPink\\PinkRaiderPAArmL.BGSM"
+    }
+  ]
+}

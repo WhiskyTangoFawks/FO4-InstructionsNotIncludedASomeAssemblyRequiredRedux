@@ -1,0 +1,47 @@
+{
+  "FormKey": "00087C:ccBGSFO4044-HellfirePowerArmor.esl",
+  "EditorID": "ccBGSFO4044_co_Hellfire_Helmet_Misc_Recon",
+  "Components": [
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "01FAA0:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 7
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "GreaterThan",
+      "Unknown1": "0x000000",
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "GetItemCount",
+        "ParameterOneRecord": "000809:SomeAssemblyRequired - LBPAC.esp",
+        "ParameterOneNumber": 167774217
+      }
+    }
+  ],
+  "CreatedObject": "000900:ccBGSFO4044-HellfirePowerArmor.esl",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

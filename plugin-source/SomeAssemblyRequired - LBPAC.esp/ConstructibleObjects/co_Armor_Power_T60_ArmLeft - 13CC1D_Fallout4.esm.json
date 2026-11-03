@@ -1,0 +1,52 @@
+{
+  "FormKey": "13CC1D:Fallout4.esm",
+  "EditorID": "co_Armor_Power_T60_ArmLeft",
+  "Components": [
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 8
+    },
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAB0:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAB7:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "01FABC:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "000883:SomeAssemblyRequired - LBPAC.esp",
+      "Count": 2
+    },
+    {
+      "Component": "000886:SomeAssemblyRequired - LBPAC.esp",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "140C3D:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

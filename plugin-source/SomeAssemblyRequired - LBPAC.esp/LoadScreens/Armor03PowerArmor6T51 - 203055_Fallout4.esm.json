@@ -1,0 +1,18 @@
+{
+  "FormKey": "203055:Fallout4.esm",
+  "EditorID": "Armor03PowerArmor6T51",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "The T-51 series of power armor was the pinnacle of mechanised protection before the Great War. It is a rare sight in the remains of America, as most suits were deployed overseas in Alaska and the Gobi Desert, and is highly prized by wastelanders."
+  },
+  "LoadingScreenNif": "20F452:Fallout4.esm",
+  "Transform": "20F453:Fallout4.esm",
+  "Rotation": {
+    "Min": -180,
+    "Max": 180
+  },
+  "Zoom": {
+    "Min": -1.5,
+    "Max": 1.6
+  }
+}

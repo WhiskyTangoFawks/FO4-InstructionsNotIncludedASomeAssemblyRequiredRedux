@@ -1,0 +1,45 @@
+{
+  "FormKey": "176ACD:Fallout4.esm",
+  "EditorID": "co_PA_T51_Leg_Lining_B",
+  "Components": [
+    {
+      "Component": "01FA9A:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAA1:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FABB:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "04B256:Fallout4.esm",
+        "ParameterOneNumber": 307798
+      }
+    }
+  ],
+  "CreatedObject": "176ABB:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

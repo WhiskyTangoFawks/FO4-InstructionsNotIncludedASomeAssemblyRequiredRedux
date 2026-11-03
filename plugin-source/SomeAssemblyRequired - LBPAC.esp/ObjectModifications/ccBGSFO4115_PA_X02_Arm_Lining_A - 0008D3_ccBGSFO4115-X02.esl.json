@@ -1,0 +1,26 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0008D3:ccBGSFO4115-X02.esl",
+  "EditorID": "ccBGSFO4115_PA_X02_Arm_Lining_A",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Mk.I"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Standard."
+  },
+  "AttachPoint": "17DAA9:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFC4:Fallout4.esm",
+    "18DFC6:Fallout4.esm",
+    "00091C:ccBGSFO4115-X02.esl"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "ColorRemappingIndex",
+      "Value": 0.66
+    }
+  ]
+}

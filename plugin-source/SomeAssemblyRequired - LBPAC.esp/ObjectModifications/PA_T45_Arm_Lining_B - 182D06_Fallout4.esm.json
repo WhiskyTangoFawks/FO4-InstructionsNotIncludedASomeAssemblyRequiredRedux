@@ -1,0 +1,65 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "182D06:Fallout4.esm",
+  "EditorID": "PA_T45_Arm_Lining_B",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Model B"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Ballistic mesh. Improves Damage resistance."
+  },
+  "AttachPoint": "17DAA9:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFC6:Fallout4.esm",
+    "18DFC4:Fallout4.esm",
+    "18DFC5:Fallout4.esm"
+  ],
+  "LooseMod": "182CE2:Fallout4.esm",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "18816B:Fallout4.esm",
+      "Value": 651,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.05,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.05,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Rating",
+      "Value": 50,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Health",
+      "Value": 15,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "ColorRemappingIndex",
+      "Value": 0.66
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "001067:AOSuperAlloysCohesion.esp",
+      "Value": 371,
+      "FunctionType": "Remove"
+    }
+  ]
+}

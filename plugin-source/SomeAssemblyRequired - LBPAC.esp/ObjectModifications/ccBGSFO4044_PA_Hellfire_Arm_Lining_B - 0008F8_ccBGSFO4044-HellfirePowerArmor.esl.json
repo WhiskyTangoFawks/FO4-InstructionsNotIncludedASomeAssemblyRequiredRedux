@@ -1,0 +1,60 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0008F8:ccBGSFO4044-HellfirePowerArmor.esl",
+  "EditorID": "ccBGSFO4044_PA_Hellfire_Arm_Lining_B",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Mk.II"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Ballistic Gel Matrix. Greatly improves Damage Resistance."
+  },
+  "AttachPoint": "17DAA9:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFC4:Fallout4.esm",
+    "18DFC6:Fallout4.esm",
+    "000812:ccBGSFO4044-HellfirePowerArmor.esl"
+  ],
+  "LooseMod": "000823:ccBGSFO4044-HellfirePowerArmor.esl",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "18816B:Fallout4.esm",
+      "Value": 587,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.05,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.05,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Rating",
+      "Value": 120,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "DamageTypeValue",
+      "Record": "060A81:Fallout4.esm",
+      "Value": 20.0,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Health",
+      "Value": 15,
+      "FunctionType": "Add"
+    }
+  ]
+}

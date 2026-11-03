@@ -1,0 +1,95 @@
+{
+  "FormKey": "00DC2C:DLCNukaWorld.esm",
+  "EditorID": "DLC04_Armor_Power_T51_LegLeft_RaiderOverboss",
+  "ObjectBounds": {
+    "First": "-14, -50, -3",
+    "Second": "17, 40, 32"
+  },
+  "PreviewTransform": "2490AA:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Overboss Power Left Leg"
+  },
+  "WorldModel": {
+    "Male": {
+      "Model": {
+        "File": "Actors\\DLC04\\OverbossPowerArmor\\Overboss_Lleg_GO.nif",
+        "Data": "0x04000000060000000000000003000000010000005ADE75B7646473000BD8000271E4E764646473000024EAAAA888E107646473000024EAAAB66134E7646473000024EAAA0F2C2A00646473001CDB88C54437A057646473000BD800020199CD9F6267736D5BEB74CF"
+      }
+    },
+    "Female": {
+      "Model": {
+        "File": "Actors\\DLC04\\OverbossPowerArmor\\Overboss_Lleg_GO.nif",
+        "Data": "0x04000000060000000000000003000000010000005ADE75B7646473000BD8000271E4E764646473000024EAAAA888E107646473000024EAAAB66134E7646473000024EAAA0F2C2A00646473001CDB88C54437A057646473000BD800020199CD9F6267736D5BEB74CF"
+      }
+    }
+  },
+  "BipedBodyTemplate": {
+    "FirstPersonFlags": [
+      "LeftLegArmor"
+    ]
+  },
+  "Race": "013746:Fallout4.esm",
+  "Keywords": [
+    "04D8A1:Fallout4.esm",
+    "078593:Fallout4.esm",
+    "18417F:Fallout4.esm",
+    "188176:Fallout4.esm",
+    "18DFC4:Fallout4.esm",
+    "18DFC7:Fallout4.esm",
+    "18DFCD:Fallout4.esm",
+    "1CC46A:Fallout4.esm",
+    "20BDB8:Fallout4.esm"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Raider Power Armor Left Leg Armor"
+  },
+  "InstanceNaming": "040D3B:DLCNukaWorld.esm",
+  "Armatures": [
+    {
+      "AddonIndex": 0,
+      "ArmorAddon": "18E8C9:Fallout4.esm"
+    }
+  ],
+  "Value": 100,
+  "Weight": 15.0,
+  "Health": 65,
+  "ArmorRating": 40,
+  "Unused": "0x000000",
+  "Resistances": [
+    {
+      "DamageType": "060A81:Fallout4.esm",
+      "Value": 20
+    },
+    {
+      "DamageType": "060A84:Fallout4.esm"
+    },
+    {
+      "DamageType": "060A85:Fallout4.esm"
+    }
+  ],
+  "AttachParentSlots": [
+    "055F90:Fallout4.esm",
+    "1E32C8:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "07859A:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "00B8E9:DLCNukaWorld.esm",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ]
+}

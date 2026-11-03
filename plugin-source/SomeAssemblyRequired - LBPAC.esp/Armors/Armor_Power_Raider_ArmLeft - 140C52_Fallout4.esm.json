@@ -1,0 +1,219 @@
+{
+  "FormKey": "140C52:Fallout4.esm",
+  "EditorID": "Armor_Power_Raider_ArmLeft",
+  "ObjectBounds": {
+    "First": "-13, -17, 0",
+    "Second": "13, 17, 27"
+  },
+  "PreviewTransform": "2490A8:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Raider Power Left Arm"
+  },
+  "WorldModel": {
+    "Male": {
+      "Model": {
+        "File": "Actors\\PowerArmor\\CharacterAssets\\Raider_LArm_GO.nif",
+        "Data": "0x040000000400000000000000020000000100000061268CD9646473000024EAAAB84A8ABA646473000024EAAAA6A35F5A646473000024EAAA0F2C2A00646473001CDB88C5A18162796267736D5BEB74CF"
+      }
+    }
+  },
+  "BipedBodyTemplate": {
+    "FirstPersonFlags": [
+      "LeftArmArmor"
+    ]
+  },
+  "Race": "013746:Fallout4.esm",
+  "Keywords": [
+    "04D8A1:Fallout4.esm",
+    "07820B:Fallout4.esm",
+    "078593:Fallout4.esm",
+    "18417E:Fallout4.esm",
+    "188175:Fallout4.esm",
+    "18DFC4:Fallout4.esm",
+    "18DFC6:Fallout4.esm",
+    "18DFC7:Fallout4.esm",
+    "20BDB8:Fallout4.esm",
+    "18DFCB:Fallout4.esm",
+    "1CC46A:Fallout4.esm"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Raider Power Armor Left Arm Armor"
+  },
+  "InstanceNaming": "188160:Fallout4.esm",
+  "Armatures": [
+    {
+      "AddonIndex": 0,
+      "ArmorAddon": "140C3E:Fallout4.esm"
+    }
+  ],
+  "Value": 75,
+  "Weight": 16.0,
+  "Health": 80,
+  "ArmorRating": 25,
+  "Unused": "0x000000",
+  "Resistances": [
+    {
+      "DamageType": "060A81:Fallout4.esm",
+      "Value": 10
+    },
+    {
+      "DamageType": "060A85:Fallout4.esm",
+      "Value": 10
+    }
+  ],
+  "AttachParentSlots": [
+    "055F8D:Fallout4.esm",
+    "1E32C8:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Default": true,
+      "Keywords": [
+        "197DEE:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "137B7D:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "078597:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": ""
+      },
+      "Keywords": [
+        "191648:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "137B7D:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "18418A:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": ""
+      },
+      "Keywords": [
+        "192D99:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "137B7D:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "000867:RaiderPAChopShop.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": ""
+      },
+      "Keywords": [
+        "192D9A:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "137B7D:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0009DB:RaiderPAChopShop.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": ""
+      },
+      "Keywords": [
+        "192D9B:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "137B7D:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0009DF:RaiderPAChopShop.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "Keywords": [
+        "192D9C:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "137B7D:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0009E3:RaiderPAChopShop.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ]
+}

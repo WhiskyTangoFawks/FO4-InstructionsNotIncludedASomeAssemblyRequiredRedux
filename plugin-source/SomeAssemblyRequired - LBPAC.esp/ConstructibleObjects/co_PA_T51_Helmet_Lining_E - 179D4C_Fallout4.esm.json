@@ -1,0 +1,60 @@
+{
+  "FormKey": "179D4C:Fallout4.esm",
+  "EditorID": "co_PA_T51_Helmet_Lining_E",
+  "Components": [
+    {
+      "Component": "01FA9A:Fallout4.esm",
+      "Count": 8
+    },
+    {
+      "Component": "01FAA1:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FABB:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "0264D9:Fallout4.esm",
+        "ParameterOneNumber": 156889
+      }
+    },
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "1797EA:Fallout4.esm",
+        "ParameterOneNumber": 1546218
+      }
+    }
+  ],
+  "CreatedObject": "179D3A:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

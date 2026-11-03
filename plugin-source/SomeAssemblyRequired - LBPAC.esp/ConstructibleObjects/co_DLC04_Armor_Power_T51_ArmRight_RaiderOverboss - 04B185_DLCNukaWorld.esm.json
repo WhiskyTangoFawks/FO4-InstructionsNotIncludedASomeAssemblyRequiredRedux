@@ -1,0 +1,32 @@
+{
+  "FormKey": "04B185:DLCNukaWorld.esm",
+  "EditorID": "co_DLC04_Armor_Power_T51_ArmRight_RaiderOverboss",
+  "Components": [
+    {
+      "Component": "01FAB0:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FABC:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 10
+    },
+    {
+      "Component": "000882:SomeAssemblyRequired - LBPAC.esp",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "00DC28:DLCNukaWorld.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

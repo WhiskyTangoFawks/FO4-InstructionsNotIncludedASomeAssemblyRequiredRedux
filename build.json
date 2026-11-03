@@ -1,4 +1,4 @@
 {"version":1,"steps":[
-{"copy":["SomeAssemblyRequired_SWAP.ini"]},
-{"compile":["SomeAssemblyRequired.esp"]}
+{"copy":["SomeAssemblyRequired_SWAP.ini","Scripts"]},
+{"compile":["SomeAssemblyRequired.esp","RaiderPAChopShop.esp","SomeAssemblyRequired - LBPAC.esp"]}
 ]}

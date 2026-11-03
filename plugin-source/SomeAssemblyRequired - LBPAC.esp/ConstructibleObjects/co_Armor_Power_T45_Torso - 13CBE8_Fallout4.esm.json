@@ -1,0 +1,40 @@
+{
+  "FormKey": "13CBE8:Fallout4.esm",
+  "EditorID": "co_Armor_Power_T45_Torso",
+  "Components": [
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FAB9:Fallout4.esm",
+      "Count": 7
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 20
+    },
+    {
+      "Component": "03D294:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "000883:SomeAssemblyRequired - LBPAC.esp",
+      "Count": 2
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "154AC2:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

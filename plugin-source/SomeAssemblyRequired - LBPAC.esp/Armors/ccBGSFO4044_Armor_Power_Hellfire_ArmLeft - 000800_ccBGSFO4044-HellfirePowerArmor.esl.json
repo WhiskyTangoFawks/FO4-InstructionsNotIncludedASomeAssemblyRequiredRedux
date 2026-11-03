@@ -1,0 +1,216 @@
+{
+  "FormKey": "000800:ccBGSFO4044-HellfirePowerArmor.esl",
+  "EditorID": "ccBGSFO4044_Armor_Power_Hellfire_ArmLeft",
+  "ObjectBounds": {
+    "First": "-15, -13, 0",
+    "Second": "10, 13, 19"
+  },
+  "PreviewTransform": "2490B5:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Hellfire Left Arm"
+  },
+  "WorldModel": {
+    "Male": {
+      "Model": {
+        "File": "CreationClub\\BGSFO4044\\Actors\\PowerArmor\\CharacterAssets\\Mods\\GO_Hellfire_Arm.nif",
+        "Data": "0x0400000000000000000000000000000000000000"
+      }
+    }
+  },
+  "BipedBodyTemplate": {
+    "FirstPersonFlags": [
+      "LeftArmArmor"
+    ]
+  },
+  "Race": "013746:Fallout4.esm",
+  "Keywords": [
+    "04D8A1:Fallout4.esm",
+    "000812:ccBGSFO4044-HellfirePowerArmor.esl",
+    "1CC46A:Fallout4.esm",
+    "188175:Fallout4.esm",
+    "000814:ccBGSFO4044-HellfirePowerArmor.esl",
+    "18DFC4:Fallout4.esm",
+    "000810:ccBGSFO4044-HellfirePowerArmor.esl",
+    "18DFC7:Fallout4.esm",
+    "18DFC6:Fallout4.esm",
+    "07820B:Fallout4.esm",
+    "24A0D4:Fallout4.esm"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Hellfire Left Arm Armor"
+  },
+  "InstanceNaming": "188160:Fallout4.esm",
+  "Armatures": [
+    {
+      "AddonIndex": 0,
+      "ArmorAddon": "140C3E:Fallout4.esm"
+    }
+  ],
+  "Value": 100,
+  "Weight": 25.0,
+  "Health": 300,
+  "ArmorRating": 100,
+  "Unused": "0x000000",
+  "Resistances": [
+    {
+      "DamageType": "060A81:Fallout4.esm",
+      "Value": 125
+    },
+    {
+      "DamageType": "060A85:Fallout4.esm",
+      "Value": 200
+    }
+  ],
+  "AttachParentSlots": [
+    "055F8D:Fallout4.esm",
+    "1E32C8:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Default": true,
+      "Keywords": [
+        "197DEE:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "000809:ccBGSFO4044-HellfirePowerArmor.esl",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0008FA:ccBGSFO4044-HellfirePowerArmor.esl",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0008F0:ccBGSFO4044-HellfirePowerArmor.esl",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Keywords": [
+        "191648:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "000809:ccBGSFO4044-HellfirePowerArmor.esl",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0008F8:ccBGSFO4044-HellfirePowerArmor.esl",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0008F0:ccBGSFO4044-HellfirePowerArmor.esl",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Keywords": [
+        "192D99:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "000809:ccBGSFO4044-HellfirePowerArmor.esl",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0008F5:ccBGSFO4044-HellfirePowerArmor.esl",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0008F0:ccBGSFO4044-HellfirePowerArmor.esl",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Keywords": [
+        "192D9A:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "000809:ccBGSFO4044-HellfirePowerArmor.esl",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "000902:ccBGSFO4044-HellfirePowerArmor.esl",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0008F0:ccBGSFO4044-HellfirePowerArmor.esl",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Keywords": [
+        "192D9B:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "000809:ccBGSFO4044-HellfirePowerArmor.esl",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "000903:ccBGSFO4044-HellfirePowerArmor.esl",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0008F0:ccBGSFO4044-HellfirePowerArmor.esl",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "Keywords": [
+        "192D9C:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "000809:ccBGSFO4044-HellfirePowerArmor.esl",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0008BC:ccBGSFO4044-HellfirePowerArmor.esl",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0008F0:ccBGSFO4044-HellfirePowerArmor.esl",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ]
+}

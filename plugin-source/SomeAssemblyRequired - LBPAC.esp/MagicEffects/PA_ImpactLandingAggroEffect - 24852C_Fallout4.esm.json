@@ -1,0 +1,38 @@
+{
+  "FormKey": "24852C:Fallout4.esm",
+  "EditorID": "PA_ImpactLandingAggroEffect",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "PA_ImpactLandingAggroEffect"
+  },
+  "Flags": [
+    "Detrimental"
+  ],
+  "ResistValue": "0002E3:Fallout4.esm",
+  "Archetype": {
+    "MutagenObjectType": "MagicEffectArchetype",
+    "Type": "Damage"
+  },
+  "CastType": "Concentration",
+  "TargetType": "Touch",
+  "DualCastScale": 1.0,
+  "CastingSoundLevel": "Normal",
+  "Sounds": [],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "CompareOperator": "GreaterThan",
+      "Unknown1": "0x723B8B",
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "IsHostileToActor",
+        "ParameterOneRecord": "000014:Fallout4.esm",
+        "ParameterOneNumber": 20
+      }
+    }
+  ]
+}

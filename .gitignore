@@ -6,3 +6,5 @@
 !/plugin-source/**
 !/Instructions\ Not\ Included\ -\ A\ Some\ Assembly\ Required\ Redux.manifest.json
 /SomeAssemblyRequired_SWAP.ini
+/Scripts/PowerArmorExoPAWorkbenchPerkScript.pex
+/Scripts/Source/User/PowerArmorExoPAWorkbenchPerkScript.psc

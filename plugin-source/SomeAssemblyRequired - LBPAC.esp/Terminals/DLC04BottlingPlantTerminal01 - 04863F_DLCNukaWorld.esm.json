@@ -1,0 +1,128 @@
+{
+  "FormKey": "04863F:DLCNukaWorld.esm",
+  "MajorRecordFlagsRaw": 8208,
+  "EditorID": "DLC04BottlingPlantTerminal01",
+  "Fallout4MajorRecordFlags": [
+    "0x10",
+    "0x2000"
+  ],
+  "ObjectBounds": {
+    "First": "-20, -34, 0",
+    "Second": "19, 16, 127"
+  },
+  "HeaderText": {
+    "TargetLanguage": "English",
+    "Value": "     == Property of Nuka-Cola Corporation =="
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Systems Control Terminal"
+  },
+  "Model": {
+    "File": "Furniture\\Terminals\\TerminalConsoleOnTall.nif",
+    "Data": "0x0400000016000000000000000C00000005000000F7715D2464647300BE643C4CBF79ECA764647300BE643C4C7D67F55764647300B5AA259DA40BF33464647300B5AA259D06948D0564647300B5AA259DDFF88B6664647300B5AA259D05AC3BBF64647300514B8577DCC03DDC64647300514B857781EE16D064647300514B8577588210B364647300514B8577466BC55364647300514B8577C229E83C64647300514B8577839C30DC6464730038973CEAC1115E8664647300B5AA259DBAE226D464647300B5AA259DB076E385646473007B24D06C9308AE366464730038973CEA24389F9F646473001CDB88C5B0A5A86E64647300B5AA259DC80FD0FC6464730038973CEAFF6512FD6464730038973CEA7EEF02FC64647300582C55331F0637246267736DE25D598B9A7F25C36267736DE25D598B404118CB6267736D6070F9EDDAA82F006267736D6070F9ED7DE3679B6267736DDE5EE364"
+  },
+  "Keywords": [
+    "0286E6:Fallout4.esm",
+    "06D5BB:Fallout4.esm",
+    "0A56D7:Fallout4.esm",
+    "0FCB12:Fallout4.esm"
+  ],
+  "PNAM": "0xCC4C3300",
+  "FNAM": "0x0000",
+  "Flags": [
+    "HasModel"
+  ],
+  "WorkbenchData": "0x00",
+  "MarkerModel": "Markers\\MarkerDeskTerminal01.nif",
+  "MarkerParameters": [
+    {
+      "Enabled": true,
+      "Offset": "0, -68, 0",
+      "EntryTypes": [
+        "Front",
+        "Behind",
+        "Right",
+        "Left",
+        "Other",
+        "0x20",
+        "0x40",
+        "0x80"
+      ],
+      "Unknown": "0xFFFFFF"
+    }
+  ],
+  "BodyTexts": [
+    {
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "===================================================           Nuka-Cola Bottling Plant             =\r\n=       Systems Control Center          =\r\n==================================================\r\n\r\nCurrent Status: !!Emergency Power!!\r\n\r\n\r\n\r\n"
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x6F4DED",
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetGlobalValue",
+            "ParameterOneRecord": "046E37:DLCNukaWorld.esm",
+            "ParameterOneNumber": 67399223
+          }
+        }
+      ]
+    },
+    {
+      "Text": {
+        "TargetLanguage": "English",
+        "Value": "===================================================           Nuka-Cola Bottling Plant             =\r\n=       Systems Control Center          =\r\n==================================================\r\n\r\n\r\n\r\n\r\n\r\n\r\n"
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0x6F4DED",
+          "ComparisonValue": 1.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetGlobalValue",
+            "ParameterOneRecord": "046E37:DLCNukaWorld.esm",
+            "ParameterOneNumber": 67399223
+          }
+        }
+      ]
+    }
+  ],
+  "MenuItems": [
+    {
+      "ItemText": {
+        "TargetLanguage": "English",
+        "Value": "Access Subsystems"
+      },
+      "ResponseText": {
+        "TargetLanguage": "English",
+        "Value": "Establishing Connection..."
+      },
+      "Type": "DisplayText",
+      "ItemId": 1,
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "\r\n\r\n\r\n     :::SYSTEM ERROR:::\r\n\r\nSubsystem access cannot be established due to [UNKNOWN ERROR].\r\n\r\nPlease alert management and repair staff."
+      }
+    },
+    {
+      "ItemText": {
+        "TargetLanguage": "English",
+        "Value": "Power armor"
+      },
+      "Type": "DisplayText",
+      "ItemId": 2,
+      "DisplayText": {
+        "TargetLanguage": "English",
+        "Value": "Promotional armor’s stashed away on the ride display at last. Glad management finally decided to retire that hunk of junk. Now I don’t have to listen to Jacobs bitching about how awkward it is to wear it around the park. Yeah, man, I get it - they miscast the ceramics in the factory, so the thing’s fragile as an egg. One sneeze and it falls to bits and all the kids start crying, oh, boo-hoo. Did that moron honestly think the army would give us military spec hardware to promote cola?"
+      }
+    }
+  ],
+  "MajorFlags": [
+    "0x10",
+    "0x2000"
+  ]
+}

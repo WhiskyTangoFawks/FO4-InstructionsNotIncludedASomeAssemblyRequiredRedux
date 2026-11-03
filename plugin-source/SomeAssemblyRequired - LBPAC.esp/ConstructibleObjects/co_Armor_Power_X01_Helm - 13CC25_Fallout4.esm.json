@@ -1,0 +1,56 @@
+{
+  "FormKey": "13CC25:Fallout4.esm",
+  "EditorID": "co_Armor_Power_X01_Helm",
+  "Components": [
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "01FA9A:Fallout4.esm",
+      "Count": 7
+    },
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "01FA9F:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA0:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA1:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FABB:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "000883:SomeAssemblyRequired - LBPAC.esp",
+      "Count": 2
+    },
+    {
+      "Component": "000888:SomeAssemblyRequired - LBPAC.esp",
+      "Count": 3
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "154AC5:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

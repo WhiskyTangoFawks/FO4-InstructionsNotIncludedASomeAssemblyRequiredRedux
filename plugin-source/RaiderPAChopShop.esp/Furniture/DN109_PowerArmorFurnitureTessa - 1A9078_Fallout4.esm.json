@@ -1,0 +1,148 @@
+{
+  "FormKey": "1A9078:Fallout4.esm",
+  "MajorRecordFlagsRaw": 33562644,
+  "EditorID": "DN109_PowerArmorFurnitureTessa",
+  "Fallout4MajorRecordFlags": [
+    "NotPlayable",
+    "0x10",
+    "0x2000",
+    "0x2000000"
+  ],
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "PowerArmorBatteryInsertScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "batteryInsertAnimKW",
+            "Object": "05BDA8:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "batteryItemKW",
+            "Object": "05BDAA:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "firstPersonKW",
+            "Object": "0A56D7:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "PlayerPathToFurniture",
+            "Object": "06D5BB:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "powerArmorFurnitureKW",
+            "Object": "03430B:Fallout4.esm"
+          }
+        ]
+      }
+    ]
+  },
+  "ObjectBounds": {
+    "First": "-40, -31, 0",
+    "Second": "40, 14, 138"
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Power Armor"
+  },
+  "Model": {
+    "File": "Furniture\\PowerArmor\\CharacterAssets\\PowerArmorFurniture.nif",
+    "Data": "0x04000000030000000000000001000000000000008DE6DFE8646473000024EAAA548AD98B646473000024EAAA4A630C6B646473000024EAAA"
+  },
+  "Keywords": [
+    "03430B:Fallout4.esm",
+    "0BA2F6:Fallout4.esm",
+    "12F848:Fallout4.esm",
+    "16FF02:Fallout4.esm"
+  ],
+  "PNAM": "0x00000000",
+  "ActivateTextOverride": {
+    "TargetLanguage": "English",
+    "Value": "Enter"
+  },
+  "Flags": [
+    "IgnoredBySandbox",
+    "HasModel"
+  ],
+  "Items": [
+    {
+      "Item": {
+        "Item": "075FE4:Fallout4.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Item": {
+        "Item": "000A6E:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    }
+  ],
+  "BenchType": "PowerArmor",
+  "MarkerModel": "Furniture\\PowerArmor\\CharacterAssets\\PowerArmorFurniture.nif",
+  "MarkerParameters": [
+    {
+      "Enabled": true,
+      "EntryTypes": [
+        "Front",
+        "Behind",
+        "Right",
+        "Left",
+        "Other",
+        "0x20",
+        "0x40",
+        "0x80"
+      ],
+      "Unknown": "0xFFFFFF"
+    },
+    {
+      "Enabled": true,
+      "Offset": "0, -75.813, 0",
+      "Keyword": "05BDA8:Fallout4.esm",
+      "EntryTypes": [
+        "Front",
+        "Behind",
+        "Right",
+        "Left",
+        "Other",
+        "0x20",
+        "0x40",
+        "0x80"
+      ],
+      "Unknown": "0xFFFFFF"
+    }
+  ],
+  "AttachParentSlots": [
+    "055F8C:Fallout4.esm",
+    "055F8D:Fallout4.esm",
+    "055F8E:Fallout4.esm",
+    "055F8F:Fallout4.esm",
+    "055F90:Fallout4.esm",
+    "03DAFC:Fallout4.esm",
+    "056720:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Includes": [
+        {
+          "Mod": "05671F:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ],
+  "WBDTDataTypeState": [
+    "Break0"
+  ],
+  "MajorFlags": [
+    "HasContainer",
+    "0x10",
+    "0x2000",
+    "PowerArmor"
+  ]
+}

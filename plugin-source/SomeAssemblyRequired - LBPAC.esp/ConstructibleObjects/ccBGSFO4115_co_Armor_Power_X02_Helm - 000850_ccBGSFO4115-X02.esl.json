@@ -1,0 +1,48 @@
+{
+  "FormKey": "000850:ccBGSFO4115-X02.esl",
+  "EditorID": "ccBGSFO4115_co_Armor_Power_X02_Helm",
+  "Components": [
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "01FA9F:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA0:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA1:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "000887:SomeAssemblyRequired - LBPAC.esp",
+      "Count": 2
+    },
+    {
+      "Component": "000882:SomeAssemblyRequired - LBPAC.esp",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "000806:ccBGSFO4115-X02.esl",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "FormKey": "179D4E:Fallout4.esm",
+  "EditorID": "co_PA_T51_Arm_Lining_D",
+  "Components": [
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FA9A:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAA1:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FABB:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FA97:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 5
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "04B256:Fallout4.esm",
+        "ParameterOneNumber": 307798
+      }
+    }
+  ],
+  "CreatedObject": "179D3C:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "FormKey": "000881:ccBGSFO4044-HellfirePowerArmor.esl",
+  "EditorID": "ccBGSFO4044_co_Hellfire_Leg_Lining_C",
+  "Components": [
+    {
+      "Component": "01FA97:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FA9A:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAA1:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FABB:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 5
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "0264DA:Fallout4.esm",
+        "ParameterOneNumber": 156890
+      }
+    },
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "04B255:Fallout4.esm",
+        "ParameterOneNumber": 307797
+      }
+    }
+  ],
+  "CreatedObject": "0008D1:ccBGSFO4044-HellfirePowerArmor.esl",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "FormKey": "000A38:RaiderPAChopShop.esp",
+  "EditorID": "LL_Armor_Power_Raider_Mods_Materials",
+  "FormVersion": 126,
+  "MaxCount": 0,
+  "Flags": [
+    "CalculateFromAllLevelsLessThanOrEqualPlayer",
+    "CalculateForEachItemInCount"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0009C1:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000A00:RaiderPAChopShop.esp",
+        "Count": 1
+      }
+    }
+  ]
+}

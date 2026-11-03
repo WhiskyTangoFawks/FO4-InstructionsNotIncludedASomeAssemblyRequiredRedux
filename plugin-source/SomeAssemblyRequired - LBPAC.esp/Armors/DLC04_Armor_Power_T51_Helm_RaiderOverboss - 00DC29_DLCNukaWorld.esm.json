@@ -1,0 +1,108 @@
+{
+  "FormKey": "00DC29:DLCNukaWorld.esm",
+  "EditorID": "DLC04_Armor_Power_T51_Helm_RaiderOverboss",
+  "ObjectBounds": {
+    "First": "-13, -16, -1",
+    "Second": "12, 15, 20"
+  },
+  "PreviewTransform": "2490A9:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Overboss Power Helm"
+  },
+  "WorldModel": {
+    "Male": {
+      "Model": {
+        "File": "Actors\\DLC04\\OverbossPowerArmor\\Overboss_Helmet_GO.nif",
+        "Data": "0x040000000E000000000000000600000003000000742A78F8646473000024EAAAAD467E9B646473000024EAAA1BECC25F646473000024EAAAC280C43C646473000024EAAA969E4F3C6464730040C2AEE24FF2495F6464730040C2AEE2B42A178B646473000024EAAA6D4611E8646473000024EAAA73AFC408646473000024EAAA0F2C2A00646473001CDB88C5511B9CBF6464730040C2AEE2DC6911DC646473000024EAAA94522DD4646473000024EAAAB3AFAB7B646473000024EAAAB37AF02E6267736D5BEB74CF24FEBBB36267736D5BEB74CF4BD3C95E6267736D5BEB74CF"
+      }
+    },
+    "Female": {
+      "Model": {
+        "File": "Actors\\DLC04\\OverbossPowerArmor\\Overboss_Helmet_GO.nif",
+        "Data": "0x040000000E000000000000000600000003000000742A78F8646473000024EAAAAD467E9B646473000024EAAA1BECC25F646473000024EAAAC280C43C646473000024EAAA969E4F3C6464730040C2AEE24FF2495F6464730040C2AEE2B42A178B646473000024EAAA6D4611E8646473000024EAAA73AFC408646473000024EAAA0F2C2A00646473001CDB88C5511B9CBF6464730040C2AEE2DC6911DC646473000024EAAA94522DD4646473000024EAAAB3AFAB7B646473000024EAAAB37AF02E6267736D5BEB74CF24FEBBB36267736D5BEB74CF4BD3C95E6267736D5BEB74CF"
+      }
+    }
+  },
+  "BipedBodyTemplate": {
+    "FirstPersonFlags": [
+      "HairTop",
+      "HairLong",
+      "Headband",
+      "Eyes",
+      "Beard",
+      "Mouth",
+      "Scalp"
+    ]
+  },
+  "Race": "013746:Fallout4.esm",
+  "Keywords": [
+    "04D8A1:Fallout4.esm",
+    "18417D:Fallout4.esm",
+    "188174:Fallout4.esm",
+    "078593:Fallout4.esm",
+    "18DFC4:Fallout4.esm",
+    "18DFC7:Fallout4.esm",
+    "182CD5:Fallout4.esm",
+    "07820B:Fallout4.esm",
+    "20BDB8:Fallout4.esm",
+    "1CC46A:Fallout4.esm"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Raider Power Armor Helmet Armor"
+  },
+  "InstanceNaming": "040D3B:DLCNukaWorld.esm",
+  "Armatures": [
+    {
+      "AddonIndex": 0,
+      "ArmorAddon": "140C48:Fallout4.esm"
+    }
+  ],
+  "Value": 50,
+  "Weight": 10.0,
+  "Health": 65,
+  "ArmorRating": 80,
+  "Unused": "0x000000",
+  "Resistances": [
+    {
+      "DamageType": "060A81:Fallout4.esm",
+      "Value": 50
+    },
+    {
+      "DamageType": "060A85:Fallout4.esm",
+      "Value": 50
+    },
+    {
+      "DamageType": "060A84:Fallout4.esm",
+      "Value": 5
+    }
+  ],
+  "AttachParentSlots": [
+    "03DAFC:Fallout4.esm",
+    "1E32C8:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Default": true,
+      "Includes": [
+        {
+          "Mod": "078595:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "00B8E7:DLCNukaWorld.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1CFE4B:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "FormKey": "203057:Fallout4.esm",
+  "EditorID": "Armor03PowerArmor7T60",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "The T-60 armor series began manufacture in early 2077, during the peak of the Resource Wars. Suits were being trialled amongst National Guard units on October 23, the day America fell to nuclear war..."
+  },
+  "LoadingScreenNif": "20F44A:Fallout4.esm",
+  "Transform": "20F44B:Fallout4.esm",
+  "Rotation": {
+    "Min": -180,
+    "Max": 180
+  },
+  "Zoom": {
+    "Min": -1.5,
+    "Max": 1.6
+  }
+}

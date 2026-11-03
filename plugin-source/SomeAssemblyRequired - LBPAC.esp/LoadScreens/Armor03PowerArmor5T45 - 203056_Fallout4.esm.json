@@ -1,0 +1,18 @@
+{
+  "FormKey": "203056:Fallout4.esm",
+  "EditorID": "Armor03PowerArmor5T45",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "The T-45 series was the first version of Power Armor ever employed on the battlefield by the U.S. Military. Many suits remain active in the Wasteland today, and provide their wearers with substantial protection."
+  },
+  "LoadingScreenNif": "20F44E:Fallout4.esm",
+  "Transform": "20F44F:Fallout4.esm",
+  "Rotation": {
+    "Min": -180,
+    "Max": 180
+  },
+  "Zoom": {
+    "Min": -1.5,
+    "Max": 1.6
+  }
+}

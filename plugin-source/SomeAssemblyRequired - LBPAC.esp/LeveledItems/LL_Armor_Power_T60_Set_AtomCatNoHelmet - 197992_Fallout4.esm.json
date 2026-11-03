@@ -1,0 +1,61 @@
+{
+  "FormKey": "197992:Fallout4.esm",
+  "EditorID": "LL_Armor_Power_T60_Set_AtomCatNoHelmet",
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -10402,
+        "Reference": "154ABD:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -10402,
+        "Reference": "154ABE:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -10402,
+        "Reference": "154AC0:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -10402,
+        "Reference": "154AC1:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": -10402,
+        "Reference": "154AC2:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    }
+  ],
+  "FilterKeywordChances": [
+    {
+      "FilterKeyword": "192D97:Fallout4.esm",
+      "Chance": 2.3283064370807974E-08
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "FormKey": "04B186:DLCNukaWorld.esm",
+  "EditorID": "co_DLC04_Armor_Power_T51_Helm_RaiderOverboss",
+  "Components": [
+    {
+      "Component": "01FAA4:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 6
+    },
+    {
+      "Component": "000882:SomeAssemblyRequired - LBPAC.esp",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "00DC29:DLCNukaWorld.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

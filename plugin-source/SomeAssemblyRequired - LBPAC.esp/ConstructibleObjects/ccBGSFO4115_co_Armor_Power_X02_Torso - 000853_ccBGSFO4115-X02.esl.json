@@ -1,0 +1,56 @@
+{
+  "FormKey": "000853:ccBGSFO4115-X02.esl",
+  "EditorID": "ccBGSFO4115_co_Armor_Power_X02_Torso",
+  "Components": [
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 18
+    },
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 8
+    },
+    {
+      "Component": "01FAA1:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "01FAB0:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FABB:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 8
+    },
+    {
+      "Component": "03D294:Fallout4.esm",
+      "Count": 8
+    },
+    {
+      "Component": "000887:SomeAssemblyRequired - LBPAC.esp",
+      "Count": 2
+    },
+    {
+      "Component": "000882:SomeAssemblyRequired - LBPAC.esp",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "000807:ccBGSFO4115-X02.esl",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

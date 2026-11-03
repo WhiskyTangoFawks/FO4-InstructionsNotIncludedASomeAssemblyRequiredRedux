@@ -1,0 +1,31 @@
+{
+  "FormKey": "000A0B:RaiderPAChopShop.esp",
+  "EditorID": "mat_RaiderPAChopShop_Rusty_swap",
+  "FormVersion": 128,
+  "Substitutions": [
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderParLegL.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\Rusty\\RustyRaiderPALegL.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaidePATorso.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\Rusty\\RustyRaiderPATorso.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderPAArmR.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\Rusty\\RustyRaiderPAArmR.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderPAHelmet.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\Rusty\\RustyRaiderPAHelmet.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderPRLegR.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\Rusty\\RustyRaiderPALegR.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderPAArmL.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\Rusty\\RustyRaiderPAArmL.BGSM"
+    }
+  ]
+}

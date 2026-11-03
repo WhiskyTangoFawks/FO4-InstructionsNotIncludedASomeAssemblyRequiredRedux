@@ -1,0 +1,281 @@
+{
+  "FormKey": "140C57:Fallout4.esm",
+  "EditorID": "Armor_Power_Raider_Torso",
+  "ObjectBounds": {
+    "First": "-17, -31, -2",
+    "Second": "17, 31, 34"
+  },
+  "PreviewTransform": "2490AB:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Raider Power Chest Piece"
+  },
+  "WorldModel": {
+    "Male": {
+      "Model": {
+        "File": "Actors\\PowerArmor\\CharacterAssets\\Raider_Body_GO.nif",
+        "Data": "0x0400000004000000000000000200000001000000BE7307FA646473000024EAAA671F0199646473000024EAAA79F6D479646473000024EAAA0F2C2A00646473001CDB88C51240E0236267736D5BEB74CF"
+      }
+    }
+  },
+  "BipedBodyTemplate": {
+    "FirstPersonFlags": [
+      "TorsoArmor"
+    ]
+  },
+  "Race": "013746:Fallout4.esm",
+  "Keywords": [
+    "04D8A1:Fallout4.esm",
+    "07820B:Fallout4.esm",
+    "078593:Fallout4.esm",
+    "184182:Fallout4.esm",
+    "188179:Fallout4.esm",
+    "18DFC4:Fallout4.esm",
+    "18DFC7:Fallout4.esm",
+    "18DFCB:Fallout4.esm",
+    "18DFCE:Fallout4.esm",
+    "20BDB8:Fallout4.esm",
+    "1CC46A:Fallout4.esm"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Raider Power Armor Torso Armor"
+  },
+  "InstanceNaming": "188160:Fallout4.esm",
+  "Armatures": [
+    {
+      "AddonIndex": 0,
+      "ArmorAddon": "140C41:Fallout4.esm"
+    }
+  ],
+  "Value": 100,
+  "Weight": 22.0,
+  "Health": 200,
+  "ArmorRating": 100,
+  "Unused": "0x000000",
+  "Resistances": [
+    {
+      "DamageType": "060A81:Fallout4.esm",
+      "Value": 30
+    },
+    {
+      "DamageType": "060A85:Fallout4.esm",
+      "Value": 50
+    }
+  ],
+  "AttachParentSlots": [
+    "055F8C:Fallout4.esm",
+    "1E32C8:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "Default": true,
+      "Keywords": [
+        "197DEE:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "137B7C:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0785A0:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "Keywords": [
+        "191648:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "137B7C:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "18418E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "Keywords": [
+        "192D99:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "137B7C:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "00086A:RaiderPAChopShop.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "Keywords": [
+        "192D9A:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "137B7C:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0009DE:RaiderPAChopShop.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "Keywords": [
+        "192D9B:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "137B7C:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0009E2:RaiderPAChopShop.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "Keywords": [
+        "192D9C:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "137B7C:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0009E6:RaiderPAChopShop.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "AddonIndex": 0,
+      "Keywords": [
+        "1CB2B6:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "1AE25D:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "AddonIndex": 1,
+      "Keywords": [
+        "1CB2B6:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "1AE25D:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "Keywords": [
+        "000A6C:RaiderPAChopShop.esp"
+      ],
+      "Includes": [
+        {
+          "Mod": "137B7C:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "00086A:RaiderPAChopShop.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1B39B1:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "Keywords": [
+        "000A6F:RaiderPAChopShop.esp"
+      ],
+      "Includes": [
+        {
+          "Mod": "137B7C:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "00086A:RaiderPAChopShop.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "1B39B0:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "FormKey": "180FC6:Fallout4.esm",
+  "EditorID": "co_PA_T60_Leg_Lining_B",
+  "Components": [
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAB7:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAB9:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "180FD3:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

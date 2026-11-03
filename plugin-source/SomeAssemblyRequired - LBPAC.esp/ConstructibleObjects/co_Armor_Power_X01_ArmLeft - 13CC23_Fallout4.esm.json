@@ -1,0 +1,56 @@
+{
+  "FormKey": "13CC23:Fallout4.esm",
+  "EditorID": "co_Armor_Power_X01_ArmLeft",
+  "Components": [
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 6
+    },
+    {
+      "Component": "01FA9A:Fallout4.esm",
+      "Count": 8
+    },
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA1:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAB0:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FABB:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FABC:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "000883:SomeAssemblyRequired - LBPAC.esp",
+      "Count": 2
+    },
+    {
+      "Component": "000888:SomeAssemblyRequired - LBPAC.esp",
+      "Count": 3
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "154AC3:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

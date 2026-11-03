@@ -1,0 +1,53 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000A57:RaiderPAChopShop.esp",
+  "EditorID": "PA_Raider_Material_APSunRegen",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Photovoltaic Coating"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Increases Action Point refresh speed in sunlight."
+  },
+  "AttachPoint": "17DAA8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFCB:Fallout4.esm",
+    "078593:Fallout4.esm"
+  ],
+  "LooseMod": "000A5B:RaiderPAChopShop.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "07C712:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "188169:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.05,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "000A60:RaiderPAChopShop.esp",
+      "Value": 1,
+      "FunctionType": "Add"
+    }
+  ]
+}

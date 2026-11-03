@@ -1,0 +1,18 @@
+{
+  "FormKey": "203054:Fallout4.esm",
+  "EditorID": "Armor03PowerArmor4Raider",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Across the Commonwealth, some of the fiercest Raider leaders have scavenged old suits of Power Armor and restored them to full working order."
+  },
+  "LoadingScreenNif": "20F448:Fallout4.esm",
+  "Transform": "20F449:Fallout4.esm",
+  "Rotation": {
+    "Min": -180,
+    "Max": 180
+  },
+  "Zoom": {
+    "Min": -1.5,
+    "Max": 1.6
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "FormKey": "13CBE5:Fallout4.esm",
+  "EditorID": "co_Armor_Power_T45_Helm",
+  "Components": [
+    {
+      "Component": "01FA9B:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FAA4:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 6
+    },
+    {
+      "Component": "000883:SomeAssemblyRequired - LBPAC.esp",
+      "Count": 2
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "154ABF:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

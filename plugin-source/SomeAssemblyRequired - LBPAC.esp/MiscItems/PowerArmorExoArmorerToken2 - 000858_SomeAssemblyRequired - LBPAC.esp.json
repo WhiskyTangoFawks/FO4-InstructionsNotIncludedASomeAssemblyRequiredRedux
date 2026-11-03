@@ -1,0 +1,17 @@
+{
+  "FormKey": "000858:SomeAssemblyRequired - LBPAC.esp",
+  "EditorID": "PowerArmorExoArmorerToken2",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Perk: Armorer"
+  },
+  "Keywords": [
+    "0E9447:Fallout4.esm"
+  ],
+  "Components": [
+    {
+      "Component": "000883:SomeAssemblyRequired - LBPAC.esp",
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "FormKey": "000A0C:RaiderPAChopShop.esp",
+  "EditorID": "mat_RaiderPAChopShop_Shark_swap",
+  "FormVersion": 128,
+  "Substitutions": [
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderParLegL.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\HRShark\\SharkRaiderPALegL.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaidePATorso.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\HRShark\\SharkRaiderPATorso.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderPAArmR.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\HRShark\\SharkRaiderPAArmR.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderPAHelmet.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\HRShark\\SharkRaiderPAHelmet.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderPRLegR.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\HRShark\\SharkRaiderPALegR.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderPAArmL.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\HRShark\\SharkRaiderPAArmL.BGSM"
+    }
+  ]
+}

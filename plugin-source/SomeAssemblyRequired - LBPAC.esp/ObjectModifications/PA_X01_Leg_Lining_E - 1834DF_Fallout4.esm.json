@@ -1,0 +1,67 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "1834DF:Fallout4.esm",
+  "EditorID": "PA_X01_Leg_Lining_E",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Mk.V"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Ultralight Ceramics. Improved health, reduced weight."
+  },
+  "AttachPoint": "17DAA9:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFCD:Fallout4.esm",
+    "18DFC4:Fallout4.esm",
+    "18DFCA:Fallout4.esm"
+  ],
+  "LooseMod": "1831B0:Fallout4.esm",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "18816E:Fallout4.esm",
+      "Value": 651,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": -0.7,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.2,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Rating",
+      "Value": 45,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "DamageTypeValue",
+      "Record": "060A81:Fallout4.esm",
+      "Value": 15.0,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Health",
+      "Value": 150,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "001068:AOSuperAlloysCohesion.esp",
+      "Value": 371,
+      "FunctionType": "Remove"
+    }
+  ]
+}

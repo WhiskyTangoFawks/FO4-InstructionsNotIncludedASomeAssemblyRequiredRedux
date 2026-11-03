@@ -1,0 +1,17 @@
+{
+  "FormKey": "00085E:SomeAssemblyRequired - LBPAC.esp",
+  "EditorID": "PowerArmorExoScienceToken1",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Perk: Science!"
+  },
+  "Keywords": [
+    "0E9447:Fallout4.esm"
+  ],
+  "Components": [
+    {
+      "Component": "000886:SomeAssemblyRequired - LBPAC.esp",
+      "Count": 1
+    }
+  ]
+}

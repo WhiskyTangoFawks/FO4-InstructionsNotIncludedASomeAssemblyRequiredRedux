@@ -1,0 +1,31 @@
+{
+  "FormKey": "000A60:RaiderPAChopShop.esp",
+  "EditorID": "mat_RaiderPAChopShop_Ghillie_swap",
+  "FormVersion": 128,
+  "Substitutions": [
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderParLegL.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\Ghillie\\GhillieRaiderPALegL.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaidePATorso.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\Ghillie\\GhillieRaiderPATorso.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderPAArmR.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\Ghillie\\GhillieRaiderPAArmR.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderPAHelmet.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\Ghillie\\GhillieRaiderPAHelmet.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderPRLegR.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\Ghillie\\GhillieRaiderPALegR.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\RaiderPAArmL.BGSM",
+      "ReplacementMaterial": "RaiderPAChopShop\\Ghillie\\GhillieRaiderPAArmL.BGSM"
+    }
+  ]
+}

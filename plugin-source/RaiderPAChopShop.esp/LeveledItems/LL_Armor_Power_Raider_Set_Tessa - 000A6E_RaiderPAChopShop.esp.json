@@ -1,0 +1,71 @@
+{
+  "FormKey": "000A6E:RaiderPAChopShop.esp",
+  "EditorID": "LL_Armor_Power_Raider_Set_Tessa",
+  "FormVersion": 111,
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": 32219,
+        "Reference": "18AE1F:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 4
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": 32219,
+        "Reference": "18AE20:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 4
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": 32219,
+        "Reference": "18AE21:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 4
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": 32219,
+        "Reference": "18AE22:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 4
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": 32219,
+        "Reference": "18AE23:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 4
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": 32219,
+        "Reference": "18AE24:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 4
+      }
+    }
+  ],
+  "FilterKeywordChances": [
+    {
+      "FilterKeyword": "000A6F:RaiderPAChopShop.esp",
+      "Chance": 2.3283064370807974E-08
+    }
+  ]
+}

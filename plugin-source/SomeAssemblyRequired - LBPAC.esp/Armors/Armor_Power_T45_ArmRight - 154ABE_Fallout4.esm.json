@@ -1,0 +1,265 @@
+{
+  "FormKey": "154ABE:Fallout4.esm",
+  "EditorID": "Armor_Power_T45_ArmRight",
+  "ObjectBounds": {
+    "First": "-15, -13, 0",
+    "Second": "12, 15, 19"
+  },
+  "PreviewTransform": "2490AC:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "T-45 Right Arm"
+  },
+  "WorldModel": {
+    "Male": {
+      "Model": {
+        "File": "Actors\\PowerArmor\\CharacterAssets\\Mods\\GO_T45_LArm.nif",
+        "Data": "0x040000000500000000000000030000000100000059A7766A646473000024EAAA80CB7009646473000024EAAA9E22A5E9646473000024EAAA94522DD4646473000024EAAA0F2C2A00646473001CDB88C565D0728B6267736D5BEB74CF"
+      }
+    }
+  },
+  "BipedBodyTemplate": {
+    "FirstPersonFlags": [
+      "RightArmArmor"
+    ]
+  },
+  "Race": "013746:Fallout4.esm",
+  "Keywords": [
+    "04D8A1:Fallout4.esm",
+    "188177:Fallout4.esm",
+    "188171:Fallout4.esm",
+    "18DFC6:Fallout4.esm",
+    "18DFC4:Fallout4.esm",
+    "18DFCB:Fallout4.esm",
+    "18DFC7:Fallout4.esm",
+    "18DFC5:Fallout4.esm",
+    "182CD8:Fallout4.esm",
+    "07820B:Fallout4.esm",
+    "1CC46A:Fallout4.esm"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "T-45 Right Arm Armor"
+  },
+  "InstanceNaming": "188160:Fallout4.esm",
+  "Armatures": [
+    {
+      "AddonIndex": 0,
+      "ArmorAddon": "140C46:Fallout4.esm"
+    }
+  ],
+  "Value": 100,
+  "Weight": 15.0,
+  "Health": 50,
+  "ArmorRating": 50,
+  "Unused": "0x000000",
+  "Resistances": [
+    {
+      "DamageType": "060A81:Fallout4.esm",
+      "Value": 15
+    },
+    {
+      "DamageType": "060A84:Fallout4.esm"
+    },
+    {
+      "DamageType": "060A85:Fallout4.esm",
+      "Value": 15
+    }
+  ],
+  "AttachParentSlots": [
+    "055F8E:Fallout4.esm",
+    "1E32C8:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Standard"
+      },
+      "Default": true,
+      "Keywords": [
+        "197DEE:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "182D02:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3E:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Standard, any lining"
+      },
+      "Keywords": [
+        "190F55:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "182D02:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "190F51:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Keywords": [
+        "191648:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "182D02:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "182D06:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Keywords": [
+        "192D99:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "182D02:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "182D0C:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Keywords": [
+        "192D9A:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "182D02:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "182D12:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Keywords": [
+        "192D9B:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "182D02:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "182D18:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Keywords": [
+        "192D9C:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "182D02:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "182D1E:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "AddonIndex": 0,
+      "Keywords": [
+        "192D97:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "1979AC:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "FormKey": "1CFE89:Fallout4.esm",
+  "EditorID": "co_PA_T51_Helmet_Misc_Sensor",
+  "Components": [
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 5
+    },
+    {
+      "Component": "01FA9F:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAA0:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 4
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "0264D9:Fallout4.esm",
+        "ParameterOneNumber": 156889
+      }
+    }
+  ],
+  "CreatedObject": "1CFEAE:Fallout4.esm",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0009E0:RaiderPAChopShop.esp",
+  "EditorID": "PA_Raider_Helmet_Lining_E",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Aluminum Plate"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Reduced weight, increased damage resistance, decreased battery drain."
+  },
+  "AttachPoint": "17DAA9:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "182CD5:Fallout4.esm",
+    "18DFC4:Fallout4.esm",
+    "078593:Fallout4.esm"
+  ],
+  "LooseMod": "0009ED:RaiderPAChopShop.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "18816E:Fallout4.esm",
+      "Value": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": -0.2,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.2,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Rating",
+      "Value": 25,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "DamageTypeValue",
+      "Record": "060A81:Fallout4.esm",
+      "Value": 5.0,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Health",
+      "Value": 25,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "16939D:Fallout4.esm",
+      "Value": 651,
+      "FunctionType": "Add"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "ModKey": "SomeAssemblyRequired - LBPAC.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "NextFormID": 2206
+    },
+    "Author": "",
+    "Description": "",
+    "INCC": 0
+  }
+}
