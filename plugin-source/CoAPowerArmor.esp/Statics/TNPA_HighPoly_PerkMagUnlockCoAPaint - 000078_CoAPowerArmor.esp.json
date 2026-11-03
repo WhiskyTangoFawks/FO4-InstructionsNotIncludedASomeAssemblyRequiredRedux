@@ -1,0 +1,18 @@
+{
+  "FormKey": "000078:CoAPowerArmor.esp",
+  "VersionControl": 10494,
+  "EditorID": "TNPA_HighPoly_PerkMagUnlockCoAPaint",
+  "ObjectBounds": {
+    "First": "-8, -11, 0",
+    "Second": "8, 12, 0"
+  },
+  "PreviewTransform": "1E2EAD:Fallout4.esm",
+  "Model": {
+    "File": "Interface\\ComicsAndMagazines\\ComicHighRes01.nif",
+    "Data": "0x0400000000000000000000000000000000000000",
+    "MaterialSwap": "0001C3:CoAPowerArmor.esp"
+  },
+  "MaxAngle": 90.0,
+  "LeafAmplitude": 1.0,
+  "LeafFrequency": 1.0
+}

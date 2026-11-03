@@ -1,0 +1,15 @@
+{
+  "FormKey": "000112:CoAPowerArmor.esp",
+  "VersionControl": 10501,
+  "EditorID": "TNPA_CoAX1HeadlampBAO",
+  "ObjectBounds": {
+    "First": "-5, -6, -1",
+    "Second": "5, -4, 2"
+  },
+  "Model": {
+    "File": "Tinuvia\\CoAPowerArmor\\CoAX1HeadlampB_FX.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "NodeIndex": 2383,
+  "Light": "19CC3F:Fallout4.esm"
+}

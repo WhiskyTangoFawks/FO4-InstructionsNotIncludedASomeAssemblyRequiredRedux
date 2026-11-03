@@ -1,0 +1,47 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0001D9:CoAPowerArmor.esp",
+  "VersionControl": 11037,
+  "EditorID": "TNPA_PA_Atomite_Torso_Misc_AtomsDevoted",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Atom's Devoted"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Radiation Resistance doubles for every 100 rads taken."
+  },
+  "AttachPoint": "17DAA7:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFCE:Fallout4.esm",
+    "000007:CoAPowerArmor.esp"
+  ],
+  "LooseMod": "0001DA:CoAPowerArmor.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.325,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "0247C7:DLCCoast.esm",
+      "Value": 615,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "0001DB:CoAPowerArmor.esp",
+      "Value": 615,
+      "FunctionType": "Add"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "FormKey": "00001B:CoAPowerArmor.esp",
+  "VersionControl": 10502,
+  "EditorID": "TNPA_FortifyCritRate10PAEffect",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Fortify Crit Chance +10%"
+  },
+  "Keywords": [
+    "246720:Fallout4.esm"
+  ],
+  "Flags": [
+    "Recover",
+    "DispelWithKeywords",
+    "NoArea"
+  ],
+  "Archetype": {
+    "MutagenObjectType": "MagicEffectArchetype",
+    "Type": "Script"
+  },
+  "DualCastScale": 1.0,
+  "PerkToApply": "000110:CoAPowerArmor.esp",
+  "CastingSoundLevel": "Normal",
+  "Sounds": [],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "+10% Critical Rate"
+  }
+}

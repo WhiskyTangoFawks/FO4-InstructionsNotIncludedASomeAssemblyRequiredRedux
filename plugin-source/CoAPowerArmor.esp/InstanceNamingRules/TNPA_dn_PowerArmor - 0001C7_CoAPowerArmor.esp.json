@@ -1,0 +1,664 @@
+{
+  "FormKey": "0001C7:CoAPowerArmor.esp",
+  "VersionControl": 11068,
+  "EditorID": "TNPA_dn_PowerArmor",
+  "Target": [
+    "0x1",
+    "0x4",
+    "0x8",
+    "0x10"
+  ],
+  "RuleSets": [
+    {
+      "Names": [
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Knuckles"
+          },
+          "Keywords": [
+            "238418:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Bracers"
+          },
+          "Keywords": [
+            "238419:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Hydraulic"
+          },
+          "Keywords": [
+            "23841A:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Targeting"
+          },
+          "Keywords": [
+            "23841B:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Databased"
+          },
+          "Keywords": [
+            "23841C:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Focused"
+          },
+          "Keywords": [
+            "000014:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Sensing"
+          },
+          "Keywords": [
+            "23841E:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Kinetic"
+          },
+          "Keywords": [
+            "23841F:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Calibrated"
+          },
+          "Keywords": [
+            "238420:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Vented"
+          },
+          "Keywords": [
+            "238421:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Optimized"
+          },
+          "Keywords": [
+            "238422:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Overdriven"
+          },
+          "Keywords": [
+            "238423:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Assembled"
+          },
+          "Keywords": [
+            "238424:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Cleansing"
+          },
+          "Keywords": [
+            "238425:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Rebared"
+          },
+          "Keywords": [
+            "238426:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Protocoled"
+          },
+          "Keywords": [
+            "238427:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Dynamo"
+          },
+          "Keywords": [
+            "238428:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Medical"
+          },
+          "Keywords": [
+            "238429:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Reactive"
+          },
+          "Keywords": [
+            "23842A:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Motion-Assisted"
+          },
+          "Keywords": [
+            "23842B:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Coiled"
+          },
+          "Keywords": [
+            "23842C:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Recon"
+          },
+          "Keywords": [
+            "23842D:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "VATS"
+          },
+          "Keywords": [
+            "23842E:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Jet Pack"
+          },
+          "Keywords": [
+            "23842F:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Stealth Boy"
+          },
+          "Keywords": [
+            "238430:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Gamma Bracers"
+          },
+          "Keywords": [
+            "000010:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Atom's Ally"
+          },
+          "Keywords": [
+            "0001D4:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Atom's Devoted"
+          },
+          "Keywords": [
+            "0001DB:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        }
+      ]
+    },
+    {
+      "Names": [
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Organic"
+          },
+          "Keywords": [
+            "00007B:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Winterized"
+          },
+          "Keywords": [
+            "188161:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Prism"
+          },
+          "Keywords": [
+            "188162:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Photovoltaic"
+          },
+          "Keywords": [
+            "188169:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Titanium"
+          },
+          "Keywords": [
+            "188166:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "EMP"
+          },
+          "Keywords": [
+            "188167:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Thermal"
+          },
+          "Keywords": [
+            "188168:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Molecular"
+          },
+          "Keywords": [
+            "00000A:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Shielded"
+          },
+          "Keywords": [
+            "238412:Fallout4.esm"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Orbital"
+          },
+          "Keywords": [
+            "00000B:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        }
+      ]
+    },
+    {
+      "Names": [
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Atomite Mk.II"
+          },
+          "Keywords": [
+            "18816B:Fallout4.esm",
+            "000008:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Atomite Mk.III"
+          },
+          "Keywords": [
+            "18816C:Fallout4.esm",
+            "000008:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Atomite Mk.V"
+          },
+          "Keywords": [
+            "18816E:Fallout4.esm",
+            "000008:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Atomite Mk.VI"
+          },
+          "Keywords": [
+            "18816F:Fallout4.esm",
+            "000008:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Atomite Mk.IV"
+          },
+          "Keywords": [
+            "18816D:Fallout4.esm",
+            "000008:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Atomite Mk.I"
+          },
+          "Keywords": [
+            "000008:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        }
+      ]
+    },
+    {
+      "Names": [
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Bane of Bones Helm"
+          },
+          "Keywords": [
+            "0001E5:CoAPowerArmor.esp",
+            "0001E6:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Rising Redeemer Helm"
+          },
+          "Keywords": [
+            "0001E4:CoAPowerArmor.esp",
+            "0001E6:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Rising Redeemer Chest Piece"
+          },
+          "Keywords": [
+            "0001E4:CoAPowerArmor.esp",
+            "0001EB:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Augur of Ashes Chest Piece"
+          },
+          "Keywords": [
+            "0001E3:CoAPowerArmor.esp",
+            "0001EB:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Bane of Bones Chest Piece"
+          },
+          "Keywords": [
+            "0001E5:CoAPowerArmor.esp",
+            "0001EB:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Augur Helmet"
+          },
+          "Keywords": [
+            "00000D:CoAPowerArmor.esp",
+            "0001E6:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Redeemer Helmet"
+          },
+          "Keywords": [
+            "00000E:CoAPowerArmor.esp",
+            "0001E6:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Bones Helmet"
+          },
+          "Keywords": [
+            "00000F:CoAPowerArmor.esp",
+            "0001E6:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Augur Torso"
+          },
+          "Keywords": [
+            "00000D:CoAPowerArmor.esp",
+            "0001EB:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Redeemer Torso"
+          },
+          "Keywords": [
+            "00000E:CoAPowerArmor.esp",
+            "0001EB:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Bane Torso"
+          },
+          "Keywords": [
+            "00000F:CoAPowerArmor.esp",
+            "0001EB:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Left Leg"
+          },
+          "Keywords": [
+            "0001E8:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Right Leg"
+          },
+          "Keywords": [
+            "0001EA:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Left Arm"
+          },
+          "Keywords": [
+            "0001E7:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Right Arm"
+          },
+          "Keywords": [
+            "0001E9:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        },
+        {
+          "Name": {
+            "TargetLanguage": "English",
+            "Value": "Augur of Ashes Helm"
+          },
+          "Keywords": [
+            "0001E3:CoAPowerArmor.esp",
+            "0001E6:CoAPowerArmor.esp"
+          ],
+          "Index": 10000
+        }
+      ]
+    },
+    {
+      "Names": []
+    },
+    {
+      "Names": []
+    },
+    {
+      "Names": []
+    },
+    {
+      "Names": []
+    },
+    {
+      "Names": []
+    },
+    {
+      "Names": []
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00017F:CoAPowerArmor.esp",
+  "VersionControl": 10493,
+  "EditorID": "TNPA_PA_Atomite_Torso_Misc_Reactive",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Reactive Plates"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Reflects 50% of melee damage back on attacker."
+  },
+  "AttachPoint": "17DAA7:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFC7:Fallout4.esm",
+    "18DFCE:Fallout4.esm",
+    "000007:CoAPowerArmor.esp"
+  ],
+  "LooseMod": "000072:CoAPowerArmor.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.25,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "0976E4:Fallout4.esm",
+      "Value": 615,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "23842A:Fallout4.esm",
+      "Value": 615,
+      "FunctionType": "Add"
+    }
+  ]
+}

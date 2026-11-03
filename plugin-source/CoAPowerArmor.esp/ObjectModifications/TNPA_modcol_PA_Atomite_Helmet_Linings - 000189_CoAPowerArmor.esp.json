@@ -1,0 +1,45 @@
+{
+  "MutagenObjectType": "ObjectModification",
+  "FormKey": "000189:CoAPowerArmor.esp",
+  "MajorRecordFlagsRaw": 128,
+  "VersionControl": 10494,
+  "EditorID": "TNPA_modcol_PA_Atomite_Helmet_Linings",
+  "Fallout4MajorRecordFlags": [
+    "0x80"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "17DAA9:Fallout4.esm",
+  "Includes": [
+    {
+      "Mod": "0001A6:CoAPowerArmor.esp",
+      "MinimumLevel": 11,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "0001A5:CoAPowerArmor.esp",
+      "MinimumLevel": 15,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "0001A4:CoAPowerArmor.esp",
+      "MinimumLevel": 19,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "0001AC:CoAPowerArmor.esp",
+      "MinimumLevel": 23,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "0001AE:CoAPowerArmor.esp",
+      "MinimumLevel": 27,
+      "DoNotUseAll": true
+    }
+  ],
+  "MajorFlags": [
+    "0x80"
+  ]
+}

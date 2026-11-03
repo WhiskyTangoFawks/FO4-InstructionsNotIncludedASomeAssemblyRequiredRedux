@@ -1,0 +1,33 @@
+{
+  "FormKey": "0001D7:CoAPowerArmor.esp",
+  "VersionControl": 10807,
+  "EditorID": "TNPA_co_PA_Atomite_Arm_Misc_CoAShield",
+  "Components": [
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAB3:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Makes the Children Of Atom friendly to you."
+  },
+  "CreatedObject": "0001D3:CoAPowerArmor.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

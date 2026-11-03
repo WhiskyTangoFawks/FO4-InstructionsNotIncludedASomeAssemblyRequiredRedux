@@ -1,0 +1,15 @@
+{
+  "FormKey": "000115:CoAPowerArmor.esp",
+  "VersionControl": 10501,
+  "EditorID": "TNPA_CoAX1HeadlampBOrangeAO",
+  "ObjectBounds": {
+    "First": "-5, -6, -1",
+    "Second": "5, -4, 2"
+  },
+  "Model": {
+    "File": "Tinuvia\\CoAPowerArmor\\CoAX1HeadlampB_FXOrange.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "NodeIndex": 2384,
+  "Light": "000039:CoAPowerArmor.esp"
+}

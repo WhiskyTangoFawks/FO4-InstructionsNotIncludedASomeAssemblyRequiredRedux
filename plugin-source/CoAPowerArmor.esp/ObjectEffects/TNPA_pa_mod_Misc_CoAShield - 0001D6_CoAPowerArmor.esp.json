@@ -1,0 +1,16 @@
+{
+  "FormKey": "0001D6:CoAPowerArmor.esp",
+  "VersionControl": 10807,
+  "EditorID": "TNPA_pa_mod_Misc_CoAShield",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Makes Children of Atom friendly"
+  },
+  "EnchantType": "Enchantment",
+  "Effects": [
+    {
+      "BaseEffect": "0001D2:CoAPowerArmor.esp",
+      "Data": {}
+    }
+  ]
+}

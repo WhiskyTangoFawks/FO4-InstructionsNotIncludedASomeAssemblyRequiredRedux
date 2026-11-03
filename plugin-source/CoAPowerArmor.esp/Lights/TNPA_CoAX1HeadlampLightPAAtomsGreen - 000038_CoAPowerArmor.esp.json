@@ -1,0 +1,31 @@
+{
+  "FormKey": "000038:CoAPowerArmor.esp",
+  "MajorRecordFlagsRaw": 131072,
+  "VersionControl": 10498,
+  "EditorID": "TNPA_CoAX1HeadlampLightPAAtomsGreen",
+  "Fallout4MajorRecordFlags": [
+    "Dangerous_OffLimits_InteriorCell"
+  ],
+  "Time": -1,
+  "Radius": 1024,
+  "Color": "#00D7F13F",
+  "Flags": [
+    "0x1",
+    "OffByDefault",
+    "NonShadowSpotlight"
+  ],
+  "FalloffExponent": 1.0,
+  "FOV": 70.0,
+  "NearClip": 7.2174,
+  "FlickerPeriod": 0.33333334,
+  "FlickerIntensityAmplitude": 0.1,
+  "FlickerMovementAmplitude": 32.0,
+  "Scalar": 1.0,
+  "Exponent": 2.0,
+  "FadeValue": 2.0,
+  "Gobo": "data\\Textures\\Effects\\Gobos\\FlashlightGobo03_d.dds",
+  "Lens": "239223:Fallout4.esm",
+  "MajorFlags": [
+    "0x20000"
+  ]
+}

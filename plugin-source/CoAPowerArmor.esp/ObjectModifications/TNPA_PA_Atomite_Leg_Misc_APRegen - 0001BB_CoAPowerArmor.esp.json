@@ -1,0 +1,54 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0001BB:CoAPowerArmor.esp",
+  "VersionControl": 10493,
+  "EditorID": "TNPA_PA_Atomite_Leg_Misc_APRegen",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Kinetic Servos"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Increases Action Point refresh speed while moving."
+  },
+  "AttachPoint": "17DAA7:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFCD:Fallout4.esm",
+    "000007:CoAPowerArmor.esp"
+  ],
+  "LooseMod": "00006A:CoAPowerArmor.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.25,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "1D0224:Fallout4.esm",
+      "Value": 615,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "23841F:Fallout4.esm",
+      "Value": 615,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "ActorValues",
+      "Record": "22B646:Fallout4.esm",
+      "Value": 1.0,
+      "FunctionType": "Add"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "FormKey": "0001C3:CoAPowerArmor.esp",
+  "MajorRecordFlagsRaw": 65536,
+  "VersionControl": 10494,
+  "EditorID": "CustomMaterialSwap02000078",
+  "Fallout4MajorRecordFlags": [
+    "0x10000"
+  ],
+  "Substitutions": [
+    {
+      "OriginalMaterial": "Props\\ComicsAndMagazinesHighRes\\AwesomeTales\\AwesomeTales1.BGSM",
+      "ReplacementMaterial": "Tinuvia\\CoAPowerArmor\\AtomsMagazine01High.BGSM"
+    },
+    {
+      "OriginalMaterial": "Props\\ComicsAndMagazinesHighRes\\Backside\\ComicBackBare01.BGSM",
+      "ReplacementMaterial": "PROPS\\ComicsAndMagazinesHighRes\\Backside\\ComicBackGreenPuke.BGSM"
+    }
+  ],
+  "MajorFlags": [
+    "CustomSwap"
+  ]
+}

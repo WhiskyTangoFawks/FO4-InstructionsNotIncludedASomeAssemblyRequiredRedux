@@ -1,0 +1,54 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0001AA:CoAPowerArmor.esp",
+  "VersionControl": 10493,
+  "EditorID": "TNPA_PA_Atomite_Arm_Misc_Optimized",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Optimized Bracers"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Reduces Action Point cost for Power Attacks."
+  },
+  "AttachPoint": "17DAA7:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFC6:Fallout4.esm",
+    "000007:CoAPowerArmor.esp"
+  ],
+  "LooseMod": "000077:CoAPowerArmor.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.25,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "18354D:Fallout4.esm",
+      "Value": 615,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "238419:Fallout4.esm",
+      "Value": 615,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "ActorValues",
+      "Record": "22B645:Fallout4.esm",
+      "Value": 25.0,
+      "FunctionType": "Add"
+    }
+  ]
+}

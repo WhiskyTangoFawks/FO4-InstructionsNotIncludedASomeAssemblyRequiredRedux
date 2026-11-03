@@ -1,0 +1,48 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000190:CoAPowerArmor.esp",
+  "VersionControl": 10493,
+  "EditorID": "TNPA_PA_Atomite_Torso_Misc_Str",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Motion-Assist Servos"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Increases Strength."
+  },
+  "AttachPoint": "17DAA7:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFCE:Fallout4.esm",
+    "000007:CoAPowerArmor.esp"
+  ],
+  "LooseMod": "000073:CoAPowerArmor.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.25,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "23842B:Fallout4.esm",
+      "Value": 615,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "ActorValues",
+      "Record": "0002C2:Fallout4.esm",
+      "Value": 2.0,
+      "FunctionType": "Add"
+    }
+  ]
+}

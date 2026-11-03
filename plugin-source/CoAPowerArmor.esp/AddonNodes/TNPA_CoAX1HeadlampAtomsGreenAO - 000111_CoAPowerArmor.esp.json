@@ -1,0 +1,15 @@
+{
+  "FormKey": "000111:CoAPowerArmor.esp",
+  "VersionControl": 10498,
+  "EditorID": "TNPA_CoAX1HeadlampAtomsGreenAO",
+  "ObjectBounds": {
+    "First": "-5, -7, -1",
+    "Second": "5, -2, 2"
+  },
+  "Model": {
+    "File": "Tinuvia\\CoAPowerArmor\\CoAX1Headlamp_FXAtomsGreen.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "NodeIndex": 2381,
+  "Light": "000038:CoAPowerArmor.esp"
+}

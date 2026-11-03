@@ -1,0 +1,18 @@
+{
+  "FormKey": "00001E:CoAPowerArmor.esp",
+  "VersionControl": 10494,
+  "EditorID": "TNPA_pa_mod_Lining_FieldGen_Radiation_CloakEnchantment",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Field Gen Radiation 4"
+  },
+  "EnchantType": "Enchantment",
+  "Effects": [
+    {
+      "BaseEffect": "000017:CoAPowerArmor.esp",
+      "Data": {
+        "Magnitude": 10.0
+      }
+    }
+  ]
+}

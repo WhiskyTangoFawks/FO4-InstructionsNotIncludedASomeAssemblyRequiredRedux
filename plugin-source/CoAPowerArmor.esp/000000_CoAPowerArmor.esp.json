@@ -1,0 +1,16 @@
+{
+  "ModKey": "CoAPowerArmor.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Flags": [
+      "Small"
+    ],
+    "Stats": {
+      "NextFormID": 3748
+    },
+    "Author": "Tinuvia and Myrmarachne",
+    "Description": "version 1.0.5\r\nChildren of Atom Power Armor. Three custom sets and a t45 paint job.",
+    "INTV": "0x01000000",
+    "INCC": 0
+  }
+}

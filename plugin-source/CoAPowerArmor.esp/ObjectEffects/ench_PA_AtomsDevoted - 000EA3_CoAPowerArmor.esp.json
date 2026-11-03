@@ -1,0 +1,325 @@
+{
+  "FormKey": "000EA3:CoAPowerArmor.esp",
+  "EditorID": "ench_PA_AtomsDevoted",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Atom's Devoted Enchantment"
+  },
+  "EnchantType": "Enchantment",
+  "Effects": [
+    {
+      "BaseEffect": "04C47D:Fallout4.esm",
+      "Data": {
+        "Magnitude": 5.0
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "LessThan",
+          "Unknown1": "0x9E1800",
+          "ComparisonValue": 100.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetValue",
+            "ParameterOneRecord": "0002E1:Fallout4.esm",
+            "ParameterOneNumber": 737
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "04C47D:Fallout4.esm",
+      "Data": {
+        "Magnitude": 10.0
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "GreaterThanOrEqualTo",
+          "Unknown1": "0x9E1800",
+          "ComparisonValue": 100.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetValue",
+            "ParameterOneRecord": "0002E1:Fallout4.esm",
+            "ParameterOneNumber": 737
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "LessThan",
+          "Unknown1": "0x9E1800",
+          "ComparisonValue": 200.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetValue",
+            "ParameterOneRecord": "0002E1:Fallout4.esm",
+            "ParameterOneNumber": 737
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "04C47D:Fallout4.esm",
+      "Data": {
+        "Magnitude": 20.0
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "GreaterThanOrEqualTo",
+          "Unknown1": "0x9E1800",
+          "ComparisonValue": 200.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetValue",
+            "ParameterOneRecord": "0002E1:Fallout4.esm",
+            "ParameterOneNumber": 737
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "LessThan",
+          "Unknown1": "0x9E1800",
+          "ComparisonValue": 300.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetValue",
+            "ParameterOneRecord": "0002E1:Fallout4.esm",
+            "ParameterOneNumber": 737
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "04C47D:Fallout4.esm",
+      "Data": {
+        "Magnitude": 40.0
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "GreaterThanOrEqualTo",
+          "Unknown1": "0x9E1800",
+          "ComparisonValue": 300.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetValue",
+            "ParameterOneRecord": "0002E1:Fallout4.esm",
+            "ParameterOneNumber": 737
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "LessThan",
+          "Unknown1": "0x9E1800",
+          "ComparisonValue": 400.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetValue",
+            "ParameterOneRecord": "0002E1:Fallout4.esm",
+            "ParameterOneNumber": 737
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "04C47D:Fallout4.esm",
+      "Data": {
+        "Magnitude": 80.0
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "GreaterThanOrEqualTo",
+          "Unknown1": "0x9E1800",
+          "ComparisonValue": 400.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetValue",
+            "ParameterOneRecord": "0002E1:Fallout4.esm",
+            "ParameterOneNumber": 737
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "LessThan",
+          "Unknown1": "0x9E1800",
+          "ComparisonValue": 500.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetValue",
+            "ParameterOneRecord": "0002E1:Fallout4.esm",
+            "ParameterOneNumber": 737
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "04C47D:Fallout4.esm",
+      "Data": {
+        "Magnitude": 160.0
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "GreaterThanOrEqualTo",
+          "Unknown1": "0x9E1800",
+          "ComparisonValue": 500.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetValue",
+            "ParameterOneRecord": "0002E1:Fallout4.esm",
+            "ParameterOneNumber": 737
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "LessThan",
+          "Unknown1": "0x9E1800",
+          "ComparisonValue": 600.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetValue",
+            "ParameterOneRecord": "0002E1:Fallout4.esm",
+            "ParameterOneNumber": 737
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "04C47D:Fallout4.esm",
+      "Data": {
+        "Magnitude": 320.0
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "GreaterThanOrEqualTo",
+          "Unknown1": "0x9E1800",
+          "ComparisonValue": 600.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetValue",
+            "ParameterOneRecord": "0002E1:Fallout4.esm",
+            "ParameterOneNumber": 737
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "LessThan",
+          "Unknown1": "0x9E1800",
+          "ComparisonValue": 700.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetValue",
+            "ParameterOneRecord": "0002E1:Fallout4.esm",
+            "ParameterOneNumber": 737
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "04C47D:Fallout4.esm",
+      "Data": {
+        "Magnitude": 640.0
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "GreaterThanOrEqualTo",
+          "Unknown1": "0x9E1800",
+          "ComparisonValue": 700.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetValue",
+            "ParameterOneRecord": "0002E1:Fallout4.esm",
+            "ParameterOneNumber": 737
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "LessThan",
+          "Unknown1": "0x9E1800",
+          "ComparisonValue": 800.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetValue",
+            "ParameterOneRecord": "0002E1:Fallout4.esm",
+            "ParameterOneNumber": 737
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "04C47D:Fallout4.esm",
+      "Data": {
+        "Magnitude": 1280.0
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "GreaterThanOrEqualTo",
+          "Unknown1": "0x9E1800",
+          "ComparisonValue": 800.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetValue",
+            "ParameterOneRecord": "0002E1:Fallout4.esm",
+            "ParameterOneNumber": 737
+          }
+        },
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "LessThan",
+          "Unknown1": "0x9E1800",
+          "ComparisonValue": 900.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetValue",
+            "ParameterOneRecord": "0002E1:Fallout4.esm",
+            "ParameterOneNumber": 737
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "04C47D:Fallout4.esm",
+      "Data": {
+        "Magnitude": 2560.0
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "GreaterThanOrEqualTo",
+          "Unknown1": "0x9E1800",
+          "ComparisonValue": 900.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetValue",
+            "ParameterOneRecord": "0002E1:Fallout4.esm",
+            "ParameterOneNumber": 737
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "1B1FF3:Fallout4.esm",
+      "Data": {},
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "CompareOperator": "GreaterThanOrEqualTo",
+          "Unknown1": "0x9E1800",
+          "ComparisonValue": 900.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "Function": "GetValue",
+            "ParameterOneRecord": "0002E1:Fallout4.esm",
+            "ParameterOneNumber": 737
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "FormKey": "00001A:CoAPowerArmor.esp",
+  "VersionControl": 10494,
+  "EditorID": "TNPA_PA_CommonArmEffectRad",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "PA Common Arm Effect (Rad)"
+  },
+  "Archetype": {
+    "MutagenObjectType": "MagicEffectArchetype",
+    "Type": "Script"
+  },
+  "DualCastScale": 1.0,
+  "PerkToApply": "00010F:CoAPowerArmor.esp",
+  "CastingSoundLevel": "Normal",
+  "Sounds": [],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  }
+}

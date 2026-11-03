@@ -1,0 +1,52 @@
+{
+  "FormKey": "0001CF:CoAPowerArmor.esp",
+  "VersionControl": 10553,
+  "EditorID": "TNPA_LL_Armor_Atomite_Bane",
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Reference": "00002E:CoAPowerArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000026:CoAPowerArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000027:CoAPowerArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "00002A:CoAPowerArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "00002B:CoAPowerArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "00002C:CoAPowerArmor.esp",
+        "Count": 1
+      }
+    }
+  ]
+}

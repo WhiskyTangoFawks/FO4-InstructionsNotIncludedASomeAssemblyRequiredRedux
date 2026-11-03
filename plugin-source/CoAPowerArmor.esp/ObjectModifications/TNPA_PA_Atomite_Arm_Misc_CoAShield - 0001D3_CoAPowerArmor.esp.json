@@ -1,0 +1,48 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0001D3:CoAPowerArmor.esp",
+  "VersionControl": 10807,
+  "EditorID": "TNPA_PA_Atomite_Arm_Misc_CoAShield",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Atom's Ally"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Adds the player to the Children of Atom faction while using the Power Armor."
+  },
+  "AttachPoint": "17DAA7:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFC7:Fallout4.esm",
+    "18DFC6:Fallout4.esm",
+    "000007:CoAPowerArmor.esp"
+  ],
+  "LooseMod": "0001D5:CoAPowerArmor.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.25,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "0001D6:CoAPowerArmor.esp",
+      "Value": 615,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "0001D4:CoAPowerArmor.esp",
+      "Value": 615,
+      "FunctionType": "Add"
+    }
+  ]
+}

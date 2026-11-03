@@ -1,0 +1,24 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0001AB:CoAPowerArmor.esp",
+  "VersionControl": 10538,
+  "EditorID": "TNPA_PA_Atomite_Helmet_HeadlampHelmC",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Bane Headlamp"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Default headlamp Atomite Er helmet."
+  },
+  "Model": {
+    "File": "Tinuvia\\CoAPowerArmor\\CoAX1HeadLamp.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "AttachPoint": "0BEE7D:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "000007:CoAPowerArmor.esp",
+    "000012:CoAPowerArmor.esp"
+  ],
+  "LooseMod": "000060:CoAPowerArmor.esp"
+}

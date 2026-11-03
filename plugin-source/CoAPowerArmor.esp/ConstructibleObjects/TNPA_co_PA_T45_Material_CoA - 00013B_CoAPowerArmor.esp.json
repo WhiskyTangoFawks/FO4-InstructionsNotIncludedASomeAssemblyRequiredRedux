@@ -1,0 +1,28 @@
+{
+  "FormKey": "00013B:CoAPowerArmor.esp",
+  "VersionControl": 10493,
+  "EditorID": "TNPA_co_PA_T45_Material_CoA",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "GetGlobalValue",
+        "ParameterOneRecord": "000015:CoAPowerArmor.esp",
+        "ParameterOneNumber": 117440533
+      }
+    }
+  ],
+  "CreatedObject": "000196:CoAPowerArmor.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

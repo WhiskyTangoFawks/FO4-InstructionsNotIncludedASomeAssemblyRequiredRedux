@@ -1,0 +1,49 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0001BC:CoAPowerArmor.esp",
+  "VersionControl": 10493,
+  "EditorID": "TNPA_PA_Atomite_Leg_Misc_Carry",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Calibrated Shocks"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Increases Carry Weight capacity."
+  },
+  "AttachPoint": "17DAA7:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFCD:Fallout4.esm",
+    "18DFC7:Fallout4.esm",
+    "000007:CoAPowerArmor.esp"
+  ],
+  "LooseMod": "000041:CoAPowerArmor.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.25,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "238420:Fallout4.esm",
+      "Value": 615,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "ActorValues",
+      "Record": "0002DC:Fallout4.esm",
+      "Value": 50.0,
+      "FunctionType": "Add"
+    }
+  ]
+}

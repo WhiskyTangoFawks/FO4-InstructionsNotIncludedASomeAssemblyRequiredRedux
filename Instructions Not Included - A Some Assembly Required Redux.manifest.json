@@ -2,7 +2,8 @@
 "version":1,
 "packages":[
 {"kind":"installationFile","name":"Some Assembly Required- Instructions Not Included-103268-1-1-1775979754.7z","packageVersion":"1.1.0.0","size":317675,"hash":"BQU7YmHUP6M=","host":{"nexus":{"game":"fallout4","mod":103268,"file":393090}}},
-{"kind":"installationFile","name":"Some Assembly Required - LBPAC-103268-1-0-4-1778734222.7z","packageVersion":"1.0.4.0","size":30512,"hash":"m+E/ZanWyjQ=","host":{"nexus":{"game":"fallout4","mod":103268,"file":396935}}}
+{"kind":"installationFile","name":"Some Assembly Required - LBPAC-103268-1-0-4-1778734222.7z","packageVersion":"1.0.4.0","size":30512,"hash":"m+E/ZanWyjQ=","host":{"nexus":{"game":"fallout4","mod":103268,"file":396935}}},
+{"kind":"installationFile","name":"CoA Power Armor - LBPAC - SOTS - Ashlands-103268-1-1776359256.7z","packageVersion":"1.0.0.0","size":10647,"hash":"PqFjhKkeCGA=","host":{"nexus":{"game":"fallout4","mod":103268,"file":393579}}}
 ],
 "files":{
 "Scripts/PowerArmorExoPAWorkbenchPerkScript.pex":"OnP7GI1L7tM=",

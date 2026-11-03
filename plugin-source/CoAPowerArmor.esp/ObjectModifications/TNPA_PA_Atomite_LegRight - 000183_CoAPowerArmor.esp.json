@@ -1,0 +1,39 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000183:CoAPowerArmor.esp",
+  "VersionControl": 10483,
+  "EditorID": "TNPA_PA_Atomite_LegRight",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Increased armor rating"
+  },
+  "Model": {
+    "File": "Tinuvia\\CoAPowerArmor\\CoAJunkLegRight.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "AttachPoint": "055F8F:Fallout4.esm",
+  "AttachParentSlots": [
+    "17DAA9:Fallout4.esm",
+    "17DAA7:Fallout4.esm",
+    "17DAA8:Fallout4.esm"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModEnumProperty<Armor+Property>",
+      "Property": "BodyPart",
+      "EnumIntValue": 13
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "204A52:Fallout4.esm",
+      "Value": 615,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "204A53:Fallout4.esm",
+      "Value": 615,
+      "FunctionType": "Add"
+    }
+  ]
+}

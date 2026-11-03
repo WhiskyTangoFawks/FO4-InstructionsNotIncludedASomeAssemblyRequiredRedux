@@ -1,0 +1,11 @@
+{
+  "FormKey": "00011C:CoAPowerArmor.esp",
+  "VersionControl": 10494,
+  "EditorID": "TNPA_PerkMagUnlockCoAPaint_Message",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Atom reaches down and blesses your armor!\r\n\r\nYou have permanently unlocked a new custom paint job for your t45 Power Armor."
+  },
+  "DisplayTime": 3,
+  "Swf": "Components\\Myrm\\PrayingCOAMovie.swf"
+}
