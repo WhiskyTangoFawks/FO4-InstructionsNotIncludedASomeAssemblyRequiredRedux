@@ -1,0 +1,53 @@
+{
+  "ModKey": "SomeAssemblyRequired.esp",
+  "GameRelease": "Fallout4",
+  "ModHeader": {
+    "Stats": {
+      "NextFormID": 19660
+    },
+    "Author": "DEFAULT",
+    "OverriddenForms": [
+      "07077C:Fallout4.esm",
+      "0B88CE:Fallout4.esm",
+      "14F5D7:Fallout4.esm",
+      "14F5D8:Fallout4.esm",
+      "152A9F:Fallout4.esm",
+      "152AA7:Fallout4.esm",
+      "152AA9:Fallout4.esm",
+      "152AB1:Fallout4.esm",
+      "152AC8:Fallout4.esm",
+      "152AC9:Fallout4.esm",
+      "152F47:Fallout4.esm",
+      "1530EA:Fallout4.esm",
+      "153131:Fallout4.esm",
+      "1532C4:Fallout4.esm",
+      "1561D6:Fallout4.esm",
+      "15E147:Fallout4.esm",
+      "15E43B:Fallout4.esm",
+      "15E5DA:Fallout4.esm",
+      "15E5E1:Fallout4.esm",
+      "15E603:Fallout4.esm",
+      "15E604:Fallout4.esm",
+      "165ACE:Fallout4.esm",
+      "169394:Fallout4.esm",
+      "169493:Fallout4.esm",
+      "1AC003:Fallout4.esm",
+      "1C64E0:Fallout4.esm",
+      "1E5F8E:Fallout4.esm",
+      "1ECB70:Fallout4.esm",
+      "1ECB71:Fallout4.esm",
+      "1ED5C2:Fallout4.esm",
+      "2287B7:Fallout4.esm",
+      "23E35F:Fallout4.esm",
+      "0021CF:DLCRobot.esm",
+      "0280B2:DLCCoast.esm",
+      "040785:DLCNukaWorld.esm",
+      "0443FF:DLCNukaWorld.esm",
+      "0485D2:DLCNukaWorld.esm",
+      "050098:DLCNukaWorld.esm",
+      "056692:DLCNukaWorld.esm"
+    ],
+    "INTV": "0x01000000",
+    "INCC": 22
+  }
+}

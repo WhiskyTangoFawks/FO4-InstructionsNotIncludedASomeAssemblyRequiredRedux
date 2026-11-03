@@ -1,0 +1,52 @@
+{
+  "FormKey": "040CF9:DLCNukaWorld.esm",
+  "EditorID": "DLC04_LL_Armor_Power_X01_Set_Quantum",
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "040CFA:DLCNukaWorld.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "040CFB:DLCNukaWorld.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "040CFC:DLCNukaWorld.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "040CFD:DLCNukaWorld.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "040CFE:DLCNukaWorld.esm",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "040CFF:DLCNukaWorld.esm",
+        "Count": 1
+      }
+    }
+  ]
+}

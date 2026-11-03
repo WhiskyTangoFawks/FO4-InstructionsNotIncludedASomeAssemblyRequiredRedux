@@ -1,0 +1,30 @@
+{
+  "FormKey": "19DED8:Fallout4.esm",
+  "VersionControl": 13442,
+  "EditorID": "LL_Armor_Power_T45_Set_Concord",
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "154AC2:Fallout4.esm",
+        "Count": 1
+      },
+      "ExtraData": {
+        "Owner": {
+          "MutagenObjectType": "UntypedOwner"
+        },
+        "ItemCondition": 0.5
+      }
+    }
+  ],
+  "FilterKeywordChances": [
+    {
+      "FilterKeyword": "197DEE:Fallout4.esm",
+      "Chance": 2.3283064370807974E-08
+    }
+  ]
+}

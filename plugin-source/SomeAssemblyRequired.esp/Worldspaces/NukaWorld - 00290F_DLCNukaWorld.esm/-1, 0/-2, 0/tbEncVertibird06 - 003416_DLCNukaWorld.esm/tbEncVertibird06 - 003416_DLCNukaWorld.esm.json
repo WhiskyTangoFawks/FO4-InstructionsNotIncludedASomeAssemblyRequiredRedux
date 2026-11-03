@@ -1,0 +1,521 @@
+{
+  "FormKey": "003416:DLCNukaWorld.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "VersionControl": 13442,
+  "EditorID": "tbEncVertibird06",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "HasWater"
+  ],
+  "PreVisFilesTimestamp": 8501,
+  "InPreVisFileOf": "003457:DLCNukaWorld.esm",
+  "PreCombinedFilesTimestamp": 8501,
+  "Grid": {
+    "Point": "-11, 6"
+  },
+  "WaterHeight": 3.4028235E+38,
+  "Regions": [
+    "028A27:DLCNukaWorld.esm",
+    "00B907:DLCNukaWorld.esm"
+  ],
+  "CombinedMeshes": [
+    28861806,
+    82877219,
+    158464202,
+    316928405,
+    324769019,
+    462555487,
+    524771173,
+    563641934,
+    662107564,
+    731522148,
+    851700405,
+    942779081,
+    973764369,
+    1001525887,
+    1015007986,
+    1735849388,
+    2016520905
+  ],
+  "CombinedMeshReferences": [
+    {
+      "Reference": "03C2A4:DLCNukaWorld.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "022A69:DLCNukaWorld.esm",
+      "CombinedMesh": 158464202
+    },
+    {
+      "Reference": "014600:DLCNukaWorld.esm",
+      "CombinedMesh": 973764369
+    },
+    {
+      "Reference": "0204E4:DLCNukaWorld.esm",
+      "CombinedMesh": 82877219
+    },
+    {
+      "Reference": "022A6B:DLCNukaWorld.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "021993:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "023949:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "0384C5:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "022A70:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0145FA:DLCNukaWorld.esm",
+      "CombinedMesh": 82877219
+    },
+    {
+      "Reference": "03C354:DLCNukaWorld.esm",
+      "CombinedMesh": 563641934
+    },
+    {
+      "Reference": "03C27D:DLCNukaWorld.esm",
+      "CombinedMesh": 316928405
+    },
+    {
+      "Reference": "022A79:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "022A72:DLCNukaWorld.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "03C31A:DLCNukaWorld.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "03C356:DLCNukaWorld.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "03C31D:DLCNukaWorld.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "0384C0:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "03C278:DLCNukaWorld.esm",
+      "CombinedMesh": 563641934
+    },
+    {
+      "Reference": "0384C2:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "03C31F:DLCNukaWorld.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "0145FD:DLCNukaWorld.esm",
+      "CombinedMesh": 158464202
+    },
+    {
+      "Reference": "022A77:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "03C353:DLCNukaWorld.esm",
+      "CombinedMesh": 563641934
+    },
+    {
+      "Reference": "03C27A:DLCNukaWorld.esm",
+      "CombinedMesh": 563641934
+    },
+    {
+      "Reference": "03C323:DLCNukaWorld.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "0204E3:DLCNukaWorld.esm",
+      "CombinedMesh": 462555487
+    },
+    {
+      "Reference": "03C36F:DLCNukaWorld.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "03C321:DLCNukaWorld.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "03C2A3:DLCNukaWorld.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "022A6E:DLCNukaWorld.esm",
+      "CombinedMesh": 28861806
+    },
+    {
+      "Reference": "03C279:DLCNukaWorld.esm",
+      "CombinedMesh": 462555487
+    },
+    {
+      "Reference": "022A7F:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "022A74:DLCNukaWorld.esm",
+      "CombinedMesh": 158464202
+    },
+    {
+      "Reference": "0384C1:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "03C31E:DLCNukaWorld.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "0145FC:DLCNukaWorld.esm",
+      "CombinedMesh": 973764369
+    },
+    {
+      "Reference": "03C322:DLCNukaWorld.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "03B982:DLCNukaWorld.esm",
+      "CombinedMesh": 316928405
+    },
+    {
+      "Reference": "022A6F:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "03C320:DLCNukaWorld.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "02395A:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "022A84:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "021999:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "03C36A:DLCNukaWorld.esm",
+      "CombinedMesh": 316928405
+    },
+    {
+      "Reference": "03B985:DLCNukaWorld.esm",
+      "CombinedMesh": 563641934
+    },
+    {
+      "Reference": "03C355:DLCNukaWorld.esm",
+      "CombinedMesh": 563641934
+    },
+    {
+      "Reference": "03C370:DLCNukaWorld.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "03C277:DLCNukaWorld.esm",
+      "CombinedMesh": 1015007986
+    },
+    {
+      "Reference": "03C27C:DLCNukaWorld.esm",
+      "CombinedMesh": 462555487
+    },
+    {
+      "Reference": "0384C4:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "03C319:DLCNukaWorld.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "022A7A:DLCNukaWorld.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "022A71:DLCNukaWorld.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "03C27E:DLCNukaWorld.esm",
+      "CombinedMesh": 316928405
+    },
+    {
+      "Reference": "022A6A:DLCNukaWorld.esm",
+      "CombinedMesh": 973764369
+    },
+    {
+      "Reference": "022A68:DLCNukaWorld.esm",
+      "CombinedMesh": 973764369
+    },
+    {
+      "Reference": "0145FE:DLCNukaWorld.esm",
+      "CombinedMesh": 973764369
+    },
+    {
+      "Reference": "022A73:DLCNukaWorld.esm",
+      "CombinedMesh": 158464202
+    },
+    {
+      "Reference": "022A78:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "02394A:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "0384C6:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    }
+  ],
+  "Timestamp": 13442,
+  "UnknownGroupData": 399,
+  "TemporaryTimestamp": 13442,
+  "TemporaryUnknownGroupData": 399,
+  "Temporary": [
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00011B:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "000135:SomeAssemblyRequired.esp",
+      "Position": "-44123.543, 24918.275, 4139.5845",
+      "Rotation": "0.21550104, 0.49397528, 1.6033047"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00011C:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "00AEAB:DLCNukaWorld.esm",
+      "Scale": 1.26,
+      "Position": "-43979.51, 24753.832, 3819.9412",
+      "Rotation": "0.24601462, 0.24235117, 3.8085928"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00011D:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "000136:SomeAssemblyRequired.esp",
+      "Position": "-44691.992, 24871.387, 4289.1772",
+      "Rotation": "5.996724, 0.28311858, 0.7589006"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00011E:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "000137:SomeAssemblyRequired.esp",
+      "Position": "-43757.426, 25227.738, 4081.435",
+      "Rotation": "0.481004, 5.707909, 1.2463169"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00011F:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "08933B:Fallout4.esm",
+      "Position": "-44331.777, 25116.898, 4190.5938"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000120:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "060CB4:Fallout4.esm",
+      "Position": "-44288.79, 25135.807, 4214.4062",
+      "Rotation": "0.30573106, 6.092232, 4.3233533"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000121:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0655D6:Fallout4.esm",
+      "Lock": {
+        "Level": "-1165001678"
+      },
+      "Position": "-44390.92, 25064.025, 4208.6685",
+      "Rotation": "6.091185, 0.1038052, 0.4396938"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000122:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "08E470:Fallout4.esm",
+      "RagdollData": [
+        {
+          "Unused": "0xBDB14B",
+          "Rotation": "-0.22954535, -0.51334643, 0.014171337"
+        },
+        {
+          "Unused": "0x000000",
+          "Position": "-6.984375, 1.8466797, -13.384277",
+          "Rotation": "-3.1273048, 0.6990846, 2.1312366"
+        },
+        {
+          "Unused": "0x000000",
+          "Position": "-0.5253906, 1.5664062, 32.898438",
+          "Rotation": "0.031179408, 1.2495686, 0.033027038"
+        },
+        {
+          "Unused": "0x000000",
+          "Position": "-1.3398438, -0.3203125, 33.11133",
+          "Rotation": "0.13469227, -0.94229245, -0.022210717"
+        },
+        {
+          "Unused": "0x00803F",
+          "Position": "7.203125, 1.4365234, -13.298584",
+          "Rotation": "-2.179707, -0.29598546, 0.6961956"
+        },
+        {
+          "Unused": "0x000000",
+          "Position": "-0.65625, -1.5546875, 32.91797",
+          "Rotation": "-0.0031793544, 0.108290814, -0.0062603643"
+        },
+        {
+          "Unused": "0xF48245",
+          "Position": "-0.8984375, 0.16015625, 33.083984",
+          "Rotation": "3.1238935, -1.2192671, 3.0392883"
+        },
+        {
+          "Unused": "0x000000",
+          "Position": "-0.01953125, -0.061523438, -0.028320312",
+          "Rotation": "0.01326034, 0.48942095, -0.24638306"
+        },
+        {
+          "Unused": "0x000000",
+          "Position": "-0.04296875, -5.392578, 13.328125",
+          "Rotation": "0.31761444, 0.14626244, -0.08617173"
+        },
+        {
+          "Unused": "0x00803F",
+          "Position": "0.02734375, 4.109375, 16.058594",
+          "Rotation": "0.3765814, -0.15211144, 0.07538637"
+        },
+        {
+          "Unused": "0x00803F",
+          "Position": "0.13671875, -0.7770996, 7.625",
+          "Rotation": "-0.092068166, -0.043926988, 0.7622461"
+        },
+        {
+          "Unused": "0x010000",
+          "Position": "12.59375, 6.9121094, 8.3125",
+          "Rotation": "-2.4860559, -0.20265643, 1.24555"
+        },
+        {
+          "Unused": "0x000002",
+          "Position": "-0.24707031, 0.18359375, 20.296875",
+          "Rotation": "3.0337367, -1.4359076, -3.1216109"
+        },
+        {
+          "Unused": "0x010000",
+          "Position": "-0.0234375, -0.109375, 17.05664",
+          "Rotation": "0.14452513, 0.9343105, 0.29778007"
+        },
+        {
+          "Unused": "0x000000",
+          "Position": "-12.207031, 7.182617, 8.019531",
+          "Rotation": "2.7189066, 0.56913143, 1.6307136"
+        },
+        {
+          "Unused": "0x000000",
+          "Position": "-0.49804688, -0.4921875, 20.228638",
+          "Rotation": "0.090650335, -0.3099985, -0.008682883"
+        },
+        {
+          "Unused": "0x000000",
+          "Position": "-0.08984375, 0.0546875, 17.023438",
+          "Rotation": "-0.10190367, -0.02678333, 0.024177296"
+        }
+      ],
+      "Position": "-44272.84, 25046.676, 4218.6924",
+      "Rotation": "1.1999993, 0, 0"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000123:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0928C8:Fallout4.esm",
+      "LeveledItemBaseObject": "000133:SomeAssemblyRequired.esp",
+      "Position": "-44248.902, 24989.467, 4243.3096",
+      "Rotation": "0.29999942, 0, 0"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000124:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "020CD1:Fallout4.esm",
+      "Position": "-44125.984, 24886.74, 4483.5713",
+      "Rotation": "0.06137799, 0.29384014, 5.192272"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000125:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "020CD1:Fallout4.esm",
+      "Position": "-44122.152, 24981.07, 4483.5713",
+      "Rotation": "6.110265, 0.24638987, 4.3617225"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000126:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "04D322:Fallout4.esm",
+      "Position": "-44183.574, 24943.082, 4508.437",
+      "Rotation": "0.15424696, 0.9922685, 4.9836097"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000127:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "04D320:Fallout4.esm",
+      "Position": "-44196.113, 25153.062, 4549.382",
+      "Rotation": "5.661722, 0.24638812, 4.010266"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000128:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "04D320:Fallout4.esm",
+      "Position": "-44377.145, 24881.61, 4646.2812",
+      "Rotation": "1.4477977, 0.13202892, 0.46892282"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000129:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "04D320:Fallout4.esm",
+      "Position": "-44367.527, 24799.205, 4633.7764",
+      "Rotation": "1.4477977, 0.13202892, 0.46892282"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00012A:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "00D2F2:DLCNukaWorld.esm",
+      "Scale": 0.82,
+      "Position": "-44139.875, 24737.83, 4066.962",
+      "Rotation": "6.086483, 6.055189, 3.6585886"
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

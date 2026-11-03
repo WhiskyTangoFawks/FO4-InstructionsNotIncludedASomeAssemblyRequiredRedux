@@ -1,0 +1,2002 @@
+{
+  "FormKey": "00D8EB:Fallout4.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "VersionControl": 13442,
+  "EditorID": "tbEncVertibird03",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "HasWater"
+  ],
+  "PreVisFilesTimestamp": 8365,
+  "InPreVisFileOf": "00D8CD:Fallout4.esm",
+  "PreCombinedFilesTimestamp": 8365,
+  "Grid": {
+    "Point": "16, 26"
+  },
+  "MaxHeightData": {
+    "Offset": 1152.0,
+    "HeightMap": [
+      [16,16,3,4,4,5,5,4,5,5,5,6,6,6,6,6,7,7,7,6,7,7,7,7,7,7,7,8,8,8,7,7],
+      [15,16,16,4,4,5,6,6,6,6,7,7,7,6,7,7,7,7,7,8,8,8,7,7,7,7,8,8,8,8,8,8],
+      [15,15,16,16,16,16,6,6,6,7,7,7,7,7,7,7,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8],
+      [15,15,15,16,16,16,15,7,7,7,7,7,7,7,7,7,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8],
+      [15,15,15,15,15,17,16,13,9,7,7,7,7,7,7,7,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8,8],
+      [15,15,15,15,15,17,17,16,10,7,7,7,7,7,7,8,8,8,8,8,14,11,11,8,8,8,8,8,8,8,8,8],
+      [15,15,15,15,15,15,17,17,16,16,16,7,8,8,8,8,8,8,8,8,8,18,13,8,8,8,8,8,8,8,8,8],
+      [16,15,15,15,15,16,17,17,17,16,16,7,8,8,8,8,8,10,8,8,8,8,8,8,8,8,8,8,8,8,8,7],
+      [16,16,15,15,15,17,17,17,17,16,16,7,7,8,8,8,8,12,14,8,8,8,8,8,8,8,8,8,7,7,7,7],
+      [15,16,16,15,15,15,15,15,16,16,16,16,7,7,7,8,8,8,17,15,8,8,8,8,8,8,8,8,7,7,7,7],
+      [17,15,16,16,15,15,15,15,16,16,15,16,16,7,7,7,8,8,17,9,8,8,8,8,8,8,8,7,7,7,7,7],
+      [17,16,15,16,16,15,15,15,15,15,15,15,16,16,7,7,8,8,8,8,8,8,8,8,8,8,7,7,7,7,7,7],
+      [17,17,17,15,16,16,15,15,15,15,15,15,15,16,16,7,7,7,7,8,8,8,8,7,7,7,7,7,7,6,6,6],
+      [17,17,17,15,15,16,16,15,15,15,15,15,15,15,16,16,7,7,7,7,7,7,7,7,7,7,7,7,6,6,6,6],
+      [17,17,16,15,15,15,16,16,15,15,15,15,15,15,15,16,16,7,7,7,7,7,7,7,7,6,6,6,6,6,6,6],
+      [15,15,15,15,15,15,15,16,16,15,15,15,15,15,15,15,16,16,6,7,7,7,7,7,6,6,6,6,6,15,6,6],
+      [16,15,15,15,15,15,15,15,16,16,16,15,15,15,15,15,15,16,16,6,6,7,7,6,6,6,6,6,12,14,6,6],
+      [16,16,15,15,15,15,15,15,15,16,16,16,15,15,15,15,15,15,16,16,6,6,6,6,6,6,6,6,11,11,6,6],
+      [3,16,16,17,17,15,15,15,15,15,16,16,16,15,15,15,15,15,15,16,16,16,6,6,6,6,6,6,8,8,6,6],
+      [3,3,15,16,17,17,15,15,15,15,15,16,16,15,15,15,15,15,15,15,16,16,16,6,6,6,6,6,6,6,6,6],
+      [3,3,3,15,16,17,17,15,15,15,15,15,15,16,16,15,15,15,15,15,15,16,16,16,6,6,6,6,6,6,6,6],
+      [3,3,3,3,15,16,17,17,15,15,15,15,15,15,16,16,15,15,15,15,15,15,15,16,16,6,6,7,7,6,6,6],
+      [3,3,3,3,3,15,16,17,15,15,15,15,15,15,15,16,15,15,15,15,15,15,15,15,16,16,6,7,7,6,6,6],
+      [3,3,3,3,3,3,15,16,15,15,15,15,15,15,15,15,15,16,15,15,15,15,15,15,15,16,16,6,6,6,6,6],
+      [3,3,3,3,3,3,3,15,15,15,17,15,15,15,15,15,15,16,16,15,15,15,15,15,15,15,16,15,15,6,6,6],
+      [3,2,3,3,3,3,4,3,15,15,17,17,15,15,15,15,15,15,16,16,15,15,15,15,15,15,15,15,15,15,12,6],
+      [2,2,2,2,2,2,7,3,3,3,16,17,17,16,15,15,15,15,15,16,16,15,15,15,15,15,15,15,16,16,15,10],
+      [2,2,2,2,2,2,7,3,3,3,4,16,17,17,15,15,15,15,15,15,16,16,15,15,15,15,15,15,16,16,15,15],
+      [2,3,3,2,2,3,3,3,3,3,4,4,16,17,17,15,15,15,15,15,15,16,16,16,16,16,16,16,16,16,15,15],
+      [1,3,3,2,2,2,3,3,3,3,4,4,4,16,17,17,16,15,15,15,15,15,16,16,16,16,16,16,16,16,15,15],
+      [0,1,2,2,2,2,2,3,4,4,4,4,4,4,16,17,17,17,15,15,15,15,15,16,16,16,16,16,16,15,15,15],
+      [0,0,1,1,2,2,3,4,4,4,4,4,4,4,4,16,17,17,15,15,15,15,15,15,16,16,15,15,15,15,15,15]
+    ]
+  },
+  "WaterHeight": 3.4028235E+38,
+  "Regions": [
+    "00296A:DLCCoast.esm",
+    "1CFDBE:Fallout4.esm",
+    "14117F:Fallout4.esm",
+    "049BE0:Fallout4.esm"
+  ],
+  "PhysicsReferences": [
+    "1ECB4E:Fallout4.esm",
+    "1ECB70:Fallout4.esm",
+    "1C1546:Fallout4.esm"
+  ],
+  "CombinedMeshes": [
+    25370047,
+    28861806,
+    50740095,
+    82877219,
+    175254844,
+    203392019,
+    210030716,
+    225671039,
+    271879443,
+    316928405,
+    409061119,
+    462555487,
+    482666451,
+    491256428,
+    563641934,
+    568854872,
+    625813620,
+    652825371,
+    661278372,
+    662107564,
+    720055629,
+    731522148,
+    851700405,
+    928957367,
+    965332903,
+    973764369,
+    982512856,
+    1001525887,
+    1015007986,
+    1124481919,
+    1642596696,
+    1805263972,
+    2002699191,
+    2176345454,
+    2305947850,
+    2464412053,
+    2630150099,
+    2716338520,
+    2800309019,
+    2879005796,
+    3076441015,
+    3112816551,
+    3121248017,
+    3149009535
+  ],
+  "CombinedMeshReferences": [
+    {
+      "Reference": "1EE377:Fallout4.esm",
+      "CombinedMesh": 965332903
+    },
+    {
+      "Reference": "1EE332:Fallout4.esm",
+      "CombinedMesh": 491256428
+    },
+    {
+      "Reference": "1ECB78:Fallout4.esm",
+      "CombinedMesh": 928957367
+    },
+    {
+      "Reference": "1EE359:Fallout4.esm",
+      "CombinedMesh": 50740095
+    },
+    {
+      "Reference": "22BB6D:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "1ECB4F:Fallout4.esm",
+      "CombinedMesh": 982512856
+    },
+    {
+      "Reference": "1EE365:Fallout4.esm",
+      "CombinedMesh": 652825371
+    },
+    {
+      "Reference": "130AEA:Fallout4.esm",
+      "CombinedMesh": 2305947850
+    },
+    {
+      "Reference": "130AE1:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "22BB74:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "04F4E0:DLCCoast.esm",
+      "CombinedMesh": 973764369
+    },
+    {
+      "Reference": "04F4EB:DLCCoast.esm",
+      "CombinedMesh": 175254844
+    },
+    {
+      "Reference": "1EE360:Fallout4.esm",
+      "CombinedMesh": 652825371
+    },
+    {
+      "Reference": "1EE34E:Fallout4.esm",
+      "CombinedMesh": 271879443
+    },
+    {
+      "Reference": "1EE345:Fallout4.esm",
+      "CombinedMesh": 965332903
+    },
+    {
+      "Reference": "1ECB64:Fallout4.esm",
+      "CombinedMesh": 225671039
+    },
+    {
+      "Reference": "1ECB6F:Fallout4.esm",
+      "CombinedMesh": 271879443
+    },
+    {
+      "Reference": "04F4E5:DLCCoast.esm",
+      "CombinedMesh": 82877219
+    },
+    {
+      "Reference": "04F4EE:DLCCoast.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "1C153F:Fallout4.esm",
+      "CombinedMesh": 210030716
+    },
+    {
+      "Reference": "04F4D9:DLCCoast.esm",
+      "CombinedMesh": 28861806
+    },
+    {
+      "Reference": "1EE35C:Fallout4.esm",
+      "CombinedMesh": 50740095
+    },
+    {
+      "Reference": "1EE357:Fallout4.esm",
+      "CombinedMesh": 50740095
+    },
+    {
+      "Reference": "1ECB76:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "1EE361:Fallout4.esm",
+      "CombinedMesh": 652825371
+    },
+    {
+      "Reference": "130D8C:Fallout4.esm",
+      "CombinedMesh": 2716338520
+    },
+    {
+      "Reference": "04F4E4:DLCCoast.esm",
+      "CombinedMesh": 568854872
+    },
+    {
+      "Reference": "1EE344:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "1EE34F:Fallout4.esm",
+      "CombinedMesh": 25370047
+    },
+    {
+      "Reference": "130AE5:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "1EE373:Fallout4.esm",
+      "CombinedMesh": 928957367
+    },
+    {
+      "Reference": "0748A8:Fallout4.esm",
+      "CombinedMesh": 210030716
+    },
+    {
+      "Reference": "1EE35D:Fallout4.esm",
+      "CombinedMesh": 50740095
+    },
+    {
+      "Reference": "1EE33D:Fallout4.esm",
+      "CombinedMesh": 491256428
+    },
+    {
+      "Reference": "1ECB77:Fallout4.esm",
+      "CombinedMesh": 2002699191
+    },
+    {
+      "Reference": "04F4DD:DLCCoast.esm",
+      "CombinedMesh": 28861806
+    },
+    {
+      "Reference": "1EE376:Fallout4.esm",
+      "CombinedMesh": 2879005796
+    },
+    {
+      "Reference": "1ECB79:Fallout4.esm",
+      "CombinedMesh": 491256428
+    },
+    {
+      "Reference": "1ECB72:Fallout4.esm",
+      "CombinedMesh": 271879443
+    },
+    {
+      "Reference": "1EE353:Fallout4.esm",
+      "CombinedMesh": 50740095
+    },
+    {
+      "Reference": "1EE358:Fallout4.esm",
+      "CombinedMesh": 1124481919
+    },
+    {
+      "Reference": "130D89:Fallout4.esm",
+      "CombinedMesh": 2716338520
+    },
+    {
+      "Reference": "1EE364:Fallout4.esm",
+      "CombinedMesh": 652825371
+    },
+    {
+      "Reference": "0C1B03:Fallout4.esm",
+      "CombinedMesh": 462555487
+    },
+    {
+      "Reference": "04F4EA:DLCCoast.esm",
+      "CombinedMesh": 175254844
+    },
+    {
+      "Reference": "130AE0:Fallout4.esm",
+      "CombinedMesh": 1805263972
+    },
+    {
+      "Reference": "130AEB:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "1EE341:Fallout4.esm",
+      "CombinedMesh": 965332903
+    },
+    {
+      "Reference": "1EE34A:Fallout4.esm",
+      "CombinedMesh": 2800309019
+    },
+    {
+      "Reference": "1EE350:Fallout4.esm",
+      "CombinedMesh": 225671039
+    },
+    {
+      "Reference": "1EE35B:Fallout4.esm",
+      "CombinedMesh": 50740095
+    },
+    {
+      "Reference": "1EE33B:Fallout4.esm",
+      "CombinedMesh": 482666451
+    },
+    {
+      "Reference": "1EE375:Fallout4.esm",
+      "CombinedMesh": 2879005796
+    },
+    {
+      "Reference": "130ADF:Fallout4.esm",
+      "CombinedMesh": 1805263972
+    },
+    {
+      "Reference": "04F4DE:DLCCoast.esm",
+      "CombinedMesh": 28861806
+    },
+    {
+      "Reference": "1EE342:Fallout4.esm",
+      "CombinedMesh": 625813620
+    },
+    {
+      "Reference": "1EE349:Fallout4.esm",
+      "CombinedMesh": 203392019
+    },
+    {
+      "Reference": "1ECB68:Fallout4.esm",
+      "CombinedMesh": 225671039
+    },
+    {
+      "Reference": "130AE8:Fallout4.esm",
+      "CombinedMesh": 1642596696
+    },
+    {
+      "Reference": "04F4E9:DLCCoast.esm",
+      "CombinedMesh": 1015007986
+    },
+    {
+      "Reference": "04F4E2:DLCCoast.esm",
+      "CombinedMesh": 28861806
+    },
+    {
+      "Reference": "1EE367:Fallout4.esm",
+      "CombinedMesh": 652825371
+    },
+    {
+      "Reference": "130AE6:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "130AED:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1EE34C:Fallout4.esm",
+      "CombinedMesh": 652825371
+    },
+    {
+      "Reference": "04F4EC:DLCCoast.esm",
+      "CombinedMesh": 851700405
+    },
+    {
+      "Reference": "04F4E7:DLCCoast.esm",
+      "CombinedMesh": 28861806
+    },
+    {
+      "Reference": "1ECB88:Fallout4.esm",
+      "CombinedMesh": 652825371
+    },
+    {
+      "Reference": "1C1544:Fallout4.esm",
+      "CombinedMesh": 2176345454
+    },
+    {
+      "Reference": "1EE362:Fallout4.esm",
+      "CombinedMesh": 661278372
+    },
+    {
+      "Reference": "1EE33E:Fallout4.esm",
+      "CombinedMesh": 965332903
+    },
+    {
+      "Reference": "1ECB74:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "1EE35E:Fallout4.esm",
+      "CombinedMesh": 25370047
+    },
+    {
+      "Reference": "04F4E6:DLCCoast.esm",
+      "CombinedMesh": 409061119
+    },
+    {
+      "Reference": "04F4ED:DLCCoast.esm",
+      "CombinedMesh": 316928405
+    },
+    {
+      "Reference": "130AEC:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1EE34D:Fallout4.esm",
+      "CombinedMesh": 225671039
+    },
+    {
+      "Reference": "1EE346:Fallout4.esm",
+      "CombinedMesh": 625813620
+    },
+    {
+      "Reference": "130D85:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "1C1545:Fallout4.esm",
+      "CombinedMesh": 720055629
+    },
+    {
+      "Reference": "0C1B04:Fallout4.esm",
+      "CombinedMesh": 563641934
+    },
+    {
+      "Reference": "1EE363:Fallout4.esm",
+      "CombinedMesh": 661278372
+    },
+    {
+      "Reference": "1ECB82:Fallout4.esm",
+      "CombinedMesh": 491256428
+    },
+    {
+      "Reference": "1ECB89:Fallout4.esm",
+      "CombinedMesh": 652825371
+    },
+    {
+      "Reference": "1ECB75:Fallout4.esm",
+      "CombinedMesh": 1805263972
+    },
+    {
+      "Reference": "1EE33F:Fallout4.esm",
+      "CombinedMesh": 982512856
+    },
+    {
+      "Reference": "1EE35F:Fallout4.esm",
+      "CombinedMesh": 25370047
+    },
+    {
+      "Reference": "1EE35A:Fallout4.esm",
+      "CombinedMesh": 50740095
+    },
+    {
+      "Reference": "1EE351:Fallout4.esm",
+      "CombinedMesh": 50740095
+    },
+    {
+      "Reference": "1ECB7B:Fallout4.esm",
+      "CombinedMesh": 928957367
+    },
+    {
+      "Reference": "1C152C:Fallout4.esm",
+      "CombinedMesh": 3149009535
+    },
+    {
+      "Reference": "0BE960:Fallout4.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "1C152D:Fallout4.esm",
+      "CombinedMesh": 3121248017
+    },
+    {
+      "Reference": "1EE378:Fallout4.esm",
+      "CombinedMesh": 3112816551
+    },
+    {
+      "Reference": "1EE372:Fallout4.esm",
+      "CombinedMesh": 2630150099
+    },
+    {
+      "Reference": "04F4DF:DLCCoast.esm",
+      "CombinedMesh": 28861806
+    },
+    {
+      "Reference": "1EE34B:Fallout4.esm",
+      "CombinedMesh": 2800309019
+    },
+    {
+      "Reference": "1EE374:Fallout4.esm",
+      "CombinedMesh": 3076441015
+    },
+    {
+      "Reference": "130ADE:Fallout4.esm",
+      "CombinedMesh": 1805263972
+    },
+    {
+      "Reference": "1ECB6A:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "1ECB73:Fallout4.esm",
+      "CombinedMesh": 1805263972
+    },
+    {
+      "Reference": "1EE337:Fallout4.esm",
+      "CombinedMesh": 982512856
+    },
+    {
+      "Reference": "04F4E3:DLCCoast.esm",
+      "CombinedMesh": 568854872
+    },
+    {
+      "Reference": "04F4E8:DLCCoast.esm",
+      "CombinedMesh": 28861806
+    },
+    {
+      "Reference": "1EE348:Fallout4.esm",
+      "CombinedMesh": 491256428
+    },
+    {
+      "Reference": "1EE339:Fallout4.esm",
+      "CombinedMesh": 965332903
+    },
+    {
+      "Reference": "1ECB62:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "1ECB69:Fallout4.esm",
+      "CombinedMesh": 225671039
+    },
+    {
+      "Reference": "1EE338:Fallout4.esm",
+      "CombinedMesh": 965332903
+    },
+    {
+      "Reference": "1C152B:Fallout4.esm",
+      "CombinedMesh": 462555487
+    },
+    {
+      "Reference": "1EE333:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "1C1540:Fallout4.esm",
+      "CombinedMesh": 2464412053
+    },
+    {
+      "Reference": "130AE4:Fallout4.esm",
+      "CombinedMesh": 731522148
+    },
+    {
+      "Reference": "1C152A:Fallout4.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "1EE368:Fallout4.esm",
+      "CombinedMesh": 652825371
+    },
+    {
+      "Reference": "1EE366:Fallout4.esm",
+      "CombinedMesh": 652825371
+    }
+  ],
+  "Timestamp": 13442,
+  "UnknownGroupData": 399,
+  "TemporaryTimestamp": 13442,
+  "TemporaryUnknownGroupData": 399,
+  "Temporary": [
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "1ECB70:Fallout4.esm",
+      "VersionControl": 13442,
+      "Base": "064A47:Fallout4.esm",
+      "LocationReference": "002CF0:Fallout4.esm",
+      "Position": "67134.3, 106854.89, 2578.4211",
+      "Rotation": "0, 0, 5.648187"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "1ECB71:Fallout4.esm",
+      "VersionControl": 13442,
+      "Base": "060CB4:Fallout4.esm",
+      "Lock": {
+        "Level": "-1165001678"
+      },
+      "LocationReference": "002CF0:Fallout4.esm",
+      "Position": "67163.19, 106822.14, 2575.748",
+      "Rotation": "0, 0, 0.60000056"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000001:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "075804:Fallout4.esm",
+      "Scale": 1.25,
+      "Position": "68607.04, 107848.14, 2791.8306",
+      "Rotation": "0, 0, 2.3"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000002:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "01340E:DLCNukaWorld.esm",
+      "Position": "68604.2, 108198.59, 2598.9243",
+      "Rotation": "5.355042, 5.361667, 2.6038723"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000003:SomeAssemblyRequired.esp",
+      "MajorRecordFlagsRaw": 32768,
+      "VersionControl": 13442,
+      "Fallout4MajorRecordFlags": [
+        "VisibleWhenDistant"
+      ],
+      "Base": "037B60:Fallout4.esm",
+      "Position": "68670.69, 107945.25, 2839.1353",
+      "Rotation": "0, 0, 2.9999993"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000004:SomeAssemblyRequired.esp",
+      "MajorRecordFlagsRaw": 32768,
+      "VersionControl": 13442,
+      "Fallout4MajorRecordFlags": [
+        "VisibleWhenDistant"
+      ],
+      "Base": "037B60:Fallout4.esm",
+      "Position": "68555.49, 108067.234, 2827.5403",
+      "Rotation": "0, 0, 2.100001"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000005:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1A3057:Fallout4.esm",
+      "Position": "68046.65, 107399.07, 2663.686",
+      "Rotation": "2.7366884, 5.989483, 3.9778934"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000006:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "08B5F6:Fallout4.esm",
+      "Position": "68244.77, 107584.06, 2511.8494",
+      "Rotation": "0, 0, 2.3"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000007:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "08B5F5:Fallout4.esm",
+      "Position": "67990.305, 107305.55, 2512.1675",
+      "Rotation": "0, 0, 2.3"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000008:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "08B648:Fallout4.esm",
+      "Position": "68276.43, 107509.47, 2512.1438",
+      "Rotation": "0, 0, 2.4000003"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000009:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB20:Fallout4.esm",
+      "Position": "68428.43, 107521.62, 2527.9595",
+      "Rotation": "0, 0, 5.383187"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00000A:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB22:Fallout4.esm",
+      "Position": "68351.445, 107567.21, 2531.9802",
+      "Rotation": "0, 0, 2.3"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00000B:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB21:Fallout4.esm",
+      "Scale": 0.79999995,
+      "Position": "67986.98, 107406.15, 2510.5933",
+      "Rotation": "0, 0, 4.083187"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00000C:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB21:Fallout4.esm",
+      "Scale": 0.79999995,
+      "Position": "67875.375, 107329.22, 2510.5933",
+      "Rotation": "0, 0, 2.4831882"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00000D:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB21:Fallout4.esm",
+      "Scale": 0.79999995,
+      "Position": "68052.586, 107269, 2510.5933",
+      "Rotation": "0, 0, 6.166377"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00000E:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "01D184:Fallout4.esm",
+      "Position": "68156.68, 107315.86, 2528.5337"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00000F:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "10693A:Fallout4.esm",
+      "Position": "68163.51, 107611.18, 2511.9658",
+      "Rotation": "0.00035604715, 6.2828503, 4.712389"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000010:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "10693A:Fallout4.esm",
+      "Position": "68344.47, 107840.46, 2511.9658",
+      "Rotation": "0.00048694684, 2.0943951E-05, 3.9123893"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000011:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "001DD8:Fallout4.esm",
+      "Position": "68358.2, 107732.484, 2525.7068",
+      "Rotation": "0.70000094, 0, 0"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000012:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "001DD8:Fallout4.esm",
+      "Position": "68002, 107476.055, 2509.2668",
+      "Rotation": "0, 0, 1.1005208"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000013:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "001DD8:Fallout4.esm",
+      "Position": "68212.06, 107604.01, 2526.6572",
+      "Rotation": "0, 0.29999942, 1.1005208"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000014:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "001DD8:Fallout4.esm",
+      "Position": "68290.22, 107396.016, 2560.1482",
+      "Rotation": "3.1415925, 1.2415923, 4.2421136"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000015:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "054CB0:Fallout4.esm",
+      "Position": "68119.09, 107472.74, 2586.757",
+      "Rotation": "3.6349063, 0.73659873, 0.8465999"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000016:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB21:Fallout4.esm",
+      "Scale": 0.7,
+      "Position": "68091.1, 107415.59, 2507.6804",
+      "Rotation": "0, 0, 4.4831886"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000017:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB20:Fallout4.esm",
+      "Position": "67983.586, 107477.9, 2509.3918",
+      "Rotation": "0, 0, 2.3831894"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000018:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "000135:SomeAssemblyRequired.esp",
+      "Position": "67832.65, 108362.37, 3075.7122",
+      "Rotation": "0.2269469, 0.15070744, 1.7552304"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000019:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "000137:SomeAssemblyRequired.esp",
+      "Position": "68227.71, 108495.28, 3555.7908",
+      "Rotation": "0.026947884, 0.15070744, 1.7552304"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00001A:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "000136:SomeAssemblyRequired.esp",
+      "Position": "67353.17, 108650.58, 3367.7922",
+      "Rotation": "0.23154235, 0.24809505, 1.778405"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00001B:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "21DBB3:Fallout4.esm",
+      "Position": "68346.15, 108928.12, 3028.0276",
+      "Rotation": "0.07127401, 0.05661848, 2.3888514"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00001C:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "08B5F6:Fallout4.esm",
+      "Scale": 1.1,
+      "Position": "68179.695, 108910.65, 3024",
+      "Rotation": "0, 0, 5.3650007"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00001D:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "08C7F8:Fallout4.esm",
+      "Position": "67636.26, 108591.016, 3039.8225",
+      "Rotation": "0, 0, 5.483187"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00001E:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "08C7FA:Fallout4.esm",
+      "Position": "67702.27, 108400, 3024.3027",
+      "Rotation": "0, 0, 5.183186"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00001F:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "08C7FC:Fallout4.esm",
+      "Position": "67879.14, 108648.68, 3023.1736",
+      "Rotation": "0, 0, 1.0000004"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000020:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB23:Fallout4.esm",
+      "MaterialSwap": "001F18:DLCRobot.esm",
+      "Position": "67767.14, 108196.96, 3033.4104",
+      "Rotation": "0, 0, 5.848188"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000021:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB23:Fallout4.esm",
+      "MaterialSwap": "001F18:DLCRobot.esm",
+      "Position": "68029.625, 108565.03, 3071.27",
+      "Rotation": "0, 0, 5.0481887"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000022:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "08B5F6:Fallout4.esm",
+      "Scale": 1.1,
+      "Position": "67610.33, 108213.53, 3024",
+      "Rotation": "0, 0, 6.2650003"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000023:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB1E:Fallout4.esm",
+      "Scale": 1.27,
+      "Position": "67347.53, 108100.74, 3023.9375",
+      "Rotation": "0, 0, 3.6123898"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000024:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB1E:Fallout4.esm",
+      "Scale": 1.27,
+      "Position": "67454.15, 108069.05, 3023.9375",
+      "Rotation": "0, 0, 5.512388"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000025:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB1E:Fallout4.esm",
+      "Scale": 1.27,
+      "Position": "67597.42, 108095.43, 3023.9375",
+      "Rotation": "0, 0, 0.029202849"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000026:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB1E:Fallout4.esm",
+      "Scale": 1.27,
+      "Position": "67723.61, 108078.56, 3023.9375",
+      "Rotation": "0, 0, 3.1123915"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000027:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB1E:Fallout4.esm",
+      "Scale": 1.27,
+      "Position": "67905.74, 108178.9, 3023.9375",
+      "Rotation": "0, 0, 2.0123925"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000028:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB1E:Fallout4.esm",
+      "Scale": 1.27,
+      "Position": "67940.78, 108286.195, 3023.9375",
+      "Rotation": "0, 0, 2.0123925"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000029:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "10693A:Fallout4.esm",
+      "Position": "68155.125, 108520.63, 3023.2905",
+      "Rotation": "0.00048694684, 2.0943951E-05, 3.9123893"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00002A:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "10693A:Fallout4.esm",
+      "Position": "68249.42, 108920.25, 3021.2905",
+      "Rotation": "0.00048694684, 2.0943951E-05, 3.9123893"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00002B:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "21DBAE:Fallout4.esm",
+      "Position": "67962.58, 108925.75, 3086.341",
+      "Rotation": "5.512938, 6.040504, 3.0987833"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00002C:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "08B5F6:Fallout4.esm",
+      "Scale": 1.1,
+      "Position": "67983.336, 108953.95, 3024",
+      "Rotation": "0, 0, 2.5650039"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00002D:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "08C7FC:Fallout4.esm",
+      "Position": "67895.5, 108598.914, 3023.1736",
+      "Rotation": "0, 0, 1.1999993"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00002E:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "08C7FC:Fallout4.esm",
+      "Position": "67719.41, 108447.23, 3023.1736",
+      "Rotation": "0, 0, 1.0000004"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00002F:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "08212F:Fallout4.esm",
+      "Position": "67470.664, 108259.555, 3159.4475",
+      "Rotation": "2.9513202, 6.0426893, 4.4810596"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000030:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB23:Fallout4.esm",
+      "MaterialSwap": "001F18:DLCRobot.esm",
+      "Position": "67488.89, 108172.64, 3033.4104",
+      "Rotation": "0, 0, 5.848188"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000031:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB23:Fallout4.esm",
+      "Position": "67496.58, 108121.09, 3024",
+      "Rotation": "0, 0, 5.9481883"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000032:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB1E:Fallout4.esm",
+      "Scale": 1.27,
+      "Position": "67439.02, 108282.32, 3038.9773",
+      "Rotation": "0, 0, 5.8123913"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000033:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "063878:Fallout4.esm",
+      "Position": "68200.16, 108430.16, 3101.0742",
+      "Rotation": "1.2857002, 0.9218689, 2.9121969"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000034:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB1E:Fallout4.esm",
+      "Scale": 1.27,
+      "Position": "68135.44, 108351.23, 3023.9375",
+      "Rotation": "0, 0, 0.41239336"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000035:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "18C307:Fallout4.esm",
+      "Position": "67954.12, 109947.266, 1940.3",
+      "Rotation": "1.07288, 6.1293764, 1.4340079"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000036:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "2041B7:Fallout4.esm",
+      "Position": "67399.55, 108433.63, 1943.7618",
+      "Rotation": "6.1835947, 0.09834232, 5.689115"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000037:SomeAssemblyRequired.esp",
+      "MajorRecordFlagsRaw": 32768,
+      "VersionControl": 13442,
+      "Fallout4MajorRecordFlags": [
+        "VisibleWhenDistant"
+      ],
+      "Base": "0AB28E:Fallout4.esm",
+      "Scale": 1.31,
+      "Position": "67785.75, 108380.68, 1428.0055",
+      "Rotation": "6.0786204, 0.07783121, 4.4574065"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000038:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "001B53:Fallout4.esm",
+      "Position": "67477.016, 108533.445, 1911.6344",
+      "Rotation": "0, 0, 2.3"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000039:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "001B53:Fallout4.esm",
+      "Position": "67213.18, 108363.64, 1911.8679",
+      "Rotation": "0, 0, 2.3"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00003A:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "001B53:Fallout4.esm",
+      "Position": "67525.516, 108226.664, 1865.4955",
+      "Rotation": "0, 0, 2.3"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00003B:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "001B53:Fallout4.esm",
+      "Position": "67495.31, 108297.07, 1883.9036",
+      "Rotation": "0, 0, 2.3"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00003C:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "001B53:Fallout4.esm",
+      "Position": "67518.4, 108776.53, 1852.5162",
+      "Rotation": "0, 0, 2.3"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00003D:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "21DBAE:Fallout4.esm",
+      "Position": "67798.82, 108666.25, 2174.2693",
+      "Rotation": "2.995655, 5.905091, 0.516127"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00003E:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1BBFC5:Fallout4.esm",
+      "Position": "67711.05, 108740.305, 1983.833",
+      "Rotation": "3.306226, 6.2553577, 2.7546687"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00003F:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "183EAF:Fallout4.esm",
+      "Position": "68189.05, 108869.945, 2410.0103",
+      "Rotation": "5.816046, 0.5323394, 5.698386"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000040:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "064136:Fallout4.esm",
+      "Position": "67812.23, 108588.76, 1972.5308"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000041:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "2041B9:Fallout4.esm",
+      "Position": "68306.25, 108945.695, 1876.4379",
+      "Rotation": "4.0932612, 0.9799273, 4.178037"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000042:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "001E03:Fallout4.esm",
+      "Position": "67970.71, 108762.97, 2275.686",
+      "Rotation": "0.68658984, 5.2206445, 0.83284664"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000043:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "001E08:Fallout4.esm",
+      "Position": "67974.766, 108758.07, 2268.315",
+      "Rotation": "3.7649264, 0.9423504, 5.452686"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000044:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "001E08:Fallout4.esm",
+      "Position": "67739.89, 108571.28, 2028.0604",
+      "Rotation": "2.5401871, 0.95341575, 4.026548"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000045:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0ECC06:Fallout4.esm",
+      "Position": "68281.03, 108609.98, 1681.0702",
+      "Rotation": "0, 5.783187, 4.1"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000046:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1BBFC6:Fallout4.esm",
+      "Position": "68224.484, 109061.984, 1862.8994",
+      "Rotation": "5.783187, 0, 0"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000047:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "133868:Fallout4.esm",
+      "Scale": 0.79999995,
+      "Position": "67218.67, 108031.25, 1941.1925",
+      "Rotation": "6.1742716, 6.2485385, 2.9689288"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000048:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "133857:Fallout4.esm",
+      "Scale": 0.64,
+      "Position": "67423.95, 108146.734, 1912.2751",
+      "Rotation": "0.09904045, 6.1858654, 0.79343367"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000049:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "133857:Fallout4.esm",
+      "Scale": 0.64,
+      "Position": "67321.93, 108173.81, 1939.546",
+      "Rotation": "0.088840745, 6.1764774, 0.89351255"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00004A:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "133857:Fallout4.esm",
+      "Scale": 0.64,
+      "Position": "67234.84, 107940.65, 1949.0449",
+      "Rotation": "0.09904045, 6.1858654, 0.79343367"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00004B:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "001B53:Fallout4.esm",
+      "Position": "67708.72, 108269.46, 1823.727",
+      "Rotation": "0, 0, 2.3"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00004C:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "090E8C:Fallout4.esm",
+      "Position": "67731.08, 108533.23, 1982.0651"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00004D:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "090E8C:Fallout4.esm",
+      "Position": "67794.87, 108585.39, 1982.0651",
+      "Rotation": "0, 0, 5.583186"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00004E:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "08933B:Fallout4.esm",
+      "Position": "68124.16, 108999.49, 1819.2114"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00004F:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "08933B:Fallout4.esm",
+      "Position": "68093.13, 108972.13, 1804.4722",
+      "Rotation": "0, 0, 5.6831865"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000050:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "089338:Fallout4.esm",
+      "Position": "68180.74, 109046.734, 1826.1456",
+      "Rotation": "0, 0, 5.183188"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000051:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "089338:Fallout4.esm",
+      "Position": "67417.76, 108685.414, 1909.0782",
+      "Rotation": "0, 0, 5.5831876"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000052:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1BBFC6:Fallout4.esm",
+      "Position": "67711.26, 107969.32, 3084.5925",
+      "Rotation": "5.9118347, 6.1309524, 5.9118347"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000053:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "089338:Fallout4.esm",
+      "Position": "67734.586, 108011.234, 3027.8035",
+      "Rotation": "0, 0, 5.183188"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000054:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "08B5F6:Fallout4.esm",
+      "Position": "67711.35, 107667.35, 3024",
+      "Rotation": "0, 0, 5.4481883"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000055:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB1E:Fallout4.esm",
+      "Scale": 1.27,
+      "Position": "67885.22, 107876.664, 3023.9375",
+      "Rotation": "0, 0, 1.1123925"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000056:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB1E:Fallout4.esm",
+      "Scale": 1.27,
+      "Position": "67899.76, 107773.87, 3023.9375",
+      "Rotation": "0, 0, 1.612391"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000057:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB1D:Fallout4.esm",
+      "Scale": 1.18,
+      "Position": "67843.69, 107655.37, 3023.9375",
+      "Rotation": "0, 0, 5.425579"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000058:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB1E:Fallout4.esm",
+      "Scale": 1.27,
+      "Position": "67717.18, 107612.92, 3023.9375",
+      "Rotation": "0, 0, 1.612391"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000059:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB1E:Fallout4.esm",
+      "Scale": 1.27,
+      "Position": "67682.85, 107533.17, 3023.9375",
+      "Rotation": "0, 0, 2.312392"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00005A:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB1D:Fallout4.esm",
+      "Scale": 1.18,
+      "Position": "67564.63, 107481.875, 3023.9375",
+      "Rotation": "0, 0, 6.042389"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00005B:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB1E:Fallout4.esm",
+      "Scale": 1.27,
+      "Position": "67817.734, 107775.92, 3029.206",
+      "Rotation": "0, 0, 1.1123925"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00005C:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "08933B:Fallout4.esm",
+      "Position": "67680.555, 107664.484, 3024.1218",
+      "Rotation": "0, 0, 1.8000016"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00005D:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "062318:Fallout4.esm",
+      "Position": "67303.195, 106976.234, 2664.216",
+      "Rotation": "1.3494275, 0.79527146, 6.1957703"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00005E:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "062315:Fallout4.esm",
+      "Position": "67353.016, 107039.29, 2667.2295",
+      "Rotation": "4.3546486, 5.5553236, 0.15907454"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00005F:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0C3885:Fallout4.esm",
+      "Position": "67082.195, 106937.125, 2583.618",
+      "Rotation": "0, 0, 0.8000013"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000060:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0C574E:Fallout4.esm",
+      "Position": "67066.164, 106951.97, 2600.7104",
+      "Rotation": "0, 0, 0.7999996"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000061:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0C574A:Fallout4.esm",
+      "Position": "67100.9, 106919.266, 2602.3171",
+      "Rotation": "6.265732, 6.265732, 0.7999996"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000062:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0D75BC:Fallout4.esm",
+      "Position": "67088.05, 106938.96, 2600.1626",
+      "Rotation": "0, 0, 4.900001"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000063:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "02F3BF:Fallout4.esm",
+      "Scale": 0.9,
+      "Position": "67168.25, 107092.305, 2662.9434",
+      "Rotation": "4.6149106, 0.80722696, 1.3445667"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000064:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "001DFD:Fallout4.esm",
+      "Position": "67187.55, 106877.93, 2589.153",
+      "Rotation": "4.565434, 5.383723, 0.03677583"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000065:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "096A21:Fallout4.esm",
+      "RagdollData": [
+        {
+          "Unused": "0x7034F2",
+          "Rotation": "-0.117705084, -0.022864401, -0.021369763"
+        }
+      ],
+      "Position": "67200.32, 106878.07, 2599.147"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000066:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0A8493:Fallout4.esm",
+      "Position": "69553.76, 109192.3, 2485.6477",
+      "Rotation": "0.015624187, 6.264077, 2.4561982"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000067:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "05BA6B:Fallout4.esm",
+      "Position": "67895.55, 107669.06, 2520.4414",
+      "Rotation": "0, 0, 0.7853981"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000068:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "05BA6B:Fallout4.esm",
+      "Position": "68076.55, 107850.06, 2520.4414",
+      "Rotation": "0, 0, 2.3561945"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000069:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0C56CD:Fallout4.esm",
+      "Position": "68043.49, 107666.44, 2522.618",
+      "Rotation": "0.030635763, 6.266453, 3.6997454"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00006A:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0C56D2:Fallout4.esm",
+      "Position": "67890.35, 107820.5, 2521.4414"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00006B:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0C56D7:Fallout4.esm",
+      "Position": "68024.766, 107817.625, 2522.8486",
+      "Rotation": "0, 0, 4.183186"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00006C:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0C56AE:Fallout4.esm",
+      "Position": "68179.61, 107904.68, 2522.778",
+      "Rotation": "0, 0, 5.8831873"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00006D:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0C568A:Fallout4.esm",
+      "Position": "67899.73, 107629.23, 2523.6953",
+      "Rotation": "0, 0, 0.10000038"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00006E:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0C56D2:Fallout4.esm",
+      "Position": "67946.12, 107715.92, 2524.5786",
+      "Rotation": "0, 0, 1.4000001"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00006F:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0C56D2:Fallout4.esm",
+      "Position": "67896.305, 107751.38, 2523.4414",
+      "Rotation": "0, 0, 4.4831886"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000070:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "065582:Fallout4.esm",
+      "Position": "67910.914, 107738.21, 2510.551"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000071:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "065584:Fallout4.esm",
+      "Position": "67908.625, 107737.25, 2514.6616",
+      "Rotation": "0, 0, 0.30000114"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000072:SomeAssemblyRequired.esp",
+      "MajorRecordFlagsRaw": 32768,
+      "VersionControl": 13442,
+      "Fallout4MajorRecordFlags": [
+        "VisibleWhenDistant"
+      ],
+      "Base": "0469B7:Fallout4.esm",
+      "Position": "67979.336, 107757.92, 2526.76",
+      "Rotation": "0, 0, 2.3561945"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000073:SomeAssemblyRequired.esp",
+      "MajorRecordFlagsRaw": 32768,
+      "VersionControl": 13442,
+      "Fallout4MajorRecordFlags": [
+        "VisibleWhenDistant"
+      ],
+      "Base": "0469BB:Fallout4.esm",
+      "Position": "67979.34, 107938.94, 2526.76",
+      "Rotation": "0, 0, 3.9269907"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000074:SomeAssemblyRequired.esp",
+      "MajorRecordFlagsRaw": 32768,
+      "VersionControl": 13442,
+      "Fallout4MajorRecordFlags": [
+        "VisibleWhenDistant"
+      ],
+      "Base": "0469BB:Fallout4.esm",
+      "Position": "67798.33, 107757.92, 2526.76",
+      "Rotation": "0, 0, 0.7853999"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000075:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0E0B8B:Fallout4.esm",
+      "Position": "67888.836, 107667.414, 2526.76",
+      "Rotation": "0, 0, 3.9269924"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000076:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0E0B8B:Fallout4.esm",
+      "Position": "68069.87, 107848.43, 2526.76",
+      "Rotation": "0, 0, 5.497789"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000077:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0EB355:Fallout4.esm",
+      "Position": "68109.86, 107562.91, 2543.76",
+      "Rotation": "0.12217304, 0.24434608, 3.9269924"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000078:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0EB355:Fallout4.esm",
+      "Position": "68161.37, 107603.414, 2559.76",
+      "Rotation": "0.34906584, 0, 5.497789"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000079:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0EB355:Fallout4.esm",
+      "Position": "68253.875, 107731.92, 2537.76",
+      "Rotation": "0.13962634, 0, 5.497789"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00007A:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1A93CF:Fallout4.esm",
+      "Scale": 1.4,
+      "Position": "67991.52, 107950.6, 2517.7253",
+      "Rotation": "0, 0, 2.4000003"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00007B:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "117D36:Fallout4.esm",
+      "Position": "68032, 107648, 2560"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00007C:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "117D36:Fallout4.esm",
+      "Position": "68159.59, 107934.914, 2560"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00007D:SomeAssemblyRequired.esp",
+      "MajorRecordFlagsRaw": 32768,
+      "VersionControl": 13442,
+      "Fallout4MajorRecordFlags": [
+        "VisibleWhenDistant"
+      ],
+      "Base": "0469BB:Fallout4.esm",
+      "Position": "68155.27, 107934.39, 2526.76",
+      "Rotation": "0, 0, 1.9269935"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00007E:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1A93CF:Fallout4.esm",
+      "Scale": 1.4,
+      "Position": "68149.7, 107931.266, 2519.0002",
+      "Rotation": "0, 0, 3.8000007"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00007F:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1A6B85:Fallout4.esm",
+      "Position": "67818.52, 107603.09, 2521.539",
+      "Rotation": "0, 0, 2.08319"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000080:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1A6B78:Fallout4.esm",
+      "Position": "68066.01, 107712.21, 2523.0234",
+      "Rotation": "0, 0, 0.30000114"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000081:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1A6B78:Fallout4.esm",
+      "Position": "67972.25, 107879.81, 2523.0234",
+      "Rotation": "0, 0, 5.0831857"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000082:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "04424D:Fallout4.esm",
+      "Position": "68056.88, 107930.164, 2523.1719",
+      "Rotation": "0, 0, 0.29999942"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000083:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "04424D:Fallout4.esm",
+      "Position": "68120.9, 107905.016, 2523.1719",
+      "Rotation": "0, 0, 0.5000002"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000084:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0C5739:Fallout4.esm",
+      "Scale": 0.79999995,
+      "Position": "68094.914, 107914.16, 2561.3376",
+      "Rotation": "0, 0, 5.0831876"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000085:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0DF24D:Fallout4.esm",
+      "Position": "68061.91, 107927.64, 2563.208"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000086:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0211DD:Fallout4.esm",
+      "Position": "68051.24, 107928.9, 2563.208"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000087:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0211DD:Fallout4.esm",
+      "Position": "68060.22, 107917.586, 2563.208"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000088:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0211DD:Fallout4.esm",
+      "Position": "68053.24, 107923.164, 2563.208"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000089:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "01F908:Fallout4.esm",
+      "Position": "68072.125, 107928.43, 2563.208"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00008A:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "01F90A:Fallout4.esm",
+      "Position": "68081.3, 107916.72, 2563.208"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00008B:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "01F90A:Fallout4.esm",
+      "Position": "68026.72, 107927.37, 2563.208"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00008C:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "058224:Fallout4.esm",
+      "Position": "67963.73, 107730.72, 2544.9482",
+      "Rotation": "0.029332003, 1.5312768, 0.046396088"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00008D:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "059ABA:Fallout4.esm",
+      "Position": "67916.48, 107717.55, 2534.0874",
+      "Rotation": "5.8594384, 6.0863557, 0.02157576"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00008E:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "08C2AA:Fallout4.esm",
+      "Scale": 0.9,
+      "Position": "68895.92, 108649.625, 2548.5396",
+      "Rotation": "5.955332, 0.3767433, 5.487624"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00008F:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "08C2AA:Fallout4.esm",
+      "Position": "69407.7, 109080.48, 2584.168",
+      "Rotation": "6.2258635, 0.046874307, 5.583214"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000090:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "14D091:Fallout4.esm",
+      "Position": "69433.21, 109048.87, 2577.3835",
+      "Rotation": "6.2208977, 0.07828151, 0.93246657"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000091:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "14D091:Fallout4.esm",
+      "Position": "69374.5, 109104.2, 2577.3835",
+      "Rotation": "6.2208977, 0.060828213, 0.91501504"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000092:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0BA59B:Fallout4.esm",
+      "Position": "69574.83, 109243.15, 2603.3413",
+      "Rotation": "0, 0, 0.6999992"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000093:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0BA598:Fallout4.esm",
+      "Position": "69621.31, 109195.91, 2604.856",
+      "Rotation": "0, 0, 5.583186"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000094:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0BA5A5:Fallout4.esm",
+      "Position": "69538.695, 109172.234, 2605.0208",
+      "Rotation": "0, 0, 4.083187"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000095:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0366BF:Fallout4.esm",
+      "Position": "69450.586, 109225.43, 2590.5713",
+      "Rotation": "6.2544446, 6.231612, 6.1895013"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000096:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1A5947:Fallout4.esm",
+      "Position": "69457.26, 109235.6, 2588.326",
+      "Rotation": "0.01962099, 6.253881, 0.87212706"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000097:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0366BF:Fallout4.esm",
+      "Position": "69458.34, 109233.625, 2590.0444",
+      "Rotation": "0.027206192, 6.2569265, 6.0984244"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000098:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0366BF:Fallout4.esm",
+      "Position": "69458.266, 109245.164, 2592.8923",
+      "Rotation": "4.654762, 5.123039, 1.6446446"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "000099:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0211F7:Fallout4.esm",
+      "Position": "69101.945, 108742.65, 2589.9443",
+      "Rotation": "0, 0, 0.7999996"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00009A:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0211F7:Fallout4.esm",
+      "Position": "69100.89, 108743.91, 2619.8674",
+      "Rotation": "0, 0, 0.83490616"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00009B:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0211F5:Fallout4.esm",
+      "Position": "68943.76, 108774.61, 2590.364",
+      "Rotation": "0, 0, 3.900001"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00009C:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0211F6:Fallout4.esm",
+      "Position": "69103.88, 108744.68, 2648.4456",
+      "Rotation": "0, 0, 0.7999996"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00009D:SomeAssemblyRequired.esp",
+      "MajorRecordFlagsRaw": 32768,
+      "VersionControl": 13442,
+      "Fallout4MajorRecordFlags": [
+        "VisibleWhenDistant"
+      ],
+      "Base": "0469BB:Fallout4.esm",
+      "Scale": 0.79999995,
+      "Position": "69101.74, 108819.7, 2597.325",
+      "Rotation": "0, 0, 5.5101805"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00009E:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "04424D:Fallout4.esm",
+      "Position": "69160.55, 108814.84, 2586.2732",
+      "Rotation": "0, 0, 0.60000056"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "00009F:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0CF88C:Fallout4.esm",
+      "Lock": {
+        "Level": "-1165001678"
+      },
+      "Position": "69233.09, 108851.7, 2584.9045",
+      "Rotation": "0, 0, 2.5831885"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0000A0:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "106939:Fallout4.esm",
+      "Position": "69096.99, 108804.65, 2510.2427",
+      "Rotation": "0.011208504, 6.2726293, 4.712389"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0000A1:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "1ADB21:Fallout4.esm",
+      "Scale": 0.79999995,
+      "Position": "69581.664, 109386.86, 2473.1716",
+      "Rotation": "0.35238197, 0.06940825, 1.0258836"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0000A2:SomeAssemblyRequired.esp",
+      "MajorRecordFlagsRaw": 32768,
+      "VersionControl": 13442,
+      "Fallout4MajorRecordFlags": [
+        "VisibleWhenDistant"
+      ],
+      "Base": "02A919:Fallout4.esm",
+      "Scale": 0.79999995,
+      "Position": "68938.66, 108691.27, 2604.382",
+      "Rotation": "0.062498495, 6.2067556, 2.4825947"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0000A3:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0BA073:Fallout4.esm",
+      "Position": "68118.17, 107909.14, 2563.208",
+      "Rotation": "0, 0, 3.2"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0000A4:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0CD29D:Fallout4.esm",
+      "Lock": {
+        "Level": "-1165001653"
+      },
+      "Position": "67724.59, 108531.71, 3146.6213",
+      "Rotation": "0.2850646, 0.10545628, 4.924113"
+    },
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0000A5:SomeAssemblyRequired.esp",
+      "VersionControl": 13442,
+      "Base": "0928C8:Fallout4.esm",
+      "LeveledItemBaseObject": "000130:SomeAssemblyRequired.esp",
+      "Position": "67742.766, 108468.19, 3191.1904",
+      "Rotation": "0.29418048, 6.2684617, 0.73201025"
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

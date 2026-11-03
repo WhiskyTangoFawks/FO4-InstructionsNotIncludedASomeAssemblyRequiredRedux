@@ -1,0 +1,1743 @@
+{
+  "FormKey": "00320D:DLCNukaWorld.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "HasWater"
+  ],
+  "PreVisFilesTimestamp": 8501,
+  "InPreVisFileOf": "00320E:DLCNukaWorld.esm",
+  "PreCombinedFilesTimestamp": 8501,
+  "Grid": {
+    "Point": "-3, 7"
+  },
+  "WaterHeight": 3.4028235E+38,
+  "Regions": [
+    "028A27:DLCNukaWorld.esm",
+    "028A28:DLCNukaWorld.esm",
+    "00B907:DLCNukaWorld.esm",
+    "023E89:DLCNukaWorld.esm"
+  ],
+  "PhysicsReferences": [
+    "0240FE:DLCNukaWorld.esm",
+    "0240FF:DLCNukaWorld.esm",
+    "024122:DLCNukaWorld.esm",
+    "024123:DLCNukaWorld.esm"
+  ],
+  "CombinedMeshes": [
+    176306026,
+    324769019,
+    425316049,
+    524771173,
+    662107564,
+    736777074,
+    850632099,
+    883756055,
+    942779081,
+    1043282813,
+    1499057873,
+    1598512997,
+    1735849388,
+    2016520905,
+    2117024637,
+    2572799697,
+    2610039135,
+    2672254821,
+    2809591212,
+    3031239703,
+    3090262729,
+    3745996645,
+    3883333036,
+    4164004553
+  ],
+  "CombinedMeshReferences": [
+    {
+      "Reference": "015E76:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0240D1:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "017075:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "024519:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015DFC:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "015DB9:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "01706C:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015E6F:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015E04:DLCNukaWorld.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "050128:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0485DF:DLCNukaWorld.esm",
+      "CombinedMesh": 3745996645
+    },
+    {
+      "Reference": "015DA0:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015DE0:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015D8B:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015E01:DLCNukaWorld.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "0500C6:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015E6A:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "0485DA:DLCNukaWorld.esm",
+      "CombinedMesh": 3883333036
+    },
+    {
+      "Reference": "015DA5:DLCNukaWorld.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "0240BF:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "01701B:DLCNukaWorld.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "0240D4:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015D92:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "01705E:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015DEA:DLCNukaWorld.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "02450F:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "017063:DLCNukaWorld.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "024521:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "015DC4:DLCNukaWorld.esm",
+      "CombinedMesh": 883756055
+    },
+    {
+      "Reference": "015DAF:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0485D0:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "050127:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "024516:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "01707A:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0500D5:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015E79:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015D9D:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "024513:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "017014:DLCNukaWorld.esm",
+      "CombinedMesh": 736777074
+    },
+    {
+      "Reference": "0500D0:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0485CC:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "015E65:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "015D84:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "02450A:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "015DAA:DLCNukaWorld.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "015DC1:DLCNukaWorld.esm",
+      "CombinedMesh": 883756055
+    },
+    {
+      "Reference": "050122:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0485D5:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "017059:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0500D8:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015DFE:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "017077:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0240D3:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0485DD:DLCNukaWorld.esm",
+      "CombinedMesh": 3883333036
+    },
+    {
+      "Reference": "015DC9:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "02452C:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015DA2:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "01706E:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015E06:DLCNukaWorld.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "0485B3:DLCNukaWorld.esm",
+      "CombinedMesh": 1598512997
+    },
+    {
+      "Reference": "015DA7:DLCNukaWorld.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "01702E:DLCNukaWorld.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "0240CF:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015D89:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015DE2:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "015E03:DLCNukaWorld.esm",
+      "CombinedMesh": 883756055
+    },
+    {
+      "Reference": "015DBE:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "017037:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0500DD:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015D90:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "017019:DLCNukaWorld.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "02451E:DLCNukaWorld.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "015DAD:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015DC6:DLCNukaWorld.esm",
+      "CombinedMesh": 883756055
+    },
+    {
+      "Reference": "050125:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0500CE:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015D83:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "02450D:DLCNukaWorld.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "0485CB:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "024099:DLCNukaWorld.esm",
+      "CombinedMesh": 4164004553
+    },
+    {
+      "Reference": "015DDF:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "017078:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015DF1:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "024514:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "0500D7:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "017038:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015DB1:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "017016:DLCNukaWorld.esm",
+      "CombinedMesh": 736777074
+    },
+    {
+      "Reference": "024511:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015D9F:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0485E0:DLCNukaWorld.esm",
+      "CombinedMesh": 3745996645
+    },
+    {
+      "Reference": "015E7E:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015DC3:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "015DA8:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015E67:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "024508:DLCNukaWorld.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "0240C0:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015D86:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "015D5C:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "0501D4:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015CB7:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "015D72:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "016FF4:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "015D45:DLCNukaWorld.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "015CAE:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "050202:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "015E8A:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0243CC:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "015D40:DLCNukaWorld.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "015D6E:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "016FDF:DLCNukaWorld.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "0501E6:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0243C9:DLCNukaWorld.esm",
+      "CombinedMesh": 2809591212
+    },
+    {
+      "Reference": "015D59:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "0501D1:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0243D0:DLCNukaWorld.esm",
+      "CombinedMesh": 2572799697
+    },
+    {
+      "Reference": "0501FF:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0243BB:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "015CB2:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0501C2:DLCNukaWorld.esm",
+      "CombinedMesh": 4164004553
+    },
+    {
+      "Reference": "0501EC:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015D64:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0501B0:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "024418:DLCNukaWorld.esm",
+      "CombinedMesh": 2572799697
+    },
+    {
+      "Reference": "050251:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015D7D:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015CB8:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0501F5:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0501DE:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015D78:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0501F0:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015D24:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0501AC:DLCNukaWorld.esm",
+      "CombinedMesh": 1598512997
+    },
+    {
+      "Reference": "015E80:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "017083:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015CCF:DLCNukaWorld.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "015E91:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015D70:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "024415:DLCNukaWorld.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "0501D6:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015D69:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015E88:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "0501CF:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015D47:DLCNukaWorld.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "016FF6:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "050205:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0243CB:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "015E8D:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "015D42:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "0243B9:DLCNukaWorld.esm",
+      "CombinedMesh": 2809591212
+    },
+    {
+      "Reference": "015E94:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0243D2:DLCNukaWorld.esm",
+      "CombinedMesh": 2572799697
+    },
+    {
+      "Reference": "015D75:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0501B8:DLCNukaWorld.esm",
+      "CombinedMesh": 2672254821
+    },
+    {
+      "Reference": "0501EE:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015CC8:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "015D66:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015D23:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "01709D:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0501F7:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "016C6A:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0501B2:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0501D9:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "016FE0:DLCNukaWorld.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "02441A:DLCNukaWorld.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "017098:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0501F2:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0501DC:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0501EB:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015D63:DLCNukaWorld.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "0501C5:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "015D3C:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "02441C:DLCNukaWorld.esm",
+      "CombinedMesh": 3090262729
+    },
+    {
+      "Reference": "0501DF:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0501F1:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "017082:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015E81:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015D65:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "0501ED:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "024419:DLCNukaWorld.esm",
+      "CombinedMesh": 2572799697
+    },
+    {
+      "Reference": "015D39:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0501DA:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0501B1:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0501F4:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015D7C:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "015CB9:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015D41:DLCNukaWorld.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "015E8E:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "016FDE:DLCNukaWorld.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "044B23:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0501D0:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015D76:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015CB3:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0243D1:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "0243BA:DLCNukaWorld.esm",
+      "CombinedMesh": 2809591212
+    },
+    {
+      "Reference": "0501D5:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015D36:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015D5D:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "01DAB8:DLCNukaWorld.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "015CB6:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015D73:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0243D4:DLCNukaWorld.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "015D44:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "016FF5:DLCNukaWorld.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "015E8B:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015CAF:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "015D6A:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0501F3:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015D7B:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "0501DD:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "05020B:DLCNukaWorld.esm",
+      "CombinedMesh": 1598512997
+    },
+    {
+      "Reference": "0501EA:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0501C4:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0501AF:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015D27:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015D67:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0501EF:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015D22:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0501F6:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015D7E:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "02441B:DLCNukaWorld.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "016FE1:DLCNukaWorld.esm",
+      "CombinedMesh": 324769019
+    },
+    {
+      "Reference": "0501D8:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015E8C:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0243CA:DLCNukaWorld.esm",
+      "CombinedMesh": 2809591212
+    },
+    {
+      "Reference": "016FF2:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "015D43:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "015CB1:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "015D74:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0243D3:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "015E95:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015D5A:DLCNukaWorld.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "015D71:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015CB4:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0501F9:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0501D7:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "024414:DLCNukaWorld.esm",
+      "CombinedMesh": 2572799697
+    },
+    {
+      "Reference": "015E89:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015D68:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "044B24:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015D46:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015E7D:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0500D1:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015D9C:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "017015:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "024512:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "015DB2:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0485CD:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0240C3:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015D85:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "02450B:DLCNukaWorld.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "015E64:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "050123:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0485D4:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "015DAB:DLCNukaWorld.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "015DC0:DLCNukaWorld.esm",
+      "CombinedMesh": 883756055
+    },
+    {
+      "Reference": "02450E:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "015DEB:DLCNukaWorld.esm",
+      "CombinedMesh": 883756055
+    },
+    {
+      "Reference": "015D80:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "016CD0:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "0485D1:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "050126:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015DC5:DLCNukaWorld.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "015DAE:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0500D4:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015E78:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015DF2:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "024517:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "01707B:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015DDC:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0500C7:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015E00:DLCNukaWorld.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "015E6B:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "015D8A:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015DA4:DLCNukaWorld.esm",
+      "CombinedMesh": 2117024637
+    },
+    {
+      "Reference": "0485DB:DLCNukaWorld.esm",
+      "CombinedMesh": 3883333036
+    },
+    {
+      "Reference": "01701A:DLCNukaWorld.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "02451D:DLCNukaWorld.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "017071:DLCNukaWorld.esm",
+      "CombinedMesh": 2610039135
+    },
+    {
+      "Reference": "015DBD:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "017074:DLCNukaWorld.esm",
+      "CombinedMesh": 2672254821
+    },
+    {
+      "Reference": "0240D0:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015DFD:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "024518:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "015E77:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0500DB:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "015DB8:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "015E6E:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015E05:DLCNukaWorld.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "015D8F:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015DE4:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015DA1:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "0485DE:DLCNukaWorld.esm",
+      "CombinedMesh": 3883333036
+    },
+    {
+      "Reference": "015DB0:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "05024D:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "05022E:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "017012:DLCNukaWorld.esm",
+      "CombinedMesh": 883756055
+    },
+    {
+      "Reference": "0485E1:DLCNukaWorld.esm",
+      "CombinedMesh": 4164004553
+    },
+    {
+      "Reference": "017013:DLCNukaWorld.esm",
+      "CombinedMesh": 736777074
+    },
+    {
+      "Reference": "05021B:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0500D2:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "024510:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "017017:DLCNukaWorld.esm",
+      "CombinedMesh": 736777074
+    },
+    {
+      "Reference": "05020A:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "015D9E:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "0244D8:DLCNukaWorld.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "01701D:DLCNukaWorld.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "01701E:DLCNukaWorld.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "050121:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "01701F:DLCNukaWorld.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "015DC2:DLCNukaWorld.esm",
+      "CombinedMesh": 883756055
+    },
+    {
+      "Reference": "0501E5:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015DA9:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015DEC:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "024509:DLCNukaWorld.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "015D87:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0240C1:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0501E4:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "017020:DLCNukaWorld.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "015E66:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "017021:DLCNukaWorld.esm",
+      "CombinedMesh": 736777074
+    },
+    {
+      "Reference": "017022:DLCNukaWorld.esm",
+      "CombinedMesh": 736777074
+    },
+    {
+      "Reference": "050124:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0485D3:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "01702B:DLCNukaWorld.esm",
+      "CombinedMesh": 736777074
+    },
+    {
+      "Reference": "0501E2:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015DAC:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "024522:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "01703D:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "017060:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0244E0:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "015DE9:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "02450C:DLCNukaWorld.esm",
+      "CombinedMesh": 1499057873
+    },
+    {
+      "Reference": "017076:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "0244DE:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "0244DC:DLCNukaWorld.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "0500CF:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015DB5:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0244DB:DLCNukaWorld.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "015DDE:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "01704D:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "0244D7:DLCNukaWorld.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "0501E7:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "01705A:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "0485CA:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "01705B:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "01705C:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0500D6:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "01705D:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "01705F:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "017079:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "024515:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015DF0:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "017061:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "015DA6:DLCNukaWorld.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "017081:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "01702F:DLCNukaWorld.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "02451C:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "017062:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "01707E:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "01707D:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015D91:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "017064:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "015E02:DLCNukaWorld.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "017065:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "015D88:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "017073:DLCNukaWorld.esm",
+      "CombinedMesh": 2672254821
+    },
+    {
+      "Reference": "015DE3:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "017066:DLCNukaWorld.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "017070:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "017067:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "017068:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "01706D:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "015DBF:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "017072:DLCNukaWorld.esm",
+      "CombinedMesh": 3031239703
+    },
+    {
+      "Reference": "017036:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "024417:DLCNukaWorld.esm",
+      "CombinedMesh": 2572799697
+    },
+    {
+      "Reference": "01707C:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0244DA:DLCNukaWorld.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "02451F:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "017018:DLCNukaWorld.esm",
+      "CombinedMesh": 736777074
+    },
+    {
+      "Reference": "02412C:DLCNukaWorld.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "01707F:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0500DC:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "017057:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "01701C:DLCNukaWorld.esm",
+      "CombinedMesh": 883756055
+    },
+    {
+      "Reference": "015D9B:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "050201:DLCNukaWorld.esm",
+      "CombinedMesh": 1598512997
+    },
+    {
+      "Reference": "024416:DLCNukaWorld.esm",
+      "CombinedMesh": 2572799697
+    },
+    {
+      "Reference": "0244D6:DLCNukaWorld.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "0501E0:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015DBA:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0244D9:DLCNukaWorld.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "02451A:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "015DFF:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "0240D2:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0244DF:DLCNukaWorld.esm",
+      "CombinedMesh": 425316049
+    },
+    {
+      "Reference": "0500D9:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0244E7:DLCNukaWorld.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "05022A:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0500D3:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "0244DD:DLCNukaWorld.esm",
+      "CombinedMesh": 850632099
+    },
+    {
+      "Reference": "05024E:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0501E3:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015DA3:DLCNukaWorld.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0485DC:DLCNukaWorld.esm",
+      "CombinedMesh": 3883333036
+    },
+    {
+      "Reference": "0501E8:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0501E9:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "0501F8:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "015E07:DLCNukaWorld.esm",
+      "CombinedMesh": 176306026
+    },
+    {
+      "Reference": "050200:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "050203:DLCNukaWorld.esm",
+      "CombinedMesh": 2016520905
+    },
+    {
+      "Reference": "050207:DLCNukaWorld.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "050208:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "050209:DLCNukaWorld.esm",
+      "CombinedMesh": 524771173
+    },
+    {
+      "Reference": "01706F:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    },
+    {
+      "Reference": "050234:DLCNukaWorld.esm",
+      "CombinedMesh": 942779081
+    }
+  ],
+  "Temporary": [
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0485D2:DLCNukaWorld.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "18AE56:Fallout4.esm",
+      "LocationReference": "008060:DLCNukaWorld.esm",
+      "Position": "-8467.587, 30713.178, 863.56323",
+      "Rotation": "0, 0, 6.2231827"
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}

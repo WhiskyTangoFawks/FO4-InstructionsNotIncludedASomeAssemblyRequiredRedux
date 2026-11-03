@@ -1,0 +1,74 @@
+{
+  "FormKey": "00290F:DLCNukaWorld.esm",
+  "VersionControl": 13442,
+  "EditorID": "NukaWorld",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Nuka-World"
+  },
+  "EncounterZone": "00A467:DLCNukaWorld.esm",
+  "Location": "008060:DLCNukaWorld.esm",
+  "Climate": "00AB03:DLCNukaWorld.esm",
+  "Water": "102D5B:Fallout4.esm",
+  "LodWater": "102D5B:Fallout4.esm",
+  "LodWaterHeight": 325.0,
+  "LandDefaults": {
+    "DefaultLandHeight": -2048.0,
+    "DefaultWaterHeight": 325.0
+  },
+  "MapImage": "DLC04\\Interface\\Map\\NukaWorldMap.DDS",
+  "MapData": {
+    "NorthwestCellCoords": "-18, 17",
+    "SoutheastCellCoords": "16, -18"
+  },
+  "WorldMapOffsetScale": 1.0,
+  "DistantLodMultiplier": 1.0,
+  "Flags": [
+    "SmallWorld"
+  ],
+  "ObjectBoundsMin": "-32, -32",
+  "ObjectBoundsMax": "33, 33",
+  "TopCell": {
+    "FormKey": "007B9C:DLCNukaWorld.esm",
+    "IsCompressed": true,
+    "MajorRecordFlagsRaw": 263168,
+    "VersionControl": 13442,
+    "Fallout4MajorRecordFlags": [
+      "0x400",
+      "Compressed"
+    ],
+    "Flags": [
+      "HasWater"
+    ],
+    "Grid": {
+      "Flags": "1799050752"
+    },
+    "WaterHeight": 3.4028235E+38,
+    "Timestamp": 13442,
+    "UnknownGroupData": 399,
+    "PersistentTimestamp": 13442,
+    "PersistentUnknownGroupData": 400,
+    "Persistent": [
+      {
+        "MutagenObjectType": "PlacedObject",
+        "FormKey": "056D0B:DLCNukaWorld.esm",
+        "MajorRecordFlagsRaw": 1073744896,
+        "VersionControl": 13442,
+        "Fallout4MajorRecordFlags": [
+          "0x400",
+          "InitiallyDisabled",
+          "0x40000000"
+        ],
+        "Base": "18AE56:Fallout4.esm",
+        "LocationReference": "008060:DLCNukaWorld.esm",
+        "Position": "28304.2, 5610.0576, 4594.2744",
+        "Rotation": "0, 0, 1.8599991"
+      }
+    ],
+    "MajorFlags": [
+      "Persistent",
+      "0x40000"
+    ]
+  },
+  "SubCellsTimestamp": 13442
+}

@@ -1,0 +1,8 @@
+*
+!/.gitignore
+!/.gitattributes
+!/build.json
+!/plugin-source/
+!/plugin-source/**
+!/Instructions\ Not\ Included\ -\ A\ Some\ Assembly\ Required\ Redux.manifest.json
+/SomeAssemblyRequired_SWAP.ini

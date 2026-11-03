@@ -1,0 +1,16 @@
+{
+  "FormKey": "000137:SomeAssemblyRequired.esp",
+  "VersionControl": 13442,
+  "EditorID": "tb_EnclaveVertibird_RightWing",
+  "ObjectBounds": {
+    "First": "-204, -344, -109",
+    "Second": "184, 143, 114"
+  },
+  "Model": {
+    "File": "Vehicles\\Vertibird\\Vertibird03RightWing.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "MaxAngle": 90.0,
+  "LeafAmplitude": 1.0,
+  "LeafFrequency": 1.0
+}

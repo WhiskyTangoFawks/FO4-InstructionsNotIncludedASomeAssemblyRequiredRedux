@@ -1,0 +1,34 @@
+{
+  "FormKey": "000130:SomeAssemblyRequired.esp",
+  "VersionControl": 13442,
+  "EditorID": "tb_LL_Armor_Power_X01A_ArmRight_Dam",
+  "MaxCount": 0,
+  "Flags": [
+    "CalculateForEachItemInCount"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "154AC4:Fallout4.esm",
+        "Count": 1
+      },
+      "ExtraData": {
+        "Owner": {
+          "MutagenObjectType": "UntypedOwner"
+        },
+        "ItemCondition": 0.5
+      }
+    }
+  ],
+  "FilterKeywordChances": [
+    {
+      "FilterKeyword": "197DEE:Fallout4.esm",
+      "Chance": 2.3283064370807974E-08
+    }
+  ],
+  "OverrideName": {
+    "TargetLanguage": "English",
+    "Value": "X01 Prototype Right Arm"
+  }
+}

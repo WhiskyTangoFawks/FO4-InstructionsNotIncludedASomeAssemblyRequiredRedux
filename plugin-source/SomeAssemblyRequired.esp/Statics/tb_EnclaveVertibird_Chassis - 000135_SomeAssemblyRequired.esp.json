@@ -1,0 +1,16 @@
+{
+  "FormKey": "000135:SomeAssemblyRequired.esp",
+  "VersionControl": 13442,
+  "EditorID": "tb_EnclaveVertibird_Chassis",
+  "ObjectBounds": {
+    "First": "-442, -272, 0",
+    "Second": "750, 272, 536"
+  },
+  "Model": {
+    "File": "Vehicles\\Vertibird\\Vertibird03.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "MaxAngle": 90.0,
+  "LeafAmplitude": 1.0,
+  "LeafFrequency": 1.0
+}

@@ -1,0 +1,94 @@
+{
+  "FormKey": "011531:DLCNukaWorld.esm",
+  "EditorID": "DLC04_LL_Armor_Power_T51_Set_A_NukaCola",
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "011511:DLCNukaWorld.esm",
+        "Count": 1
+      },
+      "ExtraData": {
+        "Owner": {
+          "MutagenObjectType": "UntypedOwner"
+        },
+        "ItemCondition": 0.01
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "011513:DLCNukaWorld.esm",
+        "Count": 1
+      },
+      "ExtraData": {
+        "Owner": {
+          "MutagenObjectType": "UntypedOwner"
+        },
+        "ItemCondition": 0.01
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "011515:DLCNukaWorld.esm",
+        "Count": 1
+      },
+      "ExtraData": {
+        "Owner": {
+          "MutagenObjectType": "UntypedOwner"
+        },
+        "ItemCondition": 0.01
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "011517:DLCNukaWorld.esm",
+        "Count": 1
+      },
+      "ExtraData": {
+        "Owner": {
+          "MutagenObjectType": "UntypedOwner"
+        },
+        "ItemCondition": 0.01
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "011519:DLCNukaWorld.esm",
+        "Count": 1
+      },
+      "ExtraData": {
+        "Owner": {
+          "MutagenObjectType": "UntypedOwner"
+        },
+        "ItemCondition": 0.01
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "01151B:DLCNukaWorld.esm",
+        "Count": 1
+      },
+      "ExtraData": {
+        "Owner": {
+          "MutagenObjectType": "UntypedOwner"
+        },
+        "ItemCondition": 0.01
+      }
+    }
+  ],
+  "FilterKeywordChances": [
+    {
+      "FilterKeyword": "197DEE:Fallout4.esm",
+      "Chance": 2.3283064370807974E-08
+    }
+  ]
+}

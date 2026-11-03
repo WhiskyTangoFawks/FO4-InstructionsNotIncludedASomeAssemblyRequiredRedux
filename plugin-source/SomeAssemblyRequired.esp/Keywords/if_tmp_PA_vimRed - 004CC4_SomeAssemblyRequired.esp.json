@@ -1,0 +1,14 @@
+{
+  "FormKey": "004CC4:SomeAssemblyRequired.esp",
+  "MajorRecordFlagsRaw": 32768,
+  "EditorID": "if_tmp_PA_vimRed",
+  "FormVersion": 128,
+  "Fallout4MajorRecordFlags": [
+    "VisibleWhenDistant"
+  ],
+  "Color": "#00FFFFFF",
+  "Type": "InstantiationFilter",
+  "MajorFlags": [
+    "0x8000"
+  ]
+}

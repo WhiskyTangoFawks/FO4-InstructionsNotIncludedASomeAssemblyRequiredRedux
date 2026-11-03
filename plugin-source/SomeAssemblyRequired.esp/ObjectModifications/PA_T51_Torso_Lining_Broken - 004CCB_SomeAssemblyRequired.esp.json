@@ -1,0 +1,45 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "004CCB:SomeAssemblyRequired.esp",
+  "EditorID": "PA_T51_Torso_Lining_Broken",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Display Model"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Display model, reduces Armor, Energy Resist, and Health by half."
+  },
+  "AttachPoint": "17DAA9:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFC4:Fallout4.esm",
+    "18DFC8:Fallout4.esm",
+    "18DFCE:Fallout4.esm"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Rating",
+      "Value": -0.5,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "DamageTypeValue",
+      "Record": "060A81:Fallout4.esm",
+      "Value": -0.5,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Health",
+      "Value": -0.5,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "ColorRemappingIndex",
+      "Value": 0.66
+    }
+  ]
+}

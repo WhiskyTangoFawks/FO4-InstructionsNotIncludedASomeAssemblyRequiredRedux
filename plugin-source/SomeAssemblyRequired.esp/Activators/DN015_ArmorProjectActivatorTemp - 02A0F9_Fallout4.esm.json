@@ -1,0 +1,23 @@
+{
+  "FormKey": "02A0F9:Fallout4.esm",
+  "VersionControl": 13442,
+  "EditorID": "DN015_ArmorProjectActivatorTemp",
+  "ObjectBounds": {
+    "First": "-17, -15, 1",
+    "Second": "17, 22, 34"
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Armor Research Project"
+  },
+  "Model": {
+    "File": "Actors\\PowerArmor\\CharacterAssets\\Mods\\GO_T51_Body.nif",
+    "Data": "0x040000000400000000000000020000000000000049402C62646473000024EAAA902C2A01646473000024EAAA8EC5FFE1646473000024EAAACDE992D8646473001CDB88C5"
+  },
+  "MarkerColor": "#00CC4C33",
+  "ActivateTextOverride": {
+    "TargetLanguage": "English",
+    "Value": "Complete"
+  },
+  "Flags": []
+}

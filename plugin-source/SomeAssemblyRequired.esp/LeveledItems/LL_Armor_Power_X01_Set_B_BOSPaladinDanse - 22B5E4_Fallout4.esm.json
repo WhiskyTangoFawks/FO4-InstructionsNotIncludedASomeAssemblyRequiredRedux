@@ -1,0 +1,52 @@
+{
+  "FormKey": "22B5E4:Fallout4.esm",
+  "VersionControl": 13442,
+  "EditorID": "LL_Armor_Power_X01_Set_B_BOSPaladinDanse",
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0035EC:SomeAssemblyRequired.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0035ED:SomeAssemblyRequired.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0035EE:SomeAssemblyRequired.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0035EF:SomeAssemblyRequired.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0035F0:SomeAssemblyRequired.esp",
+        "Count": 1
+      }
+    }
+  ],
+  "FilterKeywordChances": [
+    {
+      "FilterKeyword": "191648:Fallout4.esm",
+      "Chance": 2.3283064370807974E-08
+    }
+  ]
+}

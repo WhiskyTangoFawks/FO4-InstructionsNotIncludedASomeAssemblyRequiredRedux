@@ -1,0 +1,449 @@
+{
+  "FormKey": "000D1C:DLCCoast.esm",
+  "IsCompressed": true,
+  "MajorRecordFlagsRaw": 262144,
+  "VersionControl": 13442,
+  "EditorID": "BrookesHeadLighthouseExt02",
+  "Fallout4MajorRecordFlags": [
+    "Compressed"
+  ],
+  "Flags": [
+    "HasWater",
+    "HandChanged"
+  ],
+  "PreVisFilesTimestamp": 8365,
+  "InPreVisFileOf": "000D36:DLCCoast.esm",
+  "PreCombinedFilesTimestamp": 8365,
+  "Grid": {
+    "Point": "-2, -15"
+  },
+  "MaxHeightData": {
+    "Offset": 512.0,
+    "HeightMap": [
+      [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,4,6,4,0,0,0,0,0,0,0,0,0,0,0],
+      [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,0,0,0,0,0,0,0,0,0,0,0,0],
+      [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,1],
+      [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,2,2,1,1,1],
+      [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,2,2,2,2,1],
+      [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,2,2,2,2,2],
+      [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,2,2,2],
+      [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,2,2,2,4,4,4],
+      [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,2,2,2,3,4,4,4,4,4],
+      [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,2,2,2,2,4,4,4,4,4,4],
+      [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,4,4,4,4,4,4,4,4,4,4,4],
+      [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,4,3,3,4,4,4,4,4,4,4,4,4,4,4],
+      [0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,2,2,4,4,4,4,4,4,4,4,4,4,4,4,4,4,7],
+      [0,0,0,1,1,1,1,0,0,0,1,2,2,2,3,4,4,4,4,5,5,5,4,4,4,4,4,4,4,4,4,7],
+      [2,2,0,2,2,1,1,0,1,1,2,2,2,4,4,4,5,5,5,5,5,5,5,5,9,8,4,4,4,10,11,5],
+      [2,2,2,2,3,1,1,2,2,2,2,4,4,4,5,4,5,5,5,5,5,15,14,12,7,9,5,4,4,10,11,4],
+      [4,4,2,5,5,3,2,4,4,4,4,5,5,5,5,6,5,5,6,6,18,17,19,16,12,8,5,4,4,4,4,4],
+      [5,6,6,6,6,3,4,4,4,4,5,5,5,5,5,6,6,7,11,9,6,12,16,17,13,14,5,5,4,4,4,4],
+      [6,6,6,6,6,4,3,4,4,4,5,5,5,5,13,6,6,10,11,9,6,6,6,13,10,13,12,5,4,7,4,4],
+      [6,6,6,6,6,6,4,4,4,5,5,5,5,12,14,11,11,6,6,6,6,6,7,5,10,5,10,9,5,7,4,4],
+      [6,6,6,6,6,6,4,4,5,5,5,5,5,12,12,12,12,6,6,6,6,6,6,5,5,7,5,13,8,4,4,4],
+      [6,14,6,6,6,6,5,5,5,5,11,10,6,6,8,9,10,6,6,6,6,6,12,5,7,7,7,15,4,4,4,3],
+      [13,17,15,12,6,17,15,5,5,9,11,12,6,6,15,7,6,6,6,6,14,16,13,10,7,7,7,7,4,4,4,3],
+      [8,16,12,6,6,8,14,14,12,14,10,11,6,6,6,6,14,14,12,6,11,14,14,9,7,7,10,7,4,4,4,3],
+      [6,6,12,6,6,6,11,16,12,13,12,6,6,6,6,6,6,10,10,15,17,6,11,5,6,8,11,12,13,14,4,4],
+      [8,8,8,8,8,6,14,13,10,6,6,6,6,6,6,6,6,11,9,6,6,6,10,5,5,6,9,13,13,13,4,4],
+      [8,8,8,8,8,6,6,6,13,6,6,6,6,6,6,6,6,10,6,6,6,6,5,5,5,5,5,5,12,4,4,4],
+      [9,9,9,9,9,6,6,10,12,12,6,8,8,8,6,6,13,14,6,6,7,7,6,5,5,5,5,5,5,5,11,12],
+      [8,8,8,8,16,13,13,15,11,6,6,8,8,8,8,7,13,12,6,6,6,6,6,6,6,6,6,5,5,5,9,11],
+      [8,8,8,8,15,17,11,13,6,7,7,7,7,6,7,7,6,6,6,6,6,6,6,6,6,6,6,6,5,5,14,13],
+      [6,6,6,6,15,14,6,7,7,7,7,7,7,7,7,6,6,6,6,6,6,6,6,6,6,6,16,15,6,12,12,13],
+      [6,6,6,6,6,6,6,7,7,7,7,7,7,7,7,7,7,6,6,6,6,6,6,6,6,6,12,14,14,15,12,5]
+    ]
+  },
+  "WaterHeight": 3.4028235E+38,
+  "Regions": [
+    "053D13:DLCCoast.esm",
+    "044170:DLCCoast.esm",
+    "03B3EE:DLCCoast.esm",
+    "00ADA4:DLCCoast.esm",
+    "2388E1:Fallout4.esm"
+  ],
+  "Location": "00ED4B:DLCCoast.esm",
+  "PhysicsReferences": [
+    "042A1B:DLCCoast.esm",
+    "042A1E:DLCCoast.esm",
+    "0280AC:DLCCoast.esm",
+    "04F7E5:DLCCoast.esm",
+    "04E220:DLCCoast.esm",
+    "04F7E6:DLCCoast.esm",
+    "04E21E:DLCCoast.esm",
+    "042A1D:DLCCoast.esm",
+    "04F7E1:DLCCoast.esm",
+    "04F7DF:DLCCoast.esm",
+    "04E21F:DLCCoast.esm"
+  ],
+  "CombinedMeshes": [
+    28861806,
+    46030353,
+    82877219,
+    158464202,
+    210030716,
+    316928405,
+    462555487,
+    662107564,
+    973764369,
+    976293824,
+    1001525887,
+    1043282813,
+    1556408275,
+    1735849388,
+    2075267711,
+    2176345454,
+    2193514001,
+    2230360867,
+    2464412053,
+    2610039135,
+    2711125582,
+    2867539277,
+    2921051758,
+    2998115747,
+    3090262729,
+    3096400337,
+    3121248017,
+    3123777472
+  ],
+  "CombinedMeshReferences": [
+    {
+      "Reference": "0145B6:DLCCoast.esm",
+      "CombinedMesh": 2867539277
+    },
+    {
+      "Reference": "01EC7E:DLCCoast.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "01EC75:DLCCoast.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "014558:DLCCoast.esm",
+      "CombinedMesh": 316928405
+    },
+    {
+      "Reference": "014598:DLCCoast.esm",
+      "CombinedMesh": 976293824
+    },
+    {
+      "Reference": "0145AF:DLCCoast.esm",
+      "CombinedMesh": 2176345454
+    },
+    {
+      "Reference": "01A358:DLCCoast.esm",
+      "CombinedMesh": 82877219
+    },
+    {
+      "Reference": "032C13:DLCCoast.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "01EC22:DLCCoast.esm",
+      "CombinedMesh": 2176345454
+    },
+    {
+      "Reference": "01456A:DLCCoast.esm",
+      "CombinedMesh": 2998115747
+    },
+    {
+      "Reference": "02E715:DLCCoast.esm",
+      "CombinedMesh": 1735849388
+    },
+    {
+      "Reference": "0145EF:DLCCoast.esm",
+      "CombinedMesh": 28861806
+    },
+    {
+      "Reference": "01A356:DLCCoast.esm",
+      "CombinedMesh": 28861806
+    },
+    {
+      "Reference": "01EC27:DLCCoast.esm",
+      "CombinedMesh": 3090262729
+    },
+    {
+      "Reference": "0145B3:DLCCoast.esm",
+      "CombinedMesh": 2610039135
+    },
+    {
+      "Reference": "0145B8:DLCCoast.esm",
+      "CombinedMesh": 2867539277
+    },
+    {
+      "Reference": "01EC70:DLCCoast.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "0204F3:DLCCoast.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "0145CB:DLCCoast.esm",
+      "CombinedMesh": 28861806
+    },
+    {
+      "Reference": "02E714:DLCCoast.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "014545:DLCCoast.esm",
+      "CombinedMesh": 158464202
+    },
+    {
+      "Reference": "01EC26:DLCCoast.esm",
+      "CombinedMesh": 3090262729
+    },
+    {
+      "Reference": "01458E:DLCCoast.esm",
+      "CombinedMesh": 973764369
+    },
+    {
+      "Reference": "0280AA:DLCCoast.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "01EC71:DLCCoast.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "0280F6:DLCCoast.esm",
+      "CombinedMesh": 1556408275
+    },
+    {
+      "Reference": "0145B2:DLCCoast.esm",
+      "CombinedMesh": 2193514001
+    },
+    {
+      "Reference": "014597:DLCCoast.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "01455C:DLCCoast.esm",
+      "CombinedMesh": 82877219
+    },
+    {
+      "Reference": "014557:DLCCoast.esm",
+      "CombinedMesh": 462555487
+    },
+    {
+      "Reference": "0204F2:DLCCoast.esm",
+      "CombinedMesh": 1043282813
+    },
+    {
+      "Reference": "01EC74:DLCCoast.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "01EC7F:DLCCoast.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "0145BC:DLCCoast.esm",
+      "CombinedMesh": 3121248017
+    },
+    {
+      "Reference": "0145B7:DLCCoast.esm",
+      "CombinedMesh": 2176345454
+    },
+    {
+      "Reference": "014599:DLCCoast.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "014559:DLCCoast.esm",
+      "CombinedMesh": 462555487
+    },
+    {
+      "Reference": "0145A5:DLCCoast.esm",
+      "CombinedMesh": 28861806
+    },
+    {
+      "Reference": "01A359:DLCCoast.esm",
+      "CombinedMesh": 28861806
+    },
+    {
+      "Reference": "01455A:DLCCoast.esm",
+      "CombinedMesh": 210030716
+    },
+    {
+      "Reference": "0204F4:DLCCoast.esm",
+      "CombinedMesh": 662107564
+    },
+    {
+      "Reference": "01459A:DLCCoast.esm",
+      "CombinedMesh": 3123777472
+    },
+    {
+      "Reference": "0145BF:DLCCoast.esm",
+      "CombinedMesh": 2867539277
+    },
+    {
+      "Reference": "0145B4:DLCCoast.esm",
+      "CombinedMesh": 2464412053
+    },
+    {
+      "Reference": "01EC7C:DLCCoast.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "01A35A:DLCCoast.esm",
+      "CombinedMesh": 973764369
+    },
+    {
+      "Reference": "014548:DLCCoast.esm",
+      "CombinedMesh": 462555487
+    },
+    {
+      "Reference": "0280A9:DLCCoast.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "01EC25:DLCCoast.esm",
+      "CombinedMesh": 3090262729
+    },
+    {
+      "Reference": "014594:DLCCoast.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "0145BA:DLCCoast.esm",
+      "CombinedMesh": 3096400337
+    },
+    {
+      "Reference": "0145B1:DLCCoast.esm",
+      "CombinedMesh": 2230360867
+    },
+    {
+      "Reference": "0145D1:DLCCoast.esm",
+      "CombinedMesh": 28861806
+    },
+    {
+      "Reference": "01EC12:DLCCoast.esm",
+      "CombinedMesh": 28861806
+    },
+    {
+      "Reference": "01EC72:DLCCoast.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "01EC79:DLCCoast.esm",
+      "CombinedMesh": 2921051758
+    },
+    {
+      "Reference": "014547:DLCCoast.esm",
+      "CombinedMesh": 462555487
+    },
+    {
+      "Reference": "01458C:DLCCoast.esm",
+      "CombinedMesh": 3090262729
+    },
+    {
+      "Reference": "014595:DLCCoast.esm",
+      "CombinedMesh": 3123777472
+    },
+    {
+      "Reference": "01459E:DLCCoast.esm",
+      "CombinedMesh": 316928405
+    },
+    {
+      "Reference": "01EC73:DLCCoast.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "0145B0:DLCCoast.esm",
+      "CombinedMesh": 46030353
+    },
+    {
+      "Reference": "01459B:DLCCoast.esm",
+      "CombinedMesh": 973764369
+    },
+    {
+      "Reference": "01455B:DLCCoast.esm",
+      "CombinedMesh": 82877219
+    },
+    {
+      "Reference": "01EC38:DLCCoast.esm",
+      "CombinedMesh": 973764369
+    },
+    {
+      "Reference": "01EC7D:DLCCoast.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "0145BE:DLCCoast.esm",
+      "CombinedMesh": 2464412053
+    },
+    {
+      "Reference": "014549:DLCCoast.esm",
+      "CombinedMesh": 462555487
+    },
+    {
+      "Reference": "01EC21:DLCCoast.esm",
+      "CombinedMesh": 2176345454
+    },
+    {
+      "Reference": "01458A:DLCCoast.esm",
+      "CombinedMesh": 3090262729
+    },
+    {
+      "Reference": "01EC81:DLCCoast.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "032A66:DLCCoast.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "01458B:DLCCoast.esm",
+      "CombinedMesh": 2176345454
+    },
+    {
+      "Reference": "0280AB:DLCCoast.esm",
+      "CombinedMesh": 2075267711
+    },
+    {
+      "Reference": "0280B6:DLCCoast.esm",
+      "CombinedMesh": 1556408275
+    },
+    {
+      "Reference": "014567:DLCCoast.esm",
+      "CombinedMesh": 2711125582
+    },
+    {
+      "Reference": "01EC82:DLCCoast.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "01EC80:DLCCoast.esm",
+      "CombinedMesh": 1001525887
+    },
+    {
+      "Reference": "01EC39:DLCCoast.esm",
+      "CombinedMesh": 1001525887
+    }
+  ],
+  "Timestamp": 13442,
+  "UnknownGroupData": 399,
+  "TemporaryTimestamp": 13442,
+  "TemporaryUnknownGroupData": 399,
+  "Temporary": [
+    {
+      "MutagenObjectType": "PlacedObject",
+      "FormKey": "0280B2:DLCCoast.esm",
+      "MajorRecordFlagsRaw": 2048,
+      "VersionControl": 13442,
+      "Fallout4MajorRecordFlags": [
+        "InitiallyDisabled"
+      ],
+      "Base": "02079E:Fallout4.esm",
+      "LocationReference": "00ED4B:DLCCoast.esm",
+      "Position": "-4787.303, -61179.832, 1251.1725",
+      "Rotation": "0, 0, 3.1469908"
+    }
+  ],
+  "MajorFlags": [
+    "0x40000"
+  ]
+}
