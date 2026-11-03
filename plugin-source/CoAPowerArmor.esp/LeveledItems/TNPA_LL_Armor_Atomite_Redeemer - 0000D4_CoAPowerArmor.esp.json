@@ -1,0 +1,52 @@
+{
+  "FormKey": "0000D4:CoAPowerArmor.esp",
+  "VersionControl": 10538,
+  "EditorID": "TNPA_LL_Armor_Atomite_Redeemer",
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Reference": "000028:CoAPowerArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000025:CoAPowerArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000026:CoAPowerArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000027:CoAPowerArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "00002A:CoAPowerArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "00002B:CoAPowerArmor.esp",
+        "Count": 1
+      }
+    }
+  ]
+}

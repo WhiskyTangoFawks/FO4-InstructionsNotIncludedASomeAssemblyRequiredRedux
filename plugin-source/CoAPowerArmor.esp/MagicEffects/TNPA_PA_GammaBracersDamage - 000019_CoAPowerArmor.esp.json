@@ -1,0 +1,29 @@
+{
+  "FormKey": "000019:CoAPowerArmor.esp",
+  "VersionControl": 10494,
+  "EditorID": "TNPA_PA_GammaBracersDamage",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Gamma Bracers"
+  },
+  "Flags": [
+    "Hostile",
+    "Detrimental",
+    "NoArea"
+  ],
+  "ResistValue": "0002EA:Fallout4.esm",
+  "HitShader": "06F125:Fallout4.esm",
+  "Archetype": {
+    "MutagenObjectType": "MagicEffectArchetype",
+    "ActorValue": "0002D4:Fallout4.esm"
+  },
+  "CastType": "FireAndForget",
+  "TargetType": "Touch",
+  "DualCastScale": 1.0,
+  "CastingSoundLevel": "Normal",
+  "Sounds": [],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "FormKey": "0000E9:CoAPowerArmor.esp",
+  "VersionControl": 10538,
+  "EditorID": "TNPA_LLI_Armor_Atomite_Augur",
+  "MaxCount": 0,
+  "Entries": [
+    {
+      "Data": {
+        "Reference": "00002D:CoAPowerArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000026:CoAPowerArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000027:CoAPowerArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "000029:CoAPowerArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "00002A:CoAPowerArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "00002B:CoAPowerArmor.esp",
+        "Count": 1
+      }
+    }
+  ]
+}

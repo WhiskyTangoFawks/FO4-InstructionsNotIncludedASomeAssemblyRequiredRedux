@@ -1,0 +1,16 @@
+{
+  "FormKey": "00011E:CoAPowerArmor.esp",
+  "VersionControl": 10553,
+  "EditorID": "TNPA_DLC03QSTAtomM01WhisperLaugh2D",
+  "Data": {
+    "MutagenObjectType": "SoundDescriptorStandardData",
+    "Priority": 128,
+    "StaticAttenuation": 7.0
+  },
+  "Category": "0DDDC5:Fallout4.esm",
+  "SoundFiles": [
+    "Data\\Sound\\FX\\Tinuvia\\CoAPowerArmor\\DLC03_QST_AtomM01_WhisperALaughB_2D_01.wav"
+  ],
+  "OutputModel": "0D78B8:Fallout4.esm",
+  "LoopAndRumble": {}
+}

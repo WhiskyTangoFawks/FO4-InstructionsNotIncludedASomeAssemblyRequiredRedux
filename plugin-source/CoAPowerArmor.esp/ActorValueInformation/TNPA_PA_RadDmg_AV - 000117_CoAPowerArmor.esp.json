@@ -1,0 +1,14 @@
+{
+  "FormKey": "000117:CoAPowerArmor.esp",
+  "VersionControl": 10494,
+  "EditorID": "TNPA_PA_RadDmg_AV",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "DefaultValue": 0.0,
+  "Flags": [
+    "DefaultToZero"
+  ],
+  "Type": "Variable"
+}

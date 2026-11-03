@@ -1,0 +1,23 @@
+{
+  "FormKey": "000067:CoAPowerArmor.esp",
+  "VersionControl": 10538,
+  "EditorID": "TNPA_miscmod_Atomite_Helmet_HeadlampHelmB",
+  "ObjectBounds": {
+    "First": "-14, -4, 0",
+    "Second": "14, 5, 7"
+  },
+  "PreviewTransform": "248769:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Atomite Power Redeemer Headlamp"
+  },
+  "Model": {
+    "File": "Props\\ModsPartBox\\ModCrate.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Keywords": [
+    "135C17:Fallout4.esm"
+  ],
+  "Value": 120,
+  "Weight": 0.5
+}

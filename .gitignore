@@ -1,0 +1,7 @@
+*
+!/.gitignore
+!/.gitattributes
+!/build.json
+!/plugin-source/
+!/plugin-source/**
+!/CoA\ Power\ Armor\ -\ LBPAC\ -\ SOTS\ -\ Ashlands.manifest.json

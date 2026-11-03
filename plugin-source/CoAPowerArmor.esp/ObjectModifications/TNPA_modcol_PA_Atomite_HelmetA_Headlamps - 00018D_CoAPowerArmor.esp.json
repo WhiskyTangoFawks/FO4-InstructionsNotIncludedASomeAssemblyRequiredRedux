@@ -1,0 +1,35 @@
+{
+  "MutagenObjectType": "ObjectModification",
+  "FormKey": "00018D:CoAPowerArmor.esp",
+  "MajorRecordFlagsRaw": 128,
+  "VersionControl": 10501,
+  "EditorID": "TNPA_modcol_PA_Atomite_HelmetA_Headlamps",
+  "Fallout4MajorRecordFlags": [
+    "0x80"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "0BEE7D:Fallout4.esm",
+  "Includes": [
+    {
+      "Mod": "000180:CoAPowerArmor.esp",
+      "MinimumLevel": 1,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000185:CoAPowerArmor.esp",
+      "MinimumLevel": 1,
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000186:CoAPowerArmor.esp",
+      "MinimumLevel": 1,
+      "DoNotUseAll": true
+    }
+  ],
+  "MajorFlags": [
+    "0x80"
+  ]
+}

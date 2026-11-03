@@ -1,0 +1,36 @@
+{
+  "MutagenObjectType": "ObjectModification",
+  "FormKey": "000181:CoAPowerArmor.esp",
+  "MajorRecordFlagsRaw": 128,
+  "VersionControl": 11037,
+  "EditorID": "TNPA_modcol_PA_Atomite_Torso_Misc",
+  "Fallout4MajorRecordFlags": [
+    "0x80"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "AttachPoint": "17DAA7:Fallout4.esm",
+  "Includes": [
+    {
+      "Mod": "00017F:CoAPowerArmor.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000190:CoAPowerArmor.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "000192:CoAPowerArmor.esp",
+      "DoNotUseAll": true
+    },
+    {
+      "Mod": "0001D9:CoAPowerArmor.esp",
+      "DoNotUseAll": true
+    }
+  ],
+  "MajorFlags": [
+    "0x80"
+  ]
+}

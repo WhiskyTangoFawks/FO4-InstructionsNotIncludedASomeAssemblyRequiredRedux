@@ -1,0 +1,28 @@
+{
+  "FormKey": "000EA1:CoAPowerArmor.esp",
+  "EditorID": "TNPA_LL_Armor_Atomite",
+  "MaxCount": 0,
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0000D4:CoAPowerArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0000E9:CoAPowerArmor.esp",
+        "Count": 1
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Reference": "0001CF:CoAPowerArmor.esp",
+        "Count": 1
+      }
+    }
+  ]
+}

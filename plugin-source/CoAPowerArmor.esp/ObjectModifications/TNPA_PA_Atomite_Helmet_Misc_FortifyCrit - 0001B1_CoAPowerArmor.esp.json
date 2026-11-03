@@ -1,0 +1,47 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0001B1:CoAPowerArmor.esp",
+  "VersionControl": 10553,
+  "EditorID": "TNPA_PA_Atomite_Helmet_Misc_FortifyCrit",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Focused"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Increases the rate for critical hits by 10%."
+  },
+  "AttachPoint": "17DAA7:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "182CD5:Fallout4.esm",
+    "000007:CoAPowerArmor.esp"
+  ],
+  "LooseMod": "00006F:CoAPowerArmor.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.25,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "000020:CoAPowerArmor.esp",
+      "Value": 615,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "000014:CoAPowerArmor.esp",
+      "Value": 615,
+      "FunctionType": "Add"
+    }
+  ]
+}

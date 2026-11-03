@@ -1,0 +1,64 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "057054:DLCCoast.esm",
+  "MajorRecordFlagsRaw": 16,
+  "EditorID": "DLC03_mod_Custom_Armor_CoA_AtomsBulwark",
+  "Fallout4MajorRecordFlags": [
+    "0x10"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Atom's Bulwark"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Grants increasing Damage and Energy Resistance the higher your Rads."
+  },
+  "AttachPoint": "1E32C8:Fallout4.esm",
+  "Priority": 100,
+  "MajorFlags": [
+    "0x10"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "02F307:DLCCoast.esm",
+      "Value": 565,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "1CC46A:Fallout4.esm",
+      "Value": 566,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "1B3FAC:Fallout4.esm",
+      "Value": 566,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 4.0,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Rating",
+      "Value": 2,
+      "Value2": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "DamageTypeValue",
+      "Record": "060A81:Fallout4.esm",
+      "Value": 2.0,
+      "FunctionType": "Add"
+    }
+  ]
+}

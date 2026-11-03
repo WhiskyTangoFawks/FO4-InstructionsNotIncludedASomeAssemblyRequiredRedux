@@ -1,0 +1,48 @@
+{
+  "FormKey": "000132:CoAPowerArmor.esp",
+  "VersionControl": 10493,
+  "EditorID": "TNPA_co_PA_Atomite_Arm_Misc_Unarmed",
+  "Components": [
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 3
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "0264D8:Fallout4.esm",
+        "ParameterOneNumber": 156888
+      }
+    }
+  ],
+  "CreatedObject": "0001A8:CoAPowerArmor.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

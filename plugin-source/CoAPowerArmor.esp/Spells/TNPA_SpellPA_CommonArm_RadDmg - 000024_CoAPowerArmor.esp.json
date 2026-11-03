@@ -1,0 +1,100 @@
+{
+  "FormKey": "000024:CoAPowerArmor.esp",
+  "VersionControl": 10494,
+  "EditorID": "TNPA_SpellPA_CommonArm_RadDmg",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "PA Common Arm"
+  },
+  "EquipmentType": "013F44:Fallout4.esm",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CastType": "FireAndForget",
+  "TargetType": "Touch",
+  "Effects": [
+    {
+      "BaseEffect": "1A03FD:Fallout4.esm",
+      "Data": {
+        "Magnitude": 3.0,
+        "Duration": 3
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0xD1F590",
+          "ComparisonValue": 1.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "RunOnType": "Target",
+            "Function": "GetValue",
+            "ParameterOneRecord": "20D96F:Fallout4.esm",
+            "ParameterOneNumber": 2152815
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "1A03FD:Fallout4.esm",
+      "Data": {
+        "Magnitude": 6.0,
+        "Duration": 3
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0xD1F590",
+          "ComparisonValue": 2.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "RunOnType": "Target",
+            "Function": "GetValue",
+            "ParameterOneRecord": "20D96F:Fallout4.esm",
+            "ParameterOneNumber": 2152815
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "000019:CoAPowerArmor.esp",
+      "Data": {
+        "Magnitude": 45.0
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0xD1F590",
+          "ComparisonValue": 1.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "RunOnType": "Target",
+            "Function": "GetValue",
+            "ParameterOneRecord": "000117:CoAPowerArmor.esp",
+            "ParameterOneNumber": 117440791
+          }
+        }
+      ]
+    },
+    {
+      "BaseEffect": "000019:CoAPowerArmor.esp",
+      "Data": {
+        "Magnitude": 90.0
+      },
+      "Conditions": [
+        {
+          "MutagenObjectType": "ConditionFloat",
+          "Unknown1": "0xD1F590",
+          "ComparisonValue": 2.0,
+          "Data": {
+            "MutagenObjectType": "FunctionConditionData",
+            "RunOnType": "Target",
+            "Function": "GetValue",
+            "ParameterOneRecord": "000117:CoAPowerArmor.esp",
+            "ParameterOneNumber": 117440791
+          }
+        }
+      ]
+    }
+  ]
+}

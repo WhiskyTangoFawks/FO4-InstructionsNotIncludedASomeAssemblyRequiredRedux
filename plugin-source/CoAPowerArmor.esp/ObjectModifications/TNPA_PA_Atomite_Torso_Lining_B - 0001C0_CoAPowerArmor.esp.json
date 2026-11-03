@@ -1,0 +1,68 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0001C0:CoAPowerArmor.esp",
+  "VersionControl": 10494,
+  "EditorID": "TNPA_PA_Atomite_Torso_Lining_B",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Model B"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Consecrated Vestments. Improves Radiation Resistance"
+  },
+  "AttachPoint": "17DAA9:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFCE:Fallout4.esm",
+    "18DFC4:Fallout4.esm",
+    "000007:CoAPowerArmor.esp"
+  ],
+  "LooseMod": "000062:CoAPowerArmor.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "18816B:Fallout4.esm",
+      "Value": 615,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.05,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.05,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Rating",
+      "Value": 10,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "DamageTypeValue",
+      "Record": "060A81:Fallout4.esm",
+      "Value": 25.0,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "DamageTypeValue",
+      "Record": "060A85:Fallout4.esm",
+      "Value": 25.0,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Health",
+      "Value": 10,
+      "FunctionType": "Add"
+    }
+  ]
+}

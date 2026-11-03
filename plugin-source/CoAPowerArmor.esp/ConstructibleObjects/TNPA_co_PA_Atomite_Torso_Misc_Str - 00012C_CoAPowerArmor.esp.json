@@ -1,0 +1,48 @@
+{
+  "FormKey": "00012C:CoAPowerArmor.esp",
+  "VersionControl": 10493,
+  "EditorID": "TNPA_co_PA_Atomite_Torso_Misc_Str",
+  "Components": [
+    {
+      "Component": "01FABC:Fallout4.esm",
+      "Count": 8
+    },
+    {
+      "Component": "01FAB9:Fallout4.esm",
+      "Count": 10
+    },
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 12
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 8
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "0264DB:Fallout4.esm",
+        "ParameterOneNumber": 156891
+      }
+    }
+  ],
+  "CreatedObject": "000190:CoAPowerArmor.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

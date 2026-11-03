@@ -1,0 +1,15 @@
+{
+  "FormKey": "00013C:CoAPowerArmor.esp",
+  "VersionControl": 10494,
+  "EditorID": "TNPA_co_PA_Atomite_Arm_Lining_A",
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "000195:CoAPowerArmor.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "000171:CoAPowerArmor.esp",
+  "VersionControl": 10494,
+  "EditorID": "TNPA_PA_Atomite_Material_Explosives",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Shield of the Faithful"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Reduces Damage from explosions."
+  },
+  "AttachPoint": "17DAA8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFCB:Fallout4.esm",
+    "000007:CoAPowerArmor.esp"
+  ],
+  "LooseMod": "000055:CoAPowerArmor.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "ColorRemappingIndex",
+      "Value": 1.0
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.05,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "245AC6:Fallout4.esm",
+      "Value": 615,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "238412:Fallout4.esm",
+      "Value": 615,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "ActorValues",
+      "Record": "245AC5:Fallout4.esm",
+      "Value": 2.0,
+      "FunctionType": "Add"
+    }
+  ]
+}

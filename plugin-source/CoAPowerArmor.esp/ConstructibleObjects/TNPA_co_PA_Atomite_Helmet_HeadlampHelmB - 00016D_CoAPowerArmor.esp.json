@@ -1,0 +1,29 @@
+{
+  "FormKey": "00016D:CoAPowerArmor.esp",
+  "VersionControl": 10501,
+  "EditorID": "TNPA_co_PA_Atomite_Helmet_HeadlampHelmB",
+  "Components": [
+    {
+      "Component": "01FA9C:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAA0:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Headlamp for Atomite Th Helm."
+  },
+  "CreatedObject": "0001A1:CoAPowerArmor.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

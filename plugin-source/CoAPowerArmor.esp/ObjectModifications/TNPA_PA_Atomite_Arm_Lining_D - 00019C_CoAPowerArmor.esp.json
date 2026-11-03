@@ -1,0 +1,68 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00019C:CoAPowerArmor.esp",
+  "VersionControl": 10494,
+  "EditorID": "TNPA_PA_Atomite_Arm_Lining_D",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Model D"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Reflective Vestments. Improves Energy Resistance."
+  },
+  "AttachPoint": "17DAA9:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFC6:Fallout4.esm",
+    "18DFC4:Fallout4.esm",
+    "000007:CoAPowerArmor.esp"
+  ],
+  "LooseMod": "00004B:CoAPowerArmor.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.15,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.15,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Health",
+      "Value": 20,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Rating",
+      "Value": 5,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "18816D:Fallout4.esm",
+      "Value": 615,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "DamageTypeValue",
+      "Record": "060A81:Fallout4.esm",
+      "Value": 60.0,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "DamageTypeValue",
+      "Record": "060A85:Fallout4.esm",
+      "Value": 45.0,
+      "FunctionType": "Add"
+    }
+  ]
+}

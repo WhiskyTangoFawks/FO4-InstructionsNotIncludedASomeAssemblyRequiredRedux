@@ -1,0 +1,61 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0001A9:CoAPowerArmor.esp",
+  "VersionControl": 11037,
+  "EditorID": "TNPA_PA_Atomite_Arm_Misc_RadDmg",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Gamma Bracers"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Adds Radiation damage to Unarmed attacks."
+  },
+  "AttachPoint": "17DAA7:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFC6:Fallout4.esm",
+    "000007:CoAPowerArmor.esp"
+  ],
+  "LooseMod": "000076:CoAPowerArmor.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.25,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "000021:CoAPowerArmor.esp",
+      "Value": 615,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "000011:CoAPowerArmor.esp",
+      "Value": 615,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "000010:CoAPowerArmor.esp",
+      "Value": 615,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "ActorValues",
+      "Record": "000117:CoAPowerArmor.esp",
+      "Value": 1.0,
+      "FunctionType": "Add"
+    }
+  ]
+}

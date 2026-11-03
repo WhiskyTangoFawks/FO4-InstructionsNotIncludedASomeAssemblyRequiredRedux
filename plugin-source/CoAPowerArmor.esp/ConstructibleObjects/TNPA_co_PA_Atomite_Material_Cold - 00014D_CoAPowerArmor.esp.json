@@ -1,0 +1,29 @@
+{
+  "FormKey": "00014D:CoAPowerArmor.esp",
+  "VersionControl": 10494,
+  "EditorID": "TNPA_co_PA_Atomite_Material_Cold",
+  "Components": [
+    {
+      "Component": "01FAB9:Fallout4.esm",
+      "Count": 6
+    },
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 3
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 4
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "000173:CoAPowerArmor.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "FormKey": "000163:CoAPowerArmor.esp",
+  "VersionControl": 10498,
+  "EditorID": "TNPA_co_Armor_Power_Atomite_TorsoC",
+  "Components": [
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FA97:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 6
+    },
+    {
+      "Component": "03D294:Fallout4.esm",
+      "Count": 4
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "00002C:CoAPowerArmor.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

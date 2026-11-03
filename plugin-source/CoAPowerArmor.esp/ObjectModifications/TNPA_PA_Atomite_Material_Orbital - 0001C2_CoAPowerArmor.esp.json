@@ -1,0 +1,60 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0001C2:CoAPowerArmor.esp",
+  "VersionControl": 10493,
+  "EditorID": "TNPA_PA_Atomite_Material_Orbital",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Conviction"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Increases Charisma with all pieces painted."
+  },
+  "AttachPoint": "17DAA8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFCB:Fallout4.esm",
+    "000007:CoAPowerArmor.esp"
+  ],
+  "LooseMod": "000046:CoAPowerArmor.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "ColorRemappingIndex",
+      "Value": 0.72,
+      "Value2": 0.72
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.05,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "238382:Fallout4.esm",
+      "Value": 615,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "00000B:CoAPowerArmor.esp",
+      "Value": 615,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "ActorValues",
+      "Record": "23C9DF:Fallout4.esm",
+      "Value": 1.0,
+      "FunctionType": "Add"
+    }
+  ]
+}

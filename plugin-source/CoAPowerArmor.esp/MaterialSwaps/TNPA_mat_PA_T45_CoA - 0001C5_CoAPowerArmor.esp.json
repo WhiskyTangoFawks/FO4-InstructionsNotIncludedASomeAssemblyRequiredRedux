@@ -1,0 +1,23 @@
+{
+  "FormKey": "0001C5:CoAPowerArmor.esp",
+  "VersionControl": 10483,
+  "EditorID": "TNPA_mat_PA_T45_CoA",
+  "Substitutions": [
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\T45arm01.BGSM",
+      "ReplacementMaterial": "Tinuvia\\CoAPowerArmor\\T45ArmCoA.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\T45helmet01.BGSM",
+      "ReplacementMaterial": "Tinuvia\\CoAPowerArmor\\T45HelmetCoA.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\T45leg01.BGSM",
+      "ReplacementMaterial": "Tinuvia\\CoAPowerArmor\\T45LegCoA.BGSM"
+    },
+    {
+      "OriginalMaterial": "actors\\PowerArmor\\T45body01.BGSM",
+      "ReplacementMaterial": "Tinuvia\\CoAPowerArmor\\T45BodyCoA.BGSM"
+    }
+  ]
+}

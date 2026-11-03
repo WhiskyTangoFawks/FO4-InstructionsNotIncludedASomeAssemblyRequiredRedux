@@ -1,0 +1,33 @@
+{
+  "FormKey": "000140:CoAPowerArmor.esp",
+  "VersionControl": 10493,
+  "EditorID": "TNPA_co_Armor_Power_Atomite_LegRight",
+  "Components": [
+    {
+      "Component": "01FABD:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAB0:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FA97:Fallout4.esm",
+      "Count": 2
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "00002A:CoAPowerArmor.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

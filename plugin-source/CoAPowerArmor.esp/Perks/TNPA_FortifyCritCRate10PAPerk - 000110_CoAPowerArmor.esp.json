@@ -1,0 +1,33 @@
+{
+  "FormKey": "000110:CoAPowerArmor.esp",
+  "MajorRecordFlagsRaw": 4,
+  "VersionControl": 10502,
+  "EditorID": "TNPA_FortifyCritCRate10PAPerk",
+  "Fallout4MajorRecordFlags": [
+    "NotPlayable"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "FortifyCritChance10xPAPerk"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "10% Crit Chance"
+  },
+  "Level": 1,
+  "NumRanks": 1,
+  "Hidden": true,
+  "Effects": [
+    {
+      "MutagenObjectType": "PerkEntryPointModifyValue",
+      "PerkEntryID": 0,
+      "EntryPoint": "ModMyCriticalHitChance",
+      "PerkConditionTabCount": 3,
+      "Modification": "Add",
+      "Value": 10.0
+    }
+  ],
+  "MajorFlags": [
+    "NonPlayable"
+  ]
+}

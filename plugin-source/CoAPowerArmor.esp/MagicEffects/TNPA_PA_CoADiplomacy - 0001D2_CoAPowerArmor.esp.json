@@ -1,0 +1,42 @@
+{
+  "FormKey": "0001D2:CoAPowerArmor.esp",
+  "VersionControl": 10807,
+  "EditorID": "TNPA_PA_CoADiplomacy",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "TNPA:CoADiplomacyEffect",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "PlayerRef",
+            "Object": "000014:Fallout4.esm"
+          },
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "ChildrenOfAtomFaction",
+            "Object": "02FB84:Fallout4.esm"
+          }
+        ]
+      }
+    ]
+  },
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Atom's Ally"
+  },
+  "Flags": [
+    "NoArea"
+  ],
+  "Archetype": {
+    "MutagenObjectType": "MagicEffectArchetype",
+    "Type": "Script"
+  },
+  "DualCastScale": 1.0,
+  "CastingSoundLevel": "Normal",
+  "Sounds": [],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  }
+}

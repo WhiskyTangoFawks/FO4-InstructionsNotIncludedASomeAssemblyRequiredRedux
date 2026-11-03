@@ -1,0 +1,27 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "0001C1:CoAPowerArmor.esp",
+  "VersionControl": 10494,
+  "EditorID": "TNPA_PA_Atomite_Torso_Lining_A",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Model A"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Standard."
+  },
+  "AttachPoint": "17DAA9:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFCE:Fallout4.esm",
+    "18DFC4:Fallout4.esm",
+    "000007:CoAPowerArmor.esp"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "ColorRemappingIndex",
+      "Value": 0.66
+    }
+  ]
+}

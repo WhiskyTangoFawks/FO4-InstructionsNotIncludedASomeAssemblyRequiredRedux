@@ -1,0 +1,48 @@
+{
+  "FormKey": "00014C:CoAPowerArmor.esp",
+  "VersionControl": 10494,
+  "EditorID": "TNPA_co_PA_Atomite_Material_Energy",
+  "Components": [
+    {
+      "Component": "01FAB9:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAB3:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 4
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "0264DA:Fallout4.esm",
+        "ParameterOneNumber": 156890
+      }
+    }
+  ],
+  "CreatedObject": "000172:CoAPowerArmor.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

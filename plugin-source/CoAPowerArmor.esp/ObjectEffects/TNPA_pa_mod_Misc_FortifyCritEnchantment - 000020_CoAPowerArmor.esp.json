@@ -1,0 +1,18 @@
+{
+  "FormKey": "000020:CoAPowerArmor.esp",
+  "VersionControl": 10502,
+  "EditorID": "TNPA_pa_mod_Misc_FortifyCritEnchantment",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Fortify Criticals by 10%"
+  },
+  "EnchantType": "Enchantment",
+  "Effects": [
+    {
+      "BaseEffect": "00001B:CoAPowerArmor.esp",
+      "Data": {
+        "Magnitude": 1.0
+      }
+    }
+  ]
+}

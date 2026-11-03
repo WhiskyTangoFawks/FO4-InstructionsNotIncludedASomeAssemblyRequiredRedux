@@ -1,0 +1,20 @@
+{
+  "FormKey": "000017:CoAPowerArmor.esp",
+  "VersionControl": 10494,
+  "EditorID": "TNPA_pa_mod_Lining_FieldGen_Radiation_CloakEffect",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "FieldGen Radiation Cloak 4"
+  },
+  "Archetype": {
+    "MutagenObjectType": "MagicEffectCloakArchetype",
+    "Association": "000022:CoAPowerArmor.esp"
+  },
+  "DualCastScale": 1.0,
+  "CastingSoundLevel": "Normal",
+  "Sounds": [],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  }
+}

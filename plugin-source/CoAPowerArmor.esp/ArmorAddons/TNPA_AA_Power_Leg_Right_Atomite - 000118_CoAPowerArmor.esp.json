@@ -1,0 +1,34 @@
+{
+  "FormKey": "000118:CoAPowerArmor.esp",
+  "VersionControl": 10483,
+  "EditorID": "TNPA_AA_Power_Leg_Right_Atomite",
+  "BodyTemplate": {
+    "FirstPersonFlags": [
+      "RightLegArmor"
+    ]
+  },
+  "Race": "013746:Fallout4.esm",
+  "Priority": {
+    "Male": 0,
+    "Female": 0
+  },
+  "WeightSliderEnabled": {
+    "Male": false,
+    "Female": false
+  },
+  "WorldModel": {
+    "Male": {
+      "File": "Armor\\PowerArmor\\ArmorPARightLeg.nif",
+      "Data": "0x0400000000000000000000000000000000000000"
+    }
+  },
+  "AdditionalRaces": [
+    "0EAFB6:Fallout4.esm",
+    "01D31E:Fallout4.esm",
+    "0E8D09:Fallout4.esm",
+    "10BD65:Fallout4.esm",
+    "2261A4:Fallout4.esm"
+  ],
+  "FootstepSound": "021ADC:Fallout4.esm",
+  "BoneData": {}
+}

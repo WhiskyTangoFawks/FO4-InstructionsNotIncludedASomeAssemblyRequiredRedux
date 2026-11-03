@@ -1,0 +1,47 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "00016E:CoAPowerArmor.esp",
+  "VersionControl": 10494,
+  "EditorID": "TNPA_PA_Atomite_Material_Titanium",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Zealots Carapace"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Increases Armor Health."
+  },
+  "AttachPoint": "17DAA8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFCB:Fallout4.esm",
+    "000007:CoAPowerArmor.esp"
+  ],
+  "LooseMod": "000053:CoAPowerArmor.esp",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.05,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Health",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "188166:Fallout4.esm",
+      "Value": 615,
+      "FunctionType": "Add"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "FormKey": "000148:CoAPowerArmor.esp",
+  "VersionControl": 10509,
+  "EditorID": "TNPA_co_PA_Atomite_Material_Orbital",
+  "Components": [
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 4
+    },
+    {
+      "Component": "01FAB3:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB4:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "Function": "GetGlobalValue",
+        "ParameterOneRecord": "000015:CoAPowerArmor.esp",
+        "ParameterOneNumber": 117440533
+      }
+    }
+  ],
+  "CreatedObject": "0001C2:CoAPowerArmor.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

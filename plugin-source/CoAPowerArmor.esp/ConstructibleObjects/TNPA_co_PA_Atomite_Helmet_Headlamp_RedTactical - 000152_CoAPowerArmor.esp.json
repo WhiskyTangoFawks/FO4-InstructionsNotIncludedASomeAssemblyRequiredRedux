@@ -1,0 +1,48 @@
+{
+  "FormKey": "000152:CoAPowerArmor.esp",
+  "VersionControl": 10501,
+  "EditorID": "TNPA_co_PA_Atomite_Helmet_Headlamp_RedTactical",
+  "Components": [
+    {
+      "Component": "01FAA0:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FA91:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FA9C:Fallout4.esm",
+      "Count": 1
+    },
+    {
+      "Component": "01FAB3:Fallout4.esm",
+      "Count": 1
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Conditions": [
+    {
+      "MutagenObjectType": "ConditionFloat",
+      "Unknown1": "0x000000",
+      "ComparisonValue": 1.0,
+      "Data": {
+        "MutagenObjectType": "FunctionConditionData",
+        "RunOnType": "Reference",
+        "Reference": "000014:Fallout4.esm",
+        "Function": "HasPerk",
+        "ParameterOneRecord": "0264D9:Fallout4.esm",
+        "ParameterOneNumber": 156889
+      }
+    }
+  ],
+  "CreatedObject": "000186:CoAPowerArmor.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

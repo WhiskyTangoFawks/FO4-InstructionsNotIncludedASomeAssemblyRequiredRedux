@@ -1,0 +1,307 @@
+{
+  "FormKey": "000029:CoAPowerArmor.esp",
+  "VersionControl": 11068,
+  "EditorID": "TNPA_Armor_Power_Atomite_TorsoA",
+  "PreviewTransform": "2490AB:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Atomite Augur Chest Piece"
+  },
+  "WorldModel": {
+    "Male": {
+      "Model": {
+        "File": "Tinuvia\\CoAPowerArmor\\GO_CoAJunkBodyA.nif",
+        "Data": "0x0400000000000000000000000000000000000000"
+      }
+    }
+  },
+  "BipedBodyTemplate": {
+    "FirstPersonFlags": [
+      "TorsoArmor"
+    ]
+  },
+  "Race": "013746:Fallout4.esm",
+  "Keywords": [
+    "04D8A1:Fallout4.esm",
+    "18DFCE:Fallout4.esm",
+    "1CC46A:Fallout4.esm",
+    "00000D:CoAPowerArmor.esp",
+    "18DFC4:Fallout4.esm",
+    "18DFCB:Fallout4.esm",
+    "18DFC7:Fallout4.esm",
+    "07820B:Fallout4.esm",
+    "000008:CoAPowerArmor.esp",
+    "000007:CoAPowerArmor.esp",
+    "000001:CoAPowerArmor.esp",
+    "0001EB:CoAPowerArmor.esp"
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Atomite Mo Torso Armor"
+  },
+  "InstanceNaming": "0001C7:CoAPowerArmor.esp",
+  "Armatures": [
+    {
+      "AddonIndex": 0,
+      "ArmorAddon": "140C41:Fallout4.esm"
+    }
+  ],
+  "Value": 140,
+  "Weight": 20.0,
+  "Health": 200,
+  "ArmorRating": 100,
+  "Unused": "0x000000",
+  "Resistances": [
+    {
+      "DamageType": "060A81:Fallout4.esm",
+      "Value": 90
+    },
+    {
+      "DamageType": "060A85:Fallout4.esm",
+      "Value": 150
+    }
+  ],
+  "AttachParentSlots": [
+    "055F8C:Fallout4.esm",
+    "1E32C8:Fallout4.esm"
+  ],
+  "ObjectTemplates": [
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Standard"
+      },
+      "Default": true,
+      "Keywords": [
+        "197DEE:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "000182:CoAPowerArmor.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0001C1:CoAPowerArmor.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Name": {
+        "TargetLanguage": "English",
+        "Value": "Standard, any lining"
+      },
+      "Keywords": [
+        "190F55:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "000182:CoAPowerArmor.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "000193:CoAPowerArmor.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Keywords": [
+        "191648:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "000182:CoAPowerArmor.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0001C0:CoAPowerArmor.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Keywords": [
+        "192D99:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "000182:CoAPowerArmor.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0001BF:CoAPowerArmor.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Keywords": [
+        "192D9A:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "000182:CoAPowerArmor.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0001BD:CoAPowerArmor.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Keywords": [
+        "192D9B:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "000182:CoAPowerArmor.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "0001BE:CoAPowerArmor.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "IsEditorOnly": true,
+      "Keywords": [
+        "192D9C:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "000182:CoAPowerArmor.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "000178:CoAPowerArmor.esp",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3B:Fallout4.esm",
+          "DontUseAll": true
+        },
+        {
+          "Mod": "077D3A:Fallout4.esm",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "AddonIndex": 2,
+      "Keywords": [
+        "219C2B:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "000181:CoAPowerArmor.esp",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "AddonIndex": 3,
+      "Keywords": [
+        "219C2B:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "000181:CoAPowerArmor.esp",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "AddonIndex": 4,
+      "Keywords": [
+        "219C2B:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "000181:CoAPowerArmor.esp",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "AddonIndex": 5,
+      "Keywords": [
+        "219C2B:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "000181:CoAPowerArmor.esp",
+          "DontUseAll": true
+        }
+      ]
+    },
+    {
+      "AddonIndex": 6,
+      "Keywords": [
+        "219C2B:Fallout4.esm"
+      ],
+      "Includes": [
+        {
+          "Mod": "000181:CoAPowerArmor.esp",
+          "DontUseAll": true
+        }
+      ]
+    }
+  ]
+}

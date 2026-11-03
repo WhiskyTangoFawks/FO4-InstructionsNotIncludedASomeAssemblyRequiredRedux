@@ -1,0 +1,25 @@
+{
+  "FormKey": "000157:CoAPowerArmor.esp",
+  "VersionControl": 10494,
+  "EditorID": "TNPA_co_PA_Atomite_Leg_Lining_B",
+  "Components": [
+    {
+      "Component": "01FAA5:Fallout4.esm",
+      "Count": 2
+    },
+    {
+      "Component": "1223C7:Fallout4.esm",
+      "Count": 3
+    }
+  ],
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "CreatedObject": "0001B3:CoAPowerArmor.esp",
+  "CreatedObjectCounts": [
+    {
+      "Count": 1
+    }
+  ]
+}

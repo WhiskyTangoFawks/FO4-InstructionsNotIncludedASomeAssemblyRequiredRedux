@@ -1,0 +1,23 @@
+{
+  "FormKey": "00003E:CoAPowerArmor.esp",
+  "VersionControl": 10483,
+  "EditorID": "TNPA_miscmod_Atomite_Leg_Misc_OptimizedServos",
+  "ObjectBounds": {
+    "First": "-14, -4, 0",
+    "Second": "14, 5, 7"
+  },
+  "PreviewTransform": "248769:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Atomite Optimized Servos"
+  },
+  "Model": {
+    "File": "Props\\ModsPartBox\\ModCrate.nif",
+    "Data": "0x0400000000000000000000000000000000000000"
+  },
+  "Keywords": [
+    "135C17:Fallout4.esm"
+  ],
+  "Value": 122,
+  "Weight": 0.5
+}

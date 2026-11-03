@@ -1,0 +1,18 @@
+{
+  "FormKey": "000021:CoAPowerArmor.esp",
+  "VersionControl": 10494,
+  "EditorID": "TNPA_EnchPA_CommonArm_Rad",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "PA Common Arm (Rad)"
+  },
+  "EnchantType": "Enchantment",
+  "Effects": [
+    {
+      "BaseEffect": "00001A:CoAPowerArmor.esp",
+      "Data": {
+        "Magnitude": 1.0
+      }
+    }
+  ]
+}

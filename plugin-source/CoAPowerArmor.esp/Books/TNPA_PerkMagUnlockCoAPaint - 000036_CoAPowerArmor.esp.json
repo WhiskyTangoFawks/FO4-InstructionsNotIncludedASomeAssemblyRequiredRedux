@@ -1,0 +1,67 @@
+{
+  "FormKey": "000036:CoAPowerArmor.esp",
+  "VersionControl": 10540,
+  "EditorID": "TNPA_PerkMagUnlockCoAPaint",
+  "VirtualMachineAdapter": {
+    "Scripts": [
+      {
+        "Name": "MagStageScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "PerksQuest",
+            "Object": "00010C:CoAPowerArmor.esp"
+          },
+          {
+            "MutagenObjectType": "ScriptIntProperty",
+            "Name": "StageToSet",
+            "Data": 30
+          }
+        ]
+      },
+      {
+        "Name": "CA_SkillMagazineScript",
+        "Properties": [
+          {
+            "MutagenObjectType": "ScriptObjectProperty",
+            "Name": "CA_Event_ReadSkillBook",
+            "Object": "0A1B47:Fallout4.esm"
+          }
+        ]
+      }
+    ]
+  },
+  "ObjectBounds": {
+    "First": "-10, -7, 0",
+    "Second": "11, 8, 0"
+  },
+  "PreviewTransform": "1E2EAD:Fallout4.esm",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Atom's Hot Paint"
+  },
+  "Model": {
+    "File": "Props\\GrognakComic\\Comic_GrognakApr.nif",
+    "Data": "0x0400000000000000000000000000000000000000",
+    "MaterialSwap": "0001C6:CoAPowerArmor.esp"
+  },
+  "BookText": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "Keywords": [
+    "1B3FAC:Fallout4.esm",
+    "1D4A70:Fallout4.esm"
+  ],
+  "FeaturedItemMessage": "00011C:CoAPowerArmor.esp",
+  "Value": 100,
+  "Teaches": {
+    "MutagenObjectType": "BookTeachesNothing",
+    "RawContent": 0
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": ""
+  },
+  "InventoryArt": "000078:CoAPowerArmor.esp"
+}
