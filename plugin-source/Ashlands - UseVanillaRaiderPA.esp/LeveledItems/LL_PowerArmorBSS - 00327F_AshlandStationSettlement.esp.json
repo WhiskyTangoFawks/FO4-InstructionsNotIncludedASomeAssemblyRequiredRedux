@@ -1,0 +1,64 @@
+{
+  "FormKey": "00327F:AshlandStationSettlement.esp",
+  "EditorID": "LL_PowerArmorBSS",
+  "MaxCount": 0,
+  "Flags": [
+    "UseAll"
+  ],
+  "Entries": [
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": 28703,
+        "Reference": "18AE1F:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": 28703,
+        "Reference": "18AE20:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": 28703,
+        "Reference": "18AE21:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": 28703,
+        "Reference": "18AE22:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": 28703,
+        "Reference": "18AE23:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    },
+    {
+      "Data": {
+        "Level": 1,
+        "Unused": 28703,
+        "Reference": "18AE24:Fallout4.esm",
+        "Count": 1,
+        "Unused2": 3
+      }
+    }
+  ]
+}

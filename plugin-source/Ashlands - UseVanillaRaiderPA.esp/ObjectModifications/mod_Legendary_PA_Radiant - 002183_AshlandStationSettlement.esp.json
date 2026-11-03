@@ -1,0 +1,64 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "002183:AshlandStationSettlement.esp",
+  "MajorRecordFlagsRaw": 16,
+  "EditorID": "mod_Legendary_PA_Radiant",
+  "Fallout4MajorRecordFlags": [
+    "0x10"
+  ],
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Radiant"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "30% chance emit an energy burst dealing 100 rads and 25 energy damage to melee attackers, once every 20 seconds."
+  },
+  "AttachPoint": "1E32C8:Fallout4.esm",
+  "Priority": 100,
+  "MajorFlags": [
+    "0x10"
+  ],
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "002181:AshlandStationSettlement.esp",
+      "Value": 510,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "1CC46A:Fallout4.esm",
+      "Value": 510,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "1B3FAC:Fallout4.esm",
+      "Value": 510,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 4.0,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModIntProperty<Armor+Property>",
+      "Property": "Rating",
+      "Value": 2,
+      "Value2": 1,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "00217E:AshlandStationSettlement.esp",
+      "Value": 510,
+      "FunctionType": "Add"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+"version":1,
+"packages":[
+{"kind":"installationFile","name":"Ashlands - SouthOfTheSea Patch-103268-1-1776059168.7z","packageVersion":"1.0.0.0","size":977,"hash":"pNFrb97It/g=","host":{"nexus":{"game":"fallout4","mod":103268,"file":393216}}}
+]
+}

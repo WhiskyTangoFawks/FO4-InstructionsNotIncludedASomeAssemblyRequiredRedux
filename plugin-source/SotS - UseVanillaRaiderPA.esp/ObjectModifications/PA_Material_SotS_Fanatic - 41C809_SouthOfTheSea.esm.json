@@ -1,0 +1,60 @@
+{
+  "MutagenObjectType": "ArmorModification",
+  "FormKey": "41C809:SouthOfTheSea.esm",
+  "EditorID": "PA_Material_SotS_Fanatic",
+  "Name": {
+    "TargetLanguage": "English",
+    "Value": "Fanatic Graffiti"
+  },
+  "Description": {
+    "TargetLanguage": "English",
+    "Value": "Reduces damage from explosions."
+  },
+  "AttachPoint": "17DAA8:Fallout4.esm",
+  "TargetOmodKeywords": [
+    "18DFCB:Fallout4.esm",
+    "078593:Fallout4.esm"
+  ],
+  "LooseMod": "41C805:SouthOfTheSea.esm",
+  "Properties": [
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Record": "245AC6:Fallout4.esm",
+      "Value": 517,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "Keywords",
+      "Record": "41C803:SouthOfTheSea.esm",
+      "Value": 518,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Weight",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFloatProperty<Armor+Property>",
+      "Property": "Value",
+      "Value": 0.1,
+      "FunctionType": "MultAndAdd"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkFloatProperty<Armor+Property>",
+      "Property": "ActorValues",
+      "Record": "245AC5:Fallout4.esm",
+      "Value": 2.0,
+      "FunctionType": "Add"
+    },
+    {
+      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
+      "Property": "MaterialSwaps",
+      "Record": "41C807:SouthOfTheSea.esm",
+      "Value": 518,
+      "FunctionType": "Add"
+    }
+  ]
+}
