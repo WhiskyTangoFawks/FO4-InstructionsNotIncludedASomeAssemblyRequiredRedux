@@ -8,7 +8,7 @@ Rarity follows the setting ([principles](principles.md), The world is plausible)
 
 - Raider pieces come from the raiders who wear them, and T-45 and T-51 pieces lie scattered across the Commonwealth, most where the military or a faction would have kept them. A place that held a full frame holds one or two pieces.
 - X-01 exists as one set, scattered piece by piece.
-- T-60 comes only from the Brotherhood of Steel.
+- T-60 comes only from the Brotherhood of Steel, and X-02 from the Enclave, which America Rising 2 adds.
 - Where a vanilla frame stood, a supply cache stands: chems, weapons, ammo and explosives.
 - A power armor spawn that remains is the raider or T-45 suit its enemies would wear, and does not return when its cell resets. A boss that spawns already in power armor is unchanged.
 - A showpiece suit is standard T-51 at 1% health, with a display lining.
@@ -36,6 +36,7 @@ Each suit is the best choice for something and pays for it elsewhere ([principle
 | T-45 | Decent protection that is easy to keep repaired | The least protection of the military suits |
 | T-51 | The best protection, and the widest high-tech mods, the jetpack among them | The costliest repairs, in material and perks |
 | T-60 | Versatility: the best fuel economy, radiation protection | Less protection than T-51, and Science to repair |
+| X-02 | The Enclave's suit, as T-60 is the Brotherhood's: T-60's versatility for a player who sides with the Enclave | Numbers near T-60's, and Science to repair |
 | X-01 | A testbed that takes almost any mod, with far more health than T-51 | Less armor than T-51, and one set to find |
 | Hellfire | Hazardous environments: the most health and radiation resistance of any suit | Less armor than T-51 and X-01 |
 
