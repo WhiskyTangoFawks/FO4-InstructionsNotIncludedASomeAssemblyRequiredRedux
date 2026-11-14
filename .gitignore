@@ -8,3 +8,5 @@
 !/SomeAssemblyRequired_SWAP.ini
 !/Scripts/
 !/Scripts/**
+!/spec/
+!/spec/**
