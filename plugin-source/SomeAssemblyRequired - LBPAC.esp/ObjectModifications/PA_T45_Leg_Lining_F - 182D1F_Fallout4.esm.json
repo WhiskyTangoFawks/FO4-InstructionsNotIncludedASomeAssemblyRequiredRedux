@@ -20,7 +20,7 @@
   "Properties": [
     {
       "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
-      "Record": "000808:SomeAssemblyRequired - LBPAC.esp",
+      "Record": "17FE23:Fallout4.esm",
       "Value": 651,
       "FunctionType": "Add"
     },

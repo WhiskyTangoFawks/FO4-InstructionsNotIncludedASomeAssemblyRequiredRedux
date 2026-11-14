@@ -5,21 +5,6 @@
   "VirtualMachineAdapter": {
     "Scripts": [
       {
-        "Name": "MagStageScript",
-        "Properties": [
-          {
-            "MutagenObjectType": "ScriptObjectProperty",
-            "Name": "PerksQuest",
-            "Object": "00010C:CoAPowerArmor.esp"
-          },
-          {
-            "MutagenObjectType": "ScriptIntProperty",
-            "Name": "StageToSet",
-            "Data": 30
-          }
-        ]
-      },
-      {
         "Name": "CA_SkillMagazineScript",
         "Properties": [
           {

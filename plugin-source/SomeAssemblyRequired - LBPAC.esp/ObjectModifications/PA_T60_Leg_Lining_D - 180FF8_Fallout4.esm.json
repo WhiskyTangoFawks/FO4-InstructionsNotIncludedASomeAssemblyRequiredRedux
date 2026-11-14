@@ -44,12 +44,6 @@
     },
     {
       "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
-      "Record": "000806:SomeAssemblyRequired - LBPAC.esp",
-      "Value": 651,
-      "FunctionType": "Add"
-    },
-    {
-      "MutagenObjectType": "ObjectModFormLinkIntProperty<Armor+Property>",
       "Property": "Keywords",
       "Record": "18816D:Fallout4.esm",
       "Value": 651,
